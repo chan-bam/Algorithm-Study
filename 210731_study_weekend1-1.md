@@ -1,4 +1,4 @@
-## 210731 스터디 (BEAKJOON, SWEA) _주말과제1
+## 210731 스터디 (BEAKJOON, SWEA) _주말과제1-1
 
 #### SWEA
 
