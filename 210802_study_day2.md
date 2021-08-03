@@ -1,4 +1,4 @@
-## 210729 스터디 (BEAKJOON, SWEA) _day1
+## 210802 스터디 (BEAKJOON, SWEA) _day2
 
 #### BEAKJOON
 
