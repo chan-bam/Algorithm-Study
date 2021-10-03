@@ -166,9 +166,9 @@
 |  11  | silver4 | [10157](https://www.acmicpc.net/problem/10157) |               자리배정                |      |      |
 |  12  | sivler4 | [10158](https://www.acmicpc.net/problem/10158) |                 개미                  |      |      |
 |  13  | bronze1 |   [10163](https://www.acmicpc.net/problem/)    |                색종이                 |      |      |
-|  14  | bronze2 | [13300](https://www.acmicpc.net/problem/13300) |                방 배정                |      |      |
+|  14  | bronze2 | [13300](https://www.acmicpc.net/problem/13300) |                방 배정                |  ✔   |      |
 |  15  | bronze1 | [14696](https://www.acmicpc.net/problem/14696) |               딱지놀이                |      |      |
-|  16  | bornze2 |  [2309](https://www.acmicpc.net/problem/2309)  |              일곱 난쟁이              |  ✔   |      |
+|  16  | bronze2 |  [2309](https://www.acmicpc.net/problem/2309)  |              일곱 난쟁이              |  ✔   |      |
 |  17  | bronze2 |  [2605](https://www.acmicpc.net/problem/2605)  |               줄 세우기               |  ✔   |      |
 |  18  | silver5 |  [2563](https://www.acmicpc.net/problem/2563)  |                색종이                 |      |      |
 |  19  | silver1 |  [2564](https://www.acmicpc.net/problem/2564)  |                경비원                 |      |      |
