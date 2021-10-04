@@ -82,9 +82,9 @@
 |  6   | List2  |   D3   |   4837   | 부분집합의 합 |  ✔   |  ⭕   |   ➡    |
 |  7   | List2  |   D2   |   4839   |   이진탐색    |  ✔   |  ⭕   |   ⬆    |
 |  8   | List2  |   D3   |   4843   |  특별한 정렬  |  ✔   |      |   ⬆    |
-|  9   | String |   D2   |   4864   |  문자열 비교  |      |      |        |
-|  10  | String |   D2   |   4861   |     회문      |      |      |        |
-|  11  | String |   D2   |   4865   |    글자수     |      |      |        |
+|  9   | String |   D2   |   4864   |  문자열 비교  |  ✔   |      |   ⬆    |
+|  10  | String |   D2   |   4861   |     회문      |  ✔   |  ⭕   |   ➡    |
+|  11  | String |   D2   |   4865   |    글자수     |  ✔   |      |   ⬆    |
 
 #### Algorithm - Solving Club (SSAFY 6th)
 
@@ -143,7 +143,7 @@
 |  3   | silver4 | [12927](https://www.acmicpc.net/problem/12927) |    배수 스위치    |  ✔   |    ⭕ (IM)     |
 |  4   | silver5 |  [1789](https://www.acmicpc.net/problem/1789)  |     수들의 합     |  ✔   |       ⭕       |
 |  5   | silver4 |  [1980](https://www.acmicpc.net/problem/1980)  |    햄버거 사랑    |      |       ⭕       |
-|  6   | silver4 |  [1120](https://www.acmicpc.net/problem/1120)  |      문자열       |      |               |
+|  6   | silver4 |  [1120](https://www.acmicpc.net/problem/1120)  |      문자열       |  ✔   |       ⭕       |
 |  7   | silver3 | [16922](https://www.acmicpc.net/problem/16922) | 로마 숫자 만들기  |      |               |
 |  8   | silver4 | [10158](https://www.acmicpc.net/problem/10158) |       개미        |      | (IM대비-중복) |
 
