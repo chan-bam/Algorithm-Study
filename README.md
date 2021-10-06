@@ -144,7 +144,7 @@
 |  4   | silver5 |  [1789](https://www.acmicpc.net/problem/1789)  |     수들의 합     |  ✔   |       ⭕       |
 |  5   | silver4 |  [1980](https://www.acmicpc.net/problem/1980)  |    햄버거 사랑    |      |       ⭕       |
 |  6   | silver4 |  [1120](https://www.acmicpc.net/problem/1120)  |      문자열       |  ✔   |       ⭕       |
-|  7   | silver3 | [16922](https://www.acmicpc.net/problem/16922) | 로마 숫자 만들기  |      |               |
+|  7   | silver3 | [16922](https://www.acmicpc.net/problem/16922) | 로마 숫자 만들기  |  ✔   |       ⭕       |
 |  8   | silver4 | [10158](https://www.acmicpc.net/problem/10158) |       개미        |      | (IM대비-중복) |
 
 #### 삼성 SW 역량테스트 (IM) 대비 문제
@@ -235,7 +235,7 @@
 |  8   |    기본 수학1     | 8-3  | bronze1 |                     1193                     |           분수찾기           |      |      |
 |  8   |    기본 수학1     | 8-4  | bronze1 |                     2869                     |    달팽이는 올라가고 싶다    |      |      |
 |  8   |    기본 수학1     | 8-5  | bronze3 |                    10250                     |           ACM 호텔           |      |      |
-|  8   |    기본 수학1     | 8-6  | bronze2 |                     2775                     |      부녀회장이 될테야       |      |      |
+|  8   |    기본 수학1     | 8-6  | bronze2 |                     2775                     |      부녀회장이 될테야       |  ✔   |  ⭕   |
 |  8   |    기본 수학1     | 8-7  | bronze1 |                     2839                     |           설탕배달           |  ✔   |  ⭕   |
 |  8   |    기본 수학1     | 8-8  | bronze5 |                    10757                     |          큰 수 A+B           |  ✔   |      |
 |  8   |    기본 수학1     | 8-9  |  gold5  |                     1011                     | Fly me to the Alpha Centauri |      |      |
