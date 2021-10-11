@@ -1,11 +1,14 @@
 # 백준 2309 일곱난쟁이 # 브론즈2
 # 부분집합
 
+# 난쟁이의 수가 고정이므로 7난쟁이가 아닌... 9 난쟁이 키의 합과 7난쟁이 키의 합의 차이만큼만 구해도 됨 
+
 lengLst = []
 for _ in range(9): # 9개의 줄에 걸쳐 난쟁이들의 키가 주어진다
     tmp = int(input())
     lengLst.append(tmp) # 난쟁이들의 키를 리스트로 입력받음
-    
+totalV = sum(lengLst)
+
 # 부분집합 생성 및 비교
 for i in range(1 << 9): #부분집합의 개수만큼 비트 생성하여 반복 000000000 > 000000001 > 000000010 > 000000011 .....
                         # 9개의 요소를 가진 집합의 부분집합의 개수는 2^9(1을 9번 shift 비트연산하면 2를 9곱한것과 같으므로 2^9)
@@ -17,10 +20,13 @@ for i in range(1 << 9): #부분집합의 개수만큼 비트 생성하여 반복
             # print(lengLst[j], end=',') # 출력해보면 공집합부터 쭉 부분집합이 생성됨을 볼 수 있음
             resLst.append(lengLst[j]) # 부분집합의 요소값을 결과 리스트에 추가
             sumV += lengLst[j] # 부분집합의 합계를 누적
-    if len(resLst) == 7 and sumV == 100: # 부분집합의 길이가 7(요소의 개수가 7개==난쟁이의 수가 7)이고, 키의 합계가 100 인 경우
+    if len(resLst) == 2 and sumV == totalV - 100: # 부분집합의 길이가 2(요소의 개수가 2개== 범위에서 벗어나는 난쟁이의 수가 2)이고, 키의 합계가 전체합-100 인 경우
         break # 반복문 종료
 
+for r in resLst:
+    lengLst.remove(r) # 범위에서 벗어나는 두 난쟁이의 키를 리스트에서 제거한다
+
 # resLst = sorted(resLst)
-resLst.sort() # 리스트 원본 정렬하여 변환
-for res in resLst:
+lengLst.sort() # 리스트 원본 정렬하여 변환
+for res in lengLst:
     print(res) # 일곱 난쟁이의 키를 줄바꿈하여 출력
