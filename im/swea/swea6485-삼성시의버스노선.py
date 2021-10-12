@@ -24,4 +24,5 @@ for tc in range(1, T + 1):
             if bus[0] <= bus_lst[b] <= bus[1]: # bus_lst의 정거장이 노선의 범위 내에 있으면
                 bus_cnt[b] += 1 # 지나는 노선의 개수를 1 늘린다(누적한다)
     res = ' '.join(list(map(str, bus_cnt)))  # 리스트를 공백으로 나누어 출력
+
     print(f'#{tc} {res}')
