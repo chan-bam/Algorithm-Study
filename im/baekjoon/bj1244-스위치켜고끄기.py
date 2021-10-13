@@ -18,7 +18,7 @@ for i in range(students):
     if st == 1: # 남학생
         for j in range(num, len(switch), num): # 배수..... 바꾸기....
             click(j)
-    else: # 여학생
+    else: # 여학생  # 받은 스위치를 기준으로 인접한 영역 중에서 좌우 대칭인 구간
         click(num)
         for k in range(1, N//2):
             if num - k < 0 or num + k >= len(switch):

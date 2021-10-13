@@ -15,7 +15,7 @@ for tc in range(1, T+1):
     for i in range(N):
         sumV = 0
         for j in range(N): # 행우선
-            if ARR[i][j] == 0:
+            if ARR[i][j] == 0: # NxN이라서 세로도 같이 탐색해도 무방하다...
                 res.append(sumV)
                 sumV = 0
             else:
