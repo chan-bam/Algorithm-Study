@@ -32,13 +32,13 @@
 | :--: | :----: | :------: | :-----------------------: | :--: | :--: |
 |  1   |   D2   |   2001   |         파리 퇴치         |  ✔   |  ⭕   |
 |  2   |   D3   |   1220   |         Magnetic          |  ✔   |  ⭕   |
-|  3   |   D3   |  11315   |         오목 판정         |      |  ⭕   |
+|  3   |   D3   |  11315   |         오목 판정         |  ✔   |  ⭕   |
 |  4   |   D3   |   3499   |        퍼펙트셔플         |  ✔   |  ⭕   |
 |  5   |   D3   |   1860   |   진기의 최고급 붕어빵    |  ✔   |  ⭕   |
-|  6   |   D3   |  11671   |          기지국           |      |  ⭕   |
+|  6   |   D3   |  11671   |          기지국           |  ✔   |  ⭕   |
 |  7   |   D3   |   6190   | 정곤이의 단조 증가하는 수 |  ✔   |      |
 |  8   |   D3   |   2805   |      농작물 수확하기      |  ✔   |      |
-|  9   |   D4   |   1258   |         행렬찾기          |      |      |
+|  9   |   D4   |   1258   |         행렬찾기          |  ✔   |      |
 |  10  |   D2   |   1204   |       최빈수 구하기       |  ✔   |      |
 |  11  |   D1   |   9367   |  점점 커지는 당근의 개수  |  ✔   |      |
 |  12  |   D1   |  11039   |        사각형 찾기        |  ✔   |      |
@@ -47,6 +47,11 @@
 |  15  |   D2   |  12726   |           토글            |  ✔   |      |
 |  16  |   D2   |   1215   |           회문            |  ✔   |      |
 |  17  |   D2   |  12712   |         파리퇴치3         |  ✔   |      |
+|  18  |   D3   |  11646   |           중력            |  ✔   |      |
+|  19  |   D4   |  11673   |          반사경           |  ✔   |      |
+|  20  |   D3   |  11718   |          사냥꾼           |  ✔   |      |
+|  21  |   D3   |   4522   |   세상의 모든 팰린드롬    |      |      |
+|  22  |   D3   |   4047   |    영준이의 카드카운팅    |      |      |
 |      |        |          |                           |      |      |
 |      |        |          |                           |      |      |
 
@@ -181,7 +186,7 @@
 |  5   |  gold5  |  [2116](https://www.acmicpc.net/problem/2116)  |              주사위 쌓기              |      |      |
 |  6   | silver2 |  [2304](https://www.acmicpc.net/problem/2304)  |              창고 다각형              |      |      |
 |  7   | silver3 |  [2559](https://www.acmicpc.net/problem/2559)  |                 수열                  |      |      |
-|  8   | silver5 |  [2578](https://www.acmicpc.net/problem/2578)  |                 빙고                  |      |      |
+|  8   | silver5 |  [2578](https://www.acmicpc.net/problem/2578)  |                 빙고                  |  ✔   |      |
 |  9   | silver5 |  [2477](https://www.acmicpc.net/problem/2477)  |                참외밭                 |      |      |
 |  10  | silver1 |  [2527](https://www.acmicpc.net/problem/2527)  |               직사각형                |      |      |
 |  11  | silver4 | [10157](https://www.acmicpc.net/problem/10157) |               자리배정                |      |      |
@@ -191,7 +196,7 @@
 |  15  | bronze1 | [14696](https://www.acmicpc.net/problem/14696) |               딱지놀이                |  ✔   |      |
 |  16  | bronze2 |  [2309](https://www.acmicpc.net/problem/2309)  |              일곱 난쟁이              |  ✔   |      |
 |  17  | bronze2 |  [2605](https://www.acmicpc.net/problem/2605)  |               줄 세우기               |  ✔   |      |
-|  18  | silver5 |  [2563](https://www.acmicpc.net/problem/2563)  |                색종이                 |      |      |
+|  18  | silver5 |  [2563](https://www.acmicpc.net/problem/2563)  |                색종이                 |  ✔   |      |
 |  19  | silver1 |  [2564](https://www.acmicpc.net/problem/2564)  |                경비원                 |      |      |
 |  20  | silver3 |  [2491](https://www.acmicpc.net/problem/2491)  |                 수열                  |      |      |
 

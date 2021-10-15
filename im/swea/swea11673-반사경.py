@@ -54,7 +54,7 @@ for tc in range(1, T+1):
     # 거울  1 : 방향1 (우->하 +3) (하->우 -3) (좌->상 -1) (상->좌 +1)   # 방향지정 조건
     # 거울  2 : 방향2 (우->상 +1) (상->우 -1) (하->좌 -1) (좌->하 +1)   # 방향 지정 조건
     # 0은 빈공간 # 1은 방향1 #2는 방향2
-    BRD = [list(map(int, input().split())) for _ in range(N)] # str로 그냥 받아도 되지만...
+    BRD = [list(map(int, input().split())) for _ in range(N)] # str로 그냥 받아도 되지만... 따옴표 찍기 귀찮으므로
     result = reflect()
 
     print(f'#{tc} {result}')

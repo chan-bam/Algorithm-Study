@@ -15,7 +15,7 @@ for tc in range(1, T+1):
             cnt += 1 # cnt를 1 늘린다
         else: # 증가하는 구간이 끝나면
             cntLst.append(cnt) # 이전 cnt값을 리스트에 넣고
-            cnt = 1 # 리스트 추가
+            cnt = 1 # cnt 초기화
     cntLst.append(cnt) # for문 종료되었을 때 누적되어있는 cnt값도 누적해야한다
 
     print(f'#{tc} {max(cntLst)}') # 저장되어있는 가장 큰 구간의 값을 출력한다
