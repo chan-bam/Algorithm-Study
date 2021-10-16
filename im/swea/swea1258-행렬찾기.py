@@ -29,7 +29,7 @@ def search():
         for j in range(1, N):
             # 위쪽, 왼쪽이 0이 나오는 경우의 위치를 찾는다
             if ARR[i-1][j] == '0' and ARR[i][j-1] == '0' and ARR[i][j] != '0':
-                                                            # 마지막 조건을 안 주면!! 0일때도 좌표를 찾아버린다!!! # 디버깅 힘들었음...
+                                                            # 마지막 조건을 안 주면!! 0일때도 좌표를 찾아버린다!!!
                 result.append(square(i, j))  # 함수 실행 # 리턴값 [[행1, 열1], [행2, 열2], ...]
     return result
 
@@ -57,10 +57,10 @@ for tc in range(1, T + 1):
                 answer[u], answer[u+1] = answer[u+1], answer[u]
 
             elif answer[u][0] * answer[u][1] == answer[u+1][0] * answer[u+1][1]: # 같을 때
-                if answer[u][0] > answer[u+1][0]: # 행값이 더 큰가요...?
-                    answer[u], answer[u+1] = answer[u+1], answer[u] # 그렇다면 교환하세요
+                if answer[u][0] > answer[u+1][0]: # 행값이 더 큰가...?
+                    answer[u], answer[u+1] = answer[u+1], answer[u] # 그렇다면 교환
 
-    # 되네...? 람다 기억안나면 이렇게라도..!!
+    # 되네...? 람다 기억안나면 이렇게라도..!!....가 아니라...ㅠㅠ 다른코드 보니 그냥 (합, 행, 열) 저장한다음에 sort해서 행,열만 출력하더라(출력할 때 조정)..델타 안쓰고 그런방법으로 다시 풀어보자!
 
     print(f'#{tc} {len(answer)}', end=' ')
     for ans in answer:
