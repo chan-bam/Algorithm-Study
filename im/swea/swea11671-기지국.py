@@ -44,7 +44,7 @@ for tc in range(1, T+1):
     for i in range(N):
         for j in range(N):
             if region[i][j] in ('A', 'B', 'C'):
-                coverD(i, j, ord(region[i][j])-63)
+                cover(i, j, ord(region[i][j])-63)
 
     home = 0
     for k in range(len(region)):

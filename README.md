@@ -162,16 +162,16 @@
 
 - STUDY
 
-| 연번 | 난이도  |                    문제번호                    |       제목        | 풀이 |     참조      |
-| :--: | :-----: | :--------------------------------------------: | :---------------: | :--: | :-----------: |
-|  1   | silver5 |  [4659](https://www.acmicpc.net/problem/4659)  | 비밀번호 발음하기 |  ✔   |               |
-|  2   | silver5 |  [1292](https://www.acmicpc.net/problem/1292)  |  쉽게 푸는 문제   |  ✔   |               |
-|  3   | silver4 | [12927](https://www.acmicpc.net/problem/12927) |    배수 스위치    |  ✔   |    ⭕ (IM)     |
-|  4   | silver5 |  [1789](https://www.acmicpc.net/problem/1789)  |     수들의 합     |  ✔   |       ⭕       |
-|  5   | silver4 |  [1980](https://www.acmicpc.net/problem/1980)  |    햄버거 사랑    |      |       ⭕       |
-|  6   | silver4 |  [1120](https://www.acmicpc.net/problem/1120)  |      문자열       |  ✔   |       ⭕       |
-|  7   | silver3 | [16922](https://www.acmicpc.net/problem/16922) | 로마 숫자 만들기  |  ✔   |       ⭕       |
-|  8   | silver4 | [10158](https://www.acmicpc.net/problem/10158) |       개미        |      | (IM대비-중복) |
+| 연번 | 난이도  |                    문제번호                    |       제목        | 풀이 |  참조  |
+| :--: | :-----: | :--------------------------------------------: | :---------------: | :--: | :----: |
+|  1   | silver5 |  [4659](https://www.acmicpc.net/problem/4659)  | 비밀번호 발음하기 |  ✔   |        |
+|  2   | silver5 |  [1292](https://www.acmicpc.net/problem/1292)  |  쉽게 푸는 문제   |  ✔   |        |
+|  3   | silver4 | [12927](https://www.acmicpc.net/problem/12927) |    배수 스위치    |  ✔   | ⭕ (IM) |
+|  4   | silver5 |  [1789](https://www.acmicpc.net/problem/1789)  |     수들의 합     |  ✔   |   ⭕    |
+|  5   | silver4 |  [1980](https://www.acmicpc.net/problem/1980)  |    햄버거 사랑    |      |   ⭕    |
+|  6   | silver4 |  [1120](https://www.acmicpc.net/problem/1120)  |      문자열       |  ✔   |   ⭕    |
+|  7   | silver3 | [16922](https://www.acmicpc.net/problem/16922) | 로마 숫자 만들기  |  ✔   |   ⭕    |
+|  8   | silver4 | [10158](https://www.acmicpc.net/problem/10158) |       개미        |  ✔   |   ⭕    |
 
 #### 삼성 SW 역량테스트 (IM) 대비 문제
 
@@ -183,21 +183,21 @@
 |  2   | silver5 |  [2635](https://www.acmicpc.net/problem/2635)  |              수 이어가기              |  ✔   |      |
 |  3   | silver4 |  [1244](https://www.acmicpc.net/problem/1244)  |           스위치 켜고 끄기            |  ✔   |      |
 |  4   | silver5 |  [2628](https://www.acmicpc.net/problem/2628)  |              종이자르기               |  ✔   |  ⭕   |
-|  5   |  gold5  |  [2116](https://www.acmicpc.net/problem/2116)  |              주사위 쌓기              |      |      |
+|  5   |  gold5  |  [2116](https://www.acmicpc.net/problem/2116)  |              주사위 쌓기              |  ✔   |  ⭕   |
 |  6   | silver2 |  [2304](https://www.acmicpc.net/problem/2304)  |              창고 다각형              |  ✔   |  ⭕   |
 |  7   | silver3 |  [2559](https://www.acmicpc.net/problem/2559)  |                 수열                  |  ✔   |      |
 |  8   | silver5 |  [2578](https://www.acmicpc.net/problem/2578)  |                 빙고                  |  ✔   |      |
 |  9   | silver5 |  [2477](https://www.acmicpc.net/problem/2477)  |                참외밭                 |  ✔   |  ⭕   |
 |  10  | silver1 |  [2527](https://www.acmicpc.net/problem/2527)  |               직사각형                |  ✔   |  ⭕   |
 |  11  | silver4 | [10157](https://www.acmicpc.net/problem/10157) |               자리배정                |  ✔   |      |
-|  12  | sivler4 | [10158](https://www.acmicpc.net/problem/10158) |                 개미                  |      |  ⭕   |
+|  12  | sivler4 | [10158](https://www.acmicpc.net/problem/10158) |                 개미                  |  ✔   |  ⭕   |
 |  13  | bronze1 |   [10163](https://www.acmicpc.net/problem/)    |                색종이                 |  ✔   |      |
 |  14  | bronze2 | [13300](https://www.acmicpc.net/problem/13300) |                방 배정                |  ✔   |      |
 |  15  | bronze1 | [14696](https://www.acmicpc.net/problem/14696) |               딱지놀이                |  ✔   |      |
 |  16  | bronze2 |  [2309](https://www.acmicpc.net/problem/2309)  |              일곱 난쟁이              |  ✔   |      |
 |  17  | bronze2 |  [2605](https://www.acmicpc.net/problem/2605)  |               줄 세우기               |  ✔   |      |
 |  18  | silver5 |  [2563](https://www.acmicpc.net/problem/2563)  |                색종이                 |  ✔   |      |
-|  19  | silver1 |  [2564](https://www.acmicpc.net/problem/2564)  |                경비원                 |      |      |
+|  19  | silver1 |  [2564](https://www.acmicpc.net/problem/2564)  |                경비원                 |  ✔   |  ⭕   |
 |  20  | silver3 |  [2491](https://www.acmicpc.net/problem/2491)  |                 수열                  |  ✔   |      |
 
 #### 단계별로 풀어보기
