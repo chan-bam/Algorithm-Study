@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open("1859.txt")
+sys.stdin = open("1859in.txt")
 
 T = int(input())
 

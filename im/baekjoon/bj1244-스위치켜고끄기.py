@@ -29,6 +29,6 @@ for i in range(students):
             else:
                 break ## 범위 안벗어났지만 대칭이 아닐 때는 반복문 종료해줘야한다.....!!!
                       # 이 부분을 잡아내는데 오래걸렸음...
-
-for k in range(1, N+1, 20): # 20개씩 줄바꿈해서 출력!!
+switch.pop(0) # 0번 스위치 제거
+for k in range(0, N, 20): # 20개씩 줄바꿈해서 출력!!
     print(*switch[k:k+20])

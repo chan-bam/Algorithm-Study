@@ -20,6 +20,37 @@ def seat():
             nr -= dr[dir]
             nc -= dc[dir]
             dir = (dir + 1) % 4  # 4 넘어가지 않도록
+        else: # 범위 안벗어났을 때..!!
+            i += 1  # 입력할 때만 숫자 증가 i + 1
+            ARR[nr][nc] = i # 숫자 입력
+
+    return nc+1, nr+1 # C, R순 출력
+
+dr = [1, 0, -1, 0]  # 하, 우, 상, 좌 순
+dc = [0, 1, 0, -1]
+
+for tc in range(int(input())):
+    # 공연장의 크기
+    C, R = map(int, input().split())
+    K = int(input())
+    if C*R < K: # 대기번호가 좌석
+        print(0)
+    else:
+        print(*seat())
+'''
+def seat():
+    ARR = [[0] * C for _ in range(R)]  # C가 열 # R이 행
+    i = 1
+    nr = nc = dir = 0
+    ARR[nr][nc] = 1  # 초기값
+    while i < K:  # K까지만 반복
+        nr += dr[dir]  # 진행 방향으로 전진
+        nc += dc[dir]
+        if nr < 0 or R <= nr or nc < 0 or C <= nc or ARR[nr][nc] != 0:  # 범위를 벗어났거나 숫자가 이미 있을 때는...
+            # 좌표 초기화 및 방향전환
+            nr -= dr[dir]
+            nc -= dc[dir]
+            dir = (dir + 1) % 4  # 4 넘어가지 않도록
         else:
             i += 1  # 입력했을 때만 i + 1
             ARR[nr][nc] = i
@@ -38,3 +69,4 @@ for tc in range(int(input())):
     else:
         print(*seat())
 
+'''
