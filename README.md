@@ -164,16 +164,20 @@
 
 - STUDY
 
-| 연번 | 난이도  |                    문제번호                    |       제목        | 풀이 |  참조  |
-| :--: | :-----: | :--------------------------------------------: | :---------------: | :--: | :----: |
-|  1   | silver5 |  [4659](https://www.acmicpc.net/problem/4659)  | 비밀번호 발음하기 |  ✔   |        |
-|  2   | silver5 |  [1292](https://www.acmicpc.net/problem/1292)  |  쉽게 푸는 문제   |  ✔   |        |
-|  3   | silver4 | [12927](https://www.acmicpc.net/problem/12927) |    배수 스위치    |  ✔   | ⭕ (IM) |
-|  4   | silver5 |  [1789](https://www.acmicpc.net/problem/1789)  |     수들의 합     |  ✔   |   ⭕    |
-|  5   | silver4 |  [1980](https://www.acmicpc.net/problem/1980)  |    햄버거 사랑    |      |   ⭕    |
-|  6   | silver4 |  [1120](https://www.acmicpc.net/problem/1120)  |      문자열       |  ✔   |   ⭕    |
-|  7   | silver3 | [16922](https://www.acmicpc.net/problem/16922) | 로마 숫자 만들기  |  ✔   |   ⭕    |
-|  8   | silver4 | [10158](https://www.acmicpc.net/problem/10158) |       개미        |  ✔   |   ⭕    |
+| 연번 | 난이도  |                    문제번호                    |          제목           | 풀이 |  참조  |
+| :--: | :-----: | :--------------------------------------------: | :---------------------: | :--: | :----: |
+|  1   | silver5 |  [4659](https://www.acmicpc.net/problem/4659)  |    비밀번호 발음하기    |  ✔   |        |
+|  2   | silver5 |  [1292](https://www.acmicpc.net/problem/1292)  |     쉽게 푸는 문제      |  ✔   |        |
+|  3   | silver4 | [12927](https://www.acmicpc.net/problem/12927) |       배수 스위치       |  ✔   | ⭕ (IM) |
+|  4   | silver5 |  [1789](https://www.acmicpc.net/problem/1789)  |        수들의 합        |  ✔   |   ⭕    |
+|  5   | silver4 |  [1980](https://www.acmicpc.net/problem/1980)  |       햄버거 사랑       |      |   ⭕    |
+|  6   | silver4 |  [1120](https://www.acmicpc.net/problem/1120)  |         문자열          |  ✔   |   ⭕    |
+|  7   | silver3 | [16922](https://www.acmicpc.net/problem/16922) |    로마 숫자 만들기     |  ✔   |   ⭕    |
+|  8   | silver4 | [10158](https://www.acmicpc.net/problem/10158) |          개미           |  ✔   |   ⭕    |
+|  9   | silver2 |                      1012                      |       유기농배추        |  ✔   |   ⭕    |
+|  10  | bronze1 |                     11586                      | 지영 공주님의 마법 거울 |  ✔   |        |
+|  11  |         |                                                |                         |      |        |
+|      |         |                                                |                         |      |        |
 
 #### 삼성 SW 역량테스트 (IM) 대비 문제
 
