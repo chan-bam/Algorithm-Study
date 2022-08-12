@@ -1,4 +1,196 @@
-# * Python Algorithm Study *
+#  🧮 Python Algorithm Study
+
+
+
+## BEAKJOON
+
+- https://www.acmicpc.net/
+
+#### solved.ac
+
+###### CLASS 2
+
+| 연번 | 난이도 | 문제번호 |                             제목                             | 풀이 | 참조 |
+| :--: | :----: | :------: | :----------------------------------------------------------: | :--: | :--: |
+|  1   |   S4   |   1018   |  [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)  |  ✔   |      |
+|  2   |   S5   |   1181   |      [ 단어 정렬](https://www.acmicpc.net/problem/1181)      |  ✔   |      |
+|  3   |   B1   |   1259   |      [팰린드롬수](https://www.acmicpc.net/problem/1259)      |  ✔   |      |
+|  4   |   S4   |   1920   |       [수 찾기](https://www.acmicpc.net/problem/1920)        |  ✔   |  ▲   |
+|  5   |   S5   |   1978   |      [소수 찾기](https://www.acmicpc.net/problem/1978)       |  ✔   |      |
+|  6   |   S4   |   2164   |        [카드2](https://www.acmicpc.net/problem/2164)         |  ✔   |  ▲   |
+|  7   |   B1   |   2609   | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) |  ✔   |  ▲   |
+|  8   |   S5   |   2751   |    [ 수 정렬하기 2](https://www.acmicpc.net/problem/2751)    |  ✔   |      |
+|  9   |   B2   |   2798   |        [블랙잭](https://www.acmicpc.net/problem/2798)        |  ✔   |      |
+|  10  |   B3   |   4153   |      [직각삼각형](https://www.acmicpc.net/problem/4153)      |  ✔   |      |
+|  11  |   S4   |   9012   |         [괄호](https://www.acmicpc.net/problem/9012)         |  ✔   |      |
+|  12  |   B2   |  10250   |      [ ACM 호텔](https://www.acmicpc.net/problem/10250)      |  ✔   |      |
+|  13  |   S5   |  10816   |     [나이순 정렬](https://www.acmicpc.net/problem/10814)     |  ✔   |      |
+|  14  |   S4   |  10828   |     [숫자 카드 2](https://www.acmicpc.net/problem/10816)     |  ✔   |  ▲   |
+|  15  |   S4   |  10866   |        [스택](https://www.acmicpc.net/problem/10828)         |  ✔   |      |
+|  16  |   S4   |  11050   |         [ 큐](https://www.acmicpc.net/problem/10845)         |  ✔   |      |
+|  17  |   S4   |  11650   |         [ 덱](https://www.acmicpc.net/problem/10866)         |  ✔   |      |
+|  18  |   B1   |  11050   |     [이항 계수 1](https://www.acmicpc.net/problem/11050)     |  ✔   |  ▲   |
+|  19  |   S5   |  11650   |   [ 좌표 정렬하기](https://www.acmicpc.net/problem/11650)    |  ✔   |      |
+|  20  |   S5   |  11866   |  [ 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)   |  ✔   |      |
+|  21  |   B3   |   1018   |  [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)   |  ✔   |      |
+|  22  |   S5   |   1181   |      [단어 정렬](https://www.acmicpc.net/problem/1181)       |  ✔   |      |
+|  23  |   S5   |   1436   |     [영화감독 숌](https://www.acmicpc.net/problem/1436)      |  ✔   |      |
+|  24  |   S5   |   1929   |     [소수 구하기](https://www.acmicpc.net/problem/1929)      |  ✔   |      |
+|  25  |   B2   |   2231   |        [분해합](https://www.acmicpc.net/problem/2231)        |  ✔   |      |
+|  26  |   B1   |   2775   |  [부녀회장이 될테야](https://www.acmicpc.net/problem/2775)   |  ✔   |      |
+|  27  |   S4   |   2839   |      [설탕 배달](https://www.acmicpc.net/problem/2839)       |  ✔   |      |
+|  28  |   S5   |   2869   | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) |  ✔   |      |
+|  29  |   B1   |   2751   |   [ 수 정렬하기 3](https://www.acmicpc.net/problem/10989)    |  ✔   |      |
+|  30  |   S5   |  11650   |   [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)   |  ✔   |      |
+|  31  |   B2   |  15829   |       [Hashing](https://www.acmicpc.net/problem/15829)       |      |      |
+|  32  |   B2   |   2292   |         [벌집](https://www.acmicpc.net/problem/2292)         |      |      |
+|  33  |   S4   |   4949   |    [균형잡힌 세상](https://www.acmicpc.net/problem/4949)     |      |      |
+|  34  |   S4   |  10773   |        [제로](https://www.acmicpc.net/problem/10773)         |      |      |
+|  35  |   S3   |   1874   |      [ 스택 수열](https://www.acmicpc.net/problem/1874)      |      |      |
+|  36  |   S3   |   1966   |      [ 프린터 큐](https://www.acmicpc.net/problem/1966)      |      |      |
+|  37  |   S3   |   2108   |        [통계학](https://www.acmicpc.net/problem/2108)        |      |      |
+|  38  |   S2   |   1654   |     [랜선 자르기](https://www.acmicpc.net/problem/1654)      |      |      |
+|  39  |   S2   |   2805   |     [나무 자르기](https://www.acmicpc.net/problem/2805)      |      |      |
+|  40  |   S2   |  18111   |    [마인크래프트](https://www.acmicpc.net/problem/18111)     |      |      |
+
+
+
+#### 문제 풀이
+
+- STUDY
+
+| 연번 | 난이도  |                    문제번호                    |          제목           | 풀이 | 참조 |
+| :--: | :-----: | :--------------------------------------------: | :---------------------: | :--: | :--: |
+|  1   | silver5 |  [4659](https://www.acmicpc.net/problem/4659)  |    비밀번호 발음하기    |  ✔   |      |
+|  2   | silver5 |  [1292](https://www.acmicpc.net/problem/1292)  |     쉽게 푸는 문제      |  ✔   |      |
+|  3   | silver4 | [12927](https://www.acmicpc.net/problem/12927) |       배수 스위치       |  ✔   |  ⭕   |
+|  4   | silver5 |  [1789](https://www.acmicpc.net/problem/1789)  |        수들의 합        |  ✔   |  ⭕   |
+|  5   | silver4 |  [1980](https://www.acmicpc.net/problem/1980)  |       햄버거 사랑       |      |  ⭕   |
+|  6   | silver4 |  [1120](https://www.acmicpc.net/problem/1120)  |         문자열          |  ✔   |  ⭕   |
+|  7   | silver3 | [16922](https://www.acmicpc.net/problem/16922) |    로마 숫자 만들기     |  ✔   |  ⭕   |
+|  8   | silver4 | [10158](https://www.acmicpc.net/problem/10158) |          개미           |  ✔   |  ⭕   |
+|  9   | silver2 |                      1012                      |       유기농배추        |  ✔   |  ⭕   |
+|  10  | bronze1 |                     11586                      | 지영 공주님의 마법 거울 |  ✔   |      |
+|  11  |  gold5  |                      2636                      |          치즈           |  ✔   |  ⭕   |
+|  12  | silver3 |                      2606                      |        바이러스         |  ✔   |  ⭕   |
+|      |         |                                                |                         |      |      |
+
+#### 삼성 SW 역량테스트 (IM) 대비 문제
+
+- https://www.acmicpc.net/workbook/view/7091
+
+| 연번 | 난이도  |                    문제번호                    |                 제목                  | 풀이 | 참조 |
+| :--: | :-----: | :--------------------------------------------: | :-----------------------------------: | :--: | :--: |
+|  1   | bronze1 |    [2669](https://www.acmicpc.net/problem/)    | 직사각형 네개의  합집합의 면적 구하기 |  ✔   |      |
+|  2   | silver5 |  [2635](https://www.acmicpc.net/problem/2635)  |              수 이어가기              |  ✔   |      |
+|  3   | silver4 |  [1244](https://www.acmicpc.net/problem/1244)  |           스위치 켜고 끄기            |  ✔   |      |
+|  4   | silver5 |  [2628](https://www.acmicpc.net/problem/2628)  |              종이자르기               |  ✔   |  ⭕   |
+|  5   |  gold5  |  [2116](https://www.acmicpc.net/problem/2116)  |              주사위 쌓기              |  ✔   |  ⭕   |
+|  6   | silver2 |  [2304](https://www.acmicpc.net/problem/2304)  |              창고 다각형              |  ✔   |  ⭕   |
+|  7   | silver3 |  [2559](https://www.acmicpc.net/problem/2559)  |                 수열                  |  ✔   |      |
+|  8   | silver5 |  [2578](https://www.acmicpc.net/problem/2578)  |                 빙고                  |  ✔   |      |
+|  9   | silver5 |  [2477](https://www.acmicpc.net/problem/2477)  |                참외밭                 |  ✔   |  ⭕   |
+|  10  | silver1 |  [2527](https://www.acmicpc.net/problem/2527)  |               직사각형                |  ✔   |  ⭕   |
+|  11  | silver4 | [10157](https://www.acmicpc.net/problem/10157) |               자리배정                |  ✔   |      |
+|  12  | sivler4 | [10158](https://www.acmicpc.net/problem/10158) |                 개미                  |  ✔   |  ⭕   |
+|  13  | bronze1 |   [10163](https://www.acmicpc.net/problem/)    |                색종이                 |  ✔   |      |
+|  14  | bronze2 | [13300](https://www.acmicpc.net/problem/13300) |                방 배정                |  ✔   |      |
+|  15  | bronze1 | [14696](https://www.acmicpc.net/problem/14696) |               딱지놀이                |  ✔   |      |
+|  16  | bronze2 |  [2309](https://www.acmicpc.net/problem/2309)  |              일곱 난쟁이              |  ✔   |      |
+|  17  | bronze2 |  [2605](https://www.acmicpc.net/problem/2605)  |               줄 세우기               |  ✔   |      |
+|  18  | silver5 |  [2563](https://www.acmicpc.net/problem/2563)  |                색종이                 |  ✔   |      |
+|  19  | silver1 |  [2564](https://www.acmicpc.net/problem/2564)  |                경비원                 |  ✔   |  ⭕   |
+|  20  | silver3 |  [2491](https://www.acmicpc.net/problem/2491)  |                 수열                  |  ✔   |      |
+
+#### 단계별로 풀어보기
+
+- https://www.acmicpc.net/step
+
+| 단계 |       주제        | 연번 | 난이도  |                   문제번호                   |             제목             | 풀이 | 참조 |
+| :--: | :---------------: | :--: | :-----: | :------------------------------------------: | :--------------------------: | :--: | :--: |
+|  1   | 입출력과 사칙연산 | 1-1  | bronze5 |                     2557                     |         Hello World          |  ✔   |      |
+|  1   | 입출력과 사칙연산 | 1-2  | bronze5 |                    10718                     |        We love kriii         |  ✔   |      |
+|  1   | 입출력과 사칙연산 | 1-3  | bronze5 |                    10171                     |            고양이            |  ✔   |      |
+|  1   | 입출력과 사칙연산 | 1-4  | bronze5 |                    10172                     |              개              |  ✔   |      |
+|  1   | 입출력과 사칙연산 | 1-5  | bronze5 |                     1000                     |             A+B              |  ✔   |      |
+|  1   | 입출력과 사칙연산 | 1-6  | bronze5 |                     1001                     |             A-B              |  ✔   |      |
+|  1   | 입출력과 사칙연산 | 1-7  | bronze5 |                    10998                     |             AxB              |  ✔   |      |
+|  1   | 입출력과 사칙연산 | 1-8  | bronze5 |                     1008                     |             A/B              |  ✔   |      |
+|  1   | 입출력과 사칙연산 | 1-9  | bronze5 |                    10869                     |           사칙연산           |  ✔   |      |
+|  1   | 입출력과 사칙연산 | 1-10 | bronze5 |                    10430                     |            나머지            |  ✔   |      |
+|  1   | 입출력과 사칙연산 | 1-11 | bronze5 |                     2588                     |             곱셈             |  ✔   |      |
+|  2   |       if문        | 2-1  | bronze4 |                     1330                     |        두 수 비교하기        |  ✔   |      |
+|  2   |       if문        | 2-2  | bronze4 |                     9498                     |          시험 성적           |  ✔   |      |
+|  2   |       if문        | 2-3  | bronze4 |                     2753                     |             윤년             |  ✔   |      |
+|  2   |       if문        | 2-4  | bronze4 |                    14681                     |        사분면 고르기         |  ✔   |      |
+|  2   |       if문        | 2-5  | bronze3 |                     2884                     |          알람 시계           |  ✔   |      |
+|  3   |       for문       | 3-1  | bronze3 |                     2739                     |            구구단            |  ✔   |      |
+|  3   |       for문       | 3-2  | bronze3 |                    10950                     |            A+B-3             |  ✔   |      |
+|  3   |       for문       | 3-3  | bronze5 |                     8393                     |              합              |  ✔   |      |
+|  3   |       for문       | 3-4  | bronze2 |                    15552                     |           빠른 A+B           |  ✔   |      |
+|  3   |       for문       | 3-5  | bronze3 |                     2741                     |            N 찍기            |  ✔   |      |
+|  3   |       for문       | 3-6  | bronze3 |                     2742                     |            기찍 N            |  ✔   |      |
+|  3   |       for문       | 3-7  | bronze3 |                    11021                     |            A+B-7             |  ✔   |      |
+|  3   |       for문       | 3-8  | bronze3 |                    11022                     |            A+B-8             |  ✔   |      |
+|  3   |       for문       | 3-9  | bronze3 |                     2438                     |         별 찍기 - 1          |  ✔   |      |
+|  3   |       for문       | 3-10 | bronze3 |                     2439                     |          별 찍기 -2          |  ✔   |      |
+|  3   |       for문       | 3-11 | bronze3 |                    10871                     |        X 보다 작은 수        |  ✔   |      |
+|  4   |      while문      | 4-1  | bronze3 |                    10952                     |            A+B-5             |  ✔   |      |
+|  4   |      while문      | 4-2  | bronze3 |                    10951                     |            A+B-4             |  ✔   |      |
+|  4   |      while문      | 4-3  | bronze1 |                     1110                     |        더하기 사이클         |  ✔   |      |
+|  5   |    1차원 배열     | 5-1  | bronze3 |                    10818                     |          최소, 최대          |  ✔   |      |
+|  5   |    1차원 배열     | 5-2  | bronze2 |                     2562                     |            최댓값            |  ✔   |      |
+|  5   |    1차원 배열     | 5-3  | bronze2 |                     2577                     |         숫자의 개수          |  ✔   |      |
+|  5   |    1차원 배열     | 5-4  | bronze2 |                     3052                     |            나머지            |  ✔   |      |
+|  5   |    1차원 배열     | 5-5  | bronze1 |                     1546                     |             평균             |  ✔   |      |
+|  5   |    1차원 배열     | 5-6  | bronze2 |                     8958                     |            OX퀴즈            |  ✔   |      |
+|  5   |    1차원 배열     | 5-7  | bronze1 |                     4344                     |        평균은 넘겠지         |  ✔   |      |
+|  6   |       함수        | 6-1  | bronze2 |                    15596                     |        정수 N개의 합         |  ✔   |      |
+|  6   |       함수        | 6-2  | silver5 | [4673](https://www.acmicpc.net/problem/4673) |          셀프 넘버           |  ✔   |  ⭕   |
+|  6   |       함수        | 6-3  | silver4 | [1065](https://www.acmicpc.net/problem/1065) |             한수             |  ✔   |      |
+|  7   |      문자열       | 7-1  | bronze5 |                    11654                     |          아스키코드          |  ✔   |      |
+|  7   |      문자열       | 7-2  | bronze2 |                    11720                     |          숫자의 합           |  ✔   |      |
+|  7   |      문자열       | 7-3  | bronze2 |                    10809                     |         알파벳 찾기          |  ✔   |      |
+|  7   |      문자열       | 7-4  | bronze2 |                     2675                     |         문자열 반복          |  ✔   |      |
+|  7   |      문자열       | 7-5  | bronze1 |                     1157                     |          단어 공부           |  ✔   |      |
+|  7   |      문자열       | 7-6  | bronze2 |                     1152                     |         단어의 개수          |  ✔   |      |
+|  7   |      문자열       | 7-7  | brozne2 |                     2908                     |             상수             |  ✔   |      |
+|  7   |      문자열       | 7-8  | brozne2 |                     5622                     |            다이얼            |  ✔   |      |
+|  7   |      문자열       | 7-9  | silver5 | [2941](https://www.acmicpc.net/problem/2941) |      크로아티아 알파벳       |  ✔   |      |
+|  7   |      문자열       | 7-10 | silver5 | [1316](https://www.acmicpc.net/problem/1316) |        그룹 단어 체커        |  ✔   |      |
+|  8   |    기본 수학1     | 8-1  | bronze4 |                     1712                     |          손익분기점          |  ✔   |      |
+|  8   |    기본 수학1     | 8-2  | bronze2 |                     2292                     |             벌집             |      |      |
+|  8   |    기본 수학1     | 8-3  | bronze1 |                     1193                     |           분수찾기           |      |      |
+|  8   |    기본 수학1     | 8-4  | bronze1 |                     2869                     |    달팽이는 올라가고 싶다    |  ✔   |  ⭕   |
+|  8   |    기본 수학1     | 8-5  | bronze3 |                    10250                     |           ACM 호텔           |      |      |
+|  8   |    기본 수학1     | 8-6  | bronze2 |                     2775                     |      부녀회장이 될테야       |  ✔   |  ⭕   |
+|  8   |    기본 수학1     | 8-7  | bronze1 |                     2839                     |           설탕배달           |  ✔   |  ⭕   |
+|  8   |    기본 수학1     | 8-8  | bronze5 |                    10757                     |          큰 수 A+B           |  ✔   |      |
+|  8   |    기본 수학1     | 8-9  |  gold5  |                     1011                     | Fly me to the Alpha Centauri |      |      |
+|  9   |    기본 수학2     | 9-1  | silver5 |                     1978                     |             소수             |  ✔   |      |
+|  9   |    기본 수학2     | 9-2  | silver5 |                     2581                     |          소수 찾기           |  ✔   |      |
+|  9   |    기본 수학2     | 9-3  | silver4 |                    11653                     |          소인수분해          |  ✔   |      |
+|  9   |    기본 수학2     | 9-4  | silver2 |                     1929                     |         소수 구하기          |  ✔   |  ⭕   |
+|  9   |    기본 수학2     | 9-5  | silver1 |                     4948                     |        베르트랑 공준         |      |      |
+|  9   |    기본 수학2     | 9-6  | silver1 |                     9020                     |       골드바흐의 추측        |      |      |
+|  9   |    기본 수학2     | 9-7  | bronze3 |                     1085                     |      직사각형에서 탈출       |      |      |
+|  9   |    기본 수학2     | 9-8  | bronze3 |                     3009                     |          네 번째 점          |  ✔   |  ⭕   |
+|  9   |    기본 수학2     | 9-9  | bronze3 |                     4153                     |          직각삼각형          |      |      |
+|  9   |    기본 수학2     | 9-10 | bronze3 |                     3053                     |         택시 기하학          |      |      |
+|  9   |    기본 수학2     | 9-11 | silver4 |                     1002                     |             터렛             |      |      |
+|  10  |       재귀        | 10-1 | bronze3 |                    10872                     |           팩토리얼           |  ✔   |  ⭕   |
+|  10  |       재귀        | 10-2 | brozne2 |                    10870                     |         피보나치 수5         |  ✔   |      |
+|  10  |       재귀        | 10-3 | silver1 |                     2447                     |         별 찍기 - 19         |      |      |
+|  10  |       재귀        | 10-4 | silver2 |                    11729                     |     하노이 탑 이동 순서      |      |      |
+|  11  |    브루트 포스    | 11-1 | bronze2 |                     2798                     |            블랙잭            |  ✔   |      |
+|  11  |    브루트 포스    | 11-2 | bronze2 |                     2231                     |            분해합            |  ✔   |      |
+|  11  |    브루트 포스    | 11-3 | silver5 |                     7568                     |             덩치             |  ✔   |      |
+|  11  |    브루트 포스    | 11-4 | silver5 | [1018](https://www.acmicpc.net/problem/1018) |      체스판 다시 칠하기      |  ✔   |  ⭕   |
+|  11  |    브루트 포스    | 11-5 | silver5 |                     1436                     |         영화감독 숌          |  ✔   |      |
+
+
+
+-------------------------
 
 
 
@@ -153,151 +345,6 @@
 
 
 -------------
-
-
-
-## BEAKJOON
-
-- https://www.acmicpc.net/
-
-#### 문제 풀이
-
-- STUDY
-
-| 연번 | 난이도  |                    문제번호                    |          제목           | 풀이 |  참조  |
-| :--: | :-----: | :--------------------------------------------: | :---------------------: | :--: | :----: |
-|  1   | silver5 |  [4659](https://www.acmicpc.net/problem/4659)  |    비밀번호 발음하기    |  ✔   |        |
-|  2   | silver5 |  [1292](https://www.acmicpc.net/problem/1292)  |     쉽게 푸는 문제      |  ✔   |        |
-|  3   | silver4 | [12927](https://www.acmicpc.net/problem/12927) |       배수 스위치       |  ✔   | ⭕ (IM) |
-|  4   | silver5 |  [1789](https://www.acmicpc.net/problem/1789)  |        수들의 합        |  ✔   |   ⭕    |
-|  5   | silver4 |  [1980](https://www.acmicpc.net/problem/1980)  |       햄버거 사랑       |      |   ⭕    |
-|  6   | silver4 |  [1120](https://www.acmicpc.net/problem/1120)  |         문자열          |  ✔   |   ⭕    |
-|  7   | silver3 | [16922](https://www.acmicpc.net/problem/16922) |    로마 숫자 만들기     |  ✔   |   ⭕    |
-|  8   | silver4 | [10158](https://www.acmicpc.net/problem/10158) |          개미           |  ✔   |   ⭕    |
-|  9   | silver2 |                      1012                      |       유기농배추        |  ✔   |   ⭕    |
-|  10  | bronze1 |                     11586                      | 지영 공주님의 마법 거울 |  ✔   |        |
-|  11  |  gold5  |                      2636                      |          치즈           |  ✔   |   ⭕    |
-|  12  | silver3 |                      2606                      |        바이러스         |  ✔   |   ⭕    |
-|      |         |                                                |                         |      |        |
-
-#### 삼성 SW 역량테스트 (IM) 대비 문제
-
-- https://www.acmicpc.net/workbook/view/7091
-
-| 연번 | 난이도  |                    문제번호                    |                 제목                  | 풀이 | 참조 |
-| :--: | :-----: | :--------------------------------------------: | :-----------------------------------: | :--: | :--: |
-|  1   | bronze1 |    [2669](https://www.acmicpc.net/problem/)    | 직사각형 네개의  합집합의 면적 구하기 |  ✔   |      |
-|  2   | silver5 |  [2635](https://www.acmicpc.net/problem/2635)  |              수 이어가기              |  ✔   |      |
-|  3   | silver4 |  [1244](https://www.acmicpc.net/problem/1244)  |           스위치 켜고 끄기            |  ✔   |      |
-|  4   | silver5 |  [2628](https://www.acmicpc.net/problem/2628)  |              종이자르기               |  ✔   |  ⭕   |
-|  5   |  gold5  |  [2116](https://www.acmicpc.net/problem/2116)  |              주사위 쌓기              |  ✔   |  ⭕   |
-|  6   | silver2 |  [2304](https://www.acmicpc.net/problem/2304)  |              창고 다각형              |  ✔   |  ⭕   |
-|  7   | silver3 |  [2559](https://www.acmicpc.net/problem/2559)  |                 수열                  |  ✔   |      |
-|  8   | silver5 |  [2578](https://www.acmicpc.net/problem/2578)  |                 빙고                  |  ✔   |      |
-|  9   | silver5 |  [2477](https://www.acmicpc.net/problem/2477)  |                참외밭                 |  ✔   |  ⭕   |
-|  10  | silver1 |  [2527](https://www.acmicpc.net/problem/2527)  |               직사각형                |  ✔   |  ⭕   |
-|  11  | silver4 | [10157](https://www.acmicpc.net/problem/10157) |               자리배정                |  ✔   |      |
-|  12  | sivler4 | [10158](https://www.acmicpc.net/problem/10158) |                 개미                  |  ✔   |  ⭕   |
-|  13  | bronze1 |   [10163](https://www.acmicpc.net/problem/)    |                색종이                 |  ✔   |      |
-|  14  | bronze2 | [13300](https://www.acmicpc.net/problem/13300) |                방 배정                |  ✔   |      |
-|  15  | bronze1 | [14696](https://www.acmicpc.net/problem/14696) |               딱지놀이                |  ✔   |      |
-|  16  | bronze2 |  [2309](https://www.acmicpc.net/problem/2309)  |              일곱 난쟁이              |  ✔   |      |
-|  17  | bronze2 |  [2605](https://www.acmicpc.net/problem/2605)  |               줄 세우기               |  ✔   |      |
-|  18  | silver5 |  [2563](https://www.acmicpc.net/problem/2563)  |                색종이                 |  ✔   |      |
-|  19  | silver1 |  [2564](https://www.acmicpc.net/problem/2564)  |                경비원                 |  ✔   |  ⭕   |
-|  20  | silver3 |  [2491](https://www.acmicpc.net/problem/2491)  |                 수열                  |  ✔   |      |
-
-#### 단계별로 풀어보기
-
-- https://www.acmicpc.net/step
-
-| 단계 |       주제        | 연번 | 난이도  |                   문제번호                   |             제목             | 풀이 | 참조 |
-| :--: | :---------------: | :--: | :-----: | :------------------------------------------: | :--------------------------: | :--: | :--: |
-|  1   | 입출력과 사칙연산 | 1-1  | bronze5 |                     2557                     |         Hello World          |  ✔   |      |
-|  1   | 입출력과 사칙연산 | 1-2  | bronze5 |                    10718                     |        We love kriii         |  ✔   |      |
-|  1   | 입출력과 사칙연산 | 1-3  | bronze5 |                    10171                     |            고양이            |  ✔   |      |
-|  1   | 입출력과 사칙연산 | 1-4  | bronze5 |                    10172                     |              개              |  ✔   |      |
-|  1   | 입출력과 사칙연산 | 1-5  | bronze5 |                     1000                     |             A+B              |  ✔   |      |
-|  1   | 입출력과 사칙연산 | 1-6  | bronze5 |                     1001                     |             A-B              |  ✔   |      |
-|  1   | 입출력과 사칙연산 | 1-7  | bronze5 |                    10998                     |             AxB              |  ✔   |      |
-|  1   | 입출력과 사칙연산 | 1-8  | bronze5 |                     1008                     |             A/B              |  ✔   |      |
-|  1   | 입출력과 사칙연산 | 1-9  | bronze5 |                    10869                     |           사칙연산           |  ✔   |      |
-|  1   | 입출력과 사칙연산 | 1-10 | bronze5 |                    10430                     |            나머지            |  ✔   |      |
-|  1   | 입출력과 사칙연산 | 1-11 | bronze5 |                     2588                     |             곱셈             |  ✔   |      |
-|  2   |       if문        | 2-1  | bronze4 |                     1330                     |        두 수 비교하기        |  ✔   |      |
-|  2   |       if문        | 2-2  | bronze4 |                     9498                     |          시험 성적           |  ✔   |      |
-|  2   |       if문        | 2-3  | bronze4 |                     2753                     |             윤년             |  ✔   |      |
-|  2   |       if문        | 2-4  | bronze4 |                    14681                     |        사분면 고르기         |  ✔   |      |
-|  2   |       if문        | 2-5  | bronze3 |                     2884                     |          알람 시계           |  ✔   |      |
-|  3   |       for문       | 3-1  | bronze3 |                     2739                     |            구구단            |  ✔   |      |
-|  3   |       for문       | 3-2  | bronze3 |                    10950                     |            A+B-3             |  ✔   |      |
-|  3   |       for문       | 3-3  | bronze5 |                     8393                     |              합              |  ✔   |      |
-|  3   |       for문       | 3-4  | bronze2 |                    15552                     |           빠른 A+B           |  ✔   |      |
-|  3   |       for문       | 3-5  | bronze3 |                     2741                     |            N 찍기            |  ✔   |      |
-|  3   |       for문       | 3-6  | bronze3 |                     2742                     |            기찍 N            |  ✔   |      |
-|  3   |       for문       | 3-7  | bronze3 |                    11021                     |            A+B-7             |  ✔   |      |
-|  3   |       for문       | 3-8  | bronze3 |                    11022                     |            A+B-8             |  ✔   |      |
-|  3   |       for문       | 3-9  | bronze3 |                     2438                     |         별 찍기 - 1          |  ✔   |      |
-|  3   |       for문       | 3-10 | bronze3 |                     2439                     |          별 찍기 -2          |  ✔   |      |
-|  3   |       for문       | 3-11 | bronze3 |                    10871                     |        X 보다 작은 수        |  ✔   |      |
-|  4   |      while문      | 4-1  | bronze3 |                    10952                     |            A+B-5             |  ✔   |      |
-|  4   |      while문      | 4-2  | bronze3 |                    10951                     |            A+B-4             |  ✔   |      |
-|  4   |      while문      | 4-3  | bronze1 |                     1110                     |        더하기 사이클         |  ✔   |      |
-|  5   |    1차원 배열     | 5-1  | bronze3 |                    10818                     |          최소, 최대          |  ✔   |      |
-|  5   |    1차원 배열     | 5-2  | bronze2 |                     2562                     |            최댓값            |  ✔   |      |
-|  5   |    1차원 배열     | 5-3  | bronze2 |                     2577                     |         숫자의 개수          |  ✔   |      |
-|  5   |    1차원 배열     | 5-4  | bronze2 |                     3052                     |            나머지            |  ✔   |      |
-|  5   |    1차원 배열     | 5-5  | bronze1 |                     1546                     |             평균             |  ✔   |      |
-|  5   |    1차원 배열     | 5-6  | bronze2 |                     8958                     |            OX퀴즈            |  ✔   |      |
-|  5   |    1차원 배열     | 5-7  | bronze1 |                     4344                     |        평균은 넘겠지         |  ✔   |      |
-|  6   |       함수        | 6-1  | bronze2 |                    15596                     |        정수 N개의 합         |  ✔   |      |
-|  6   |       함수        | 6-2  | silver5 | [4673](https://www.acmicpc.net/problem/4673) |          셀프 넘버           |  ✔   |  ⭕   |
-|  6   |       함수        | 6-3  | silver4 | [1065](https://www.acmicpc.net/problem/1065) |             한수             |  ✔   |      |
-|  7   |      문자열       | 7-1  | bronze5 |                    11654                     |          아스키코드          |  ✔   |      |
-|  7   |      문자열       | 7-2  | bronze2 |                    11720                     |          숫자의 합           |  ✔   |      |
-|  7   |      문자열       | 7-3  | bronze2 |                    10809                     |         알파벳 찾기          |  ✔   |      |
-|  7   |      문자열       | 7-4  | bronze2 |                     2675                     |         문자열 반복          |  ✔   |      |
-|  7   |      문자열       | 7-5  | bronze1 |                     1157                     |          단어 공부           |  ✔   |      |
-|  7   |      문자열       | 7-6  | bronze2 |                     1152                     |         단어의 개수          |  ✔   |      |
-|  7   |      문자열       | 7-7  | brozne2 |                     2908                     |             상수             |  ✔   |      |
-|  7   |      문자열       | 7-8  | brozne2 |                     5622                     |            다이얼            |  ✔   |      |
-|  7   |      문자열       | 7-9  | silver5 | [2941](https://www.acmicpc.net/problem/2941) |      크로아티아 알파벳       |  ✔   |      |
-|  7   |      문자열       | 7-10 | silver5 | [1316](https://www.acmicpc.net/problem/1316) |        그룹 단어 체커        |  ✔   |      |
-|  8   |    기본 수학1     | 8-1  | bronze4 |                     1712                     |          손익분기점          |  ✔   |      |
-|  8   |    기본 수학1     | 8-2  | bronze2 |                     2292                     |             벌집             |      |      |
-|  8   |    기본 수학1     | 8-3  | bronze1 |                     1193                     |           분수찾기           |      |      |
-|  8   |    기본 수학1     | 8-4  | bronze1 |                     2869                     |    달팽이는 올라가고 싶다    |  ✔   |  ⭕   |
-|  8   |    기본 수학1     | 8-5  | bronze3 |                    10250                     |           ACM 호텔           |      |      |
-|  8   |    기본 수학1     | 8-6  | bronze2 |                     2775                     |      부녀회장이 될테야       |  ✔   |  ⭕   |
-|  8   |    기본 수학1     | 8-7  | bronze1 |                     2839                     |           설탕배달           |  ✔   |  ⭕   |
-|  8   |    기본 수학1     | 8-8  | bronze5 |                    10757                     |          큰 수 A+B           |  ✔   |      |
-|  8   |    기본 수학1     | 8-9  |  gold5  |                     1011                     | Fly me to the Alpha Centauri |      |      |
-|  9   |    기본 수학2     | 9-1  | silver5 |                     1978                     |             소수             |  ✔   |      |
-|  9   |    기본 수학2     | 9-2  | silver5 |                     2581                     |          소수 찾기           |  ✔   |      |
-|  9   |    기본 수학2     | 9-3  | silver4 |                    11653                     |          소인수분해          |  ✔   |      |
-|  9   |    기본 수학2     | 9-4  | silver2 |                     1929                     |         소수 구하기          |  ✔   |  ⭕   |
-|  9   |    기본 수학2     | 9-5  | silver1 |                     4948                     |        베르트랑 공준         |      |      |
-|  9   |    기본 수학2     | 9-6  | silver1 |                     9020                     |       골드바흐의 추측        |      |      |
-|  9   |    기본 수학2     | 9-7  | bronze3 |                     1085                     |      직사각형에서 탈출       |      |      |
-|  9   |    기본 수학2     | 9-8  | bronze3 |                     3009                     |          네 번째 점          |  ✔   |  ⭕   |
-|  9   |    기본 수학2     | 9-9  | bronze3 |                     4153                     |          직각삼각형          |      |      |
-|  9   |    기본 수학2     | 9-10 | bronze3 |                     3053                     |         택시 기하학          |      |      |
-|  9   |    기본 수학2     | 9-11 | silver4 |                     1002                     |             터렛             |      |      |
-|  10  |       재귀        | 10-1 | bronze3 |                    10872                     |           팩토리얼           |  ✔   |  ⭕   |
-|  10  |       재귀        | 10-2 | brozne2 |                    10870                     |         피보나치 수5         |  ✔   |      |
-|  10  |       재귀        | 10-3 | silver1 |                     2447                     |         별 찍기 - 19         |      |      |
-|  10  |       재귀        | 10-4 | silver2 |                    11729                     |     하노이 탑 이동 순서      |      |      |
-|  11  |    브루트 포스    | 11-1 | bronze2 |                     2798                     |            블랙잭            |  ✔   |      |
-|  11  |    브루트 포스    | 11-2 | bronze2 |                     2231                     |            분해합            |  ✔   |      |
-|  11  |    브루트 포스    | 11-3 | silver5 |                     7568                     |             덩치             |  ✔   |      |
-|  11  |    브루트 포스    | 11-4 | silver5 | [1018](https://www.acmicpc.net/problem/1018) |      체스판 다시 칠하기      |  ✔   |  ⭕   |
-|  11  |    브루트 포스    | 11-5 | silver5 |                     1436                     |         영화감독 숌          |  ✔   |      |
-
-
-
--------------------------
-
-
 
 ## CodeUp
 
