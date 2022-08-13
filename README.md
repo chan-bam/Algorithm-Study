@@ -15,21 +15,21 @@
 |  1   |   S4   |   1018   |  [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)  |  ✔   |      |
 |  2   |   S5   |   1181   |      [ 단어 정렬](https://www.acmicpc.net/problem/1181)      |  ✔   |      |
 |  3   |   B1   |   1259   |      [팰린드롬수](https://www.acmicpc.net/problem/1259)      |  ✔   |      |
-|  4   |   S4   |   1920   |       [수 찾기](https://www.acmicpc.net/problem/1920)        |  ✔   |  ▲   |
+|  4   |   S4   |   1920   |       [수 찾기](https://www.acmicpc.net/problem/1920)        |  ✔   |  ⭕   |
 |  5   |   S5   |   1978   |      [소수 찾기](https://www.acmicpc.net/problem/1978)       |  ✔   |      |
-|  6   |   S4   |   2164   |        [카드2](https://www.acmicpc.net/problem/2164)         |  ✔   |  ▲   |
-|  7   |   B1   |   2609   | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) |  ✔   |  ▲   |
+|  6   |   S4   |   2164   |        [카드2](https://www.acmicpc.net/problem/2164)         |  ✔   |  ⭕   |
+|  7   |   B1   |   2609   | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) |  ✔   |  ⭕   |
 |  8   |   S5   |   2751   |    [ 수 정렬하기 2](https://www.acmicpc.net/problem/2751)    |  ✔   |      |
 |  9   |   B2   |   2798   |        [블랙잭](https://www.acmicpc.net/problem/2798)        |  ✔   |      |
 |  10  |   B3   |   4153   |      [직각삼각형](https://www.acmicpc.net/problem/4153)      |  ✔   |      |
 |  11  |   S4   |   9012   |         [괄호](https://www.acmicpc.net/problem/9012)         |  ✔   |      |
 |  12  |   B2   |  10250   |      [ ACM 호텔](https://www.acmicpc.net/problem/10250)      |  ✔   |      |
 |  13  |   S5   |  10816   |     [나이순 정렬](https://www.acmicpc.net/problem/10814)     |  ✔   |      |
-|  14  |   S4   |  10828   |     [숫자 카드 2](https://www.acmicpc.net/problem/10816)     |  ✔   |  ▲   |
+|  14  |   S4   |  10828   |     [숫자 카드 2](https://www.acmicpc.net/problem/10816)     |  ✔   |  ⭕   |
 |  15  |   S4   |  10866   |        [스택](https://www.acmicpc.net/problem/10828)         |  ✔   |      |
 |  16  |   S4   |  11050   |         [ 큐](https://www.acmicpc.net/problem/10845)         |  ✔   |      |
 |  17  |   S4   |  11650   |         [ 덱](https://www.acmicpc.net/problem/10866)         |  ✔   |      |
-|  18  |   B1   |  11050   |     [이항 계수 1](https://www.acmicpc.net/problem/11050)     |  ✔   |  ▲   |
+|  18  |   B1   |  11050   |     [이항 계수 1](https://www.acmicpc.net/problem/11050)     |  ✔   |  ⭕   |
 |  19  |   S5   |  11650   |   [ 좌표 정렬하기](https://www.acmicpc.net/problem/11650)    |  ✔   |      |
 |  20  |   S5   |  11866   |  [ 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)   |  ✔   |      |
 |  21  |   B3   |   1018   |  [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)   |  ✔   |      |
@@ -42,11 +42,11 @@
 |  28  |   S5   |   2869   | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) |  ✔   |      |
 |  29  |   B1   |   2751   |   [ 수 정렬하기 3](https://www.acmicpc.net/problem/10989)    |  ✔   |      |
 |  30  |   S5   |  11650   |   [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)   |  ✔   |      |
-|  31  |   B2   |  15829   |       [Hashing](https://www.acmicpc.net/problem/15829)       |      |      |
-|  32  |   B2   |   2292   |         [벌집](https://www.acmicpc.net/problem/2292)         |      |      |
-|  33  |   S4   |   4949   |    [균형잡힌 세상](https://www.acmicpc.net/problem/4949)     |      |      |
-|  34  |   S4   |  10773   |        [제로](https://www.acmicpc.net/problem/10773)         |      |      |
-|  35  |   S3   |   1874   |      [ 스택 수열](https://www.acmicpc.net/problem/1874)      |      |      |
+|  31  |   B2   |  15829   |       [Hashing](https://www.acmicpc.net/problem/15829)       |  ✔   |      |
+|  32  |   B2   |   2292   |         [벌집](https://www.acmicpc.net/problem/2292)         |  ✔   |  ⭕   |
+|  33  |   S4   |  10773   |        [제로](https://www.acmicpc.net/problem/10773)         |  ✔   |      |
+|  34  |   S4   |   4949   |    [균형잡힌 세상](https://www.acmicpc.net/problem/4949)     |  ✔   |      |
+|  35  |   S3   |   1874   |      [ 스택 수열](https://www.acmicpc.net/problem/1874)      |  ✔   |      |
 |  36  |   S3   |   1966   |      [ 프린터 큐](https://www.acmicpc.net/problem/1966)      |      |      |
 |  37  |   S3   |   2108   |        [통계학](https://www.acmicpc.net/problem/2108)        |      |      |
 |  38  |   S2   |   1654   |     [랜선 자르기](https://www.acmicpc.net/problem/1654)      |      |      |
@@ -65,7 +65,7 @@
 |  2   | silver5 |  [1292](https://www.acmicpc.net/problem/1292)  |     쉽게 푸는 문제      |  ✔   |      |
 |  3   | silver4 | [12927](https://www.acmicpc.net/problem/12927) |       배수 스위치       |  ✔   |  ⭕   |
 |  4   | silver5 |  [1789](https://www.acmicpc.net/problem/1789)  |        수들의 합        |  ✔   |  ⭕   |
-|  5   | silver4 |  [1980](https://www.acmicpc.net/problem/1980)  |       햄버거 사랑       |      |  ⭕   |
+|  5   | silver4 |  [1980](https://www.acmicpc.net/problem/1980)  |       햄버거 사랑       |  ✔   |  ⭕   |
 |  6   | silver4 |  [1120](https://www.acmicpc.net/problem/1120)  |         문자열          |  ✔   |  ⭕   |
 |  7   | silver3 | [16922](https://www.acmicpc.net/problem/16922) |    로마 숫자 만들기     |  ✔   |  ⭕   |
 |  8   | silver4 | [10158](https://www.acmicpc.net/problem/10158) |          개미           |  ✔   |  ⭕   |
