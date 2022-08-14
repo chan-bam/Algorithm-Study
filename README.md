@@ -47,10 +47,10 @@
 |  33  |   S4   |  10773   |        [제로](https://www.acmicpc.net/problem/10773)         |  ✔   |      |
 |  34  |   S4   |   4949   |    [균형잡힌 세상](https://www.acmicpc.net/problem/4949)     |  ✔   |      |
 |  35  |   S3   |   1874   |      [ 스택 수열](https://www.acmicpc.net/problem/1874)      |  ✔   |      |
-|  36  |   S3   |   1966   |      [ 프린터 큐](https://www.acmicpc.net/problem/1966)      |      |      |
-|  37  |   S3   |   2108   |        [통계학](https://www.acmicpc.net/problem/2108)        |      |      |
-|  38  |   S2   |   1654   |     [랜선 자르기](https://www.acmicpc.net/problem/1654)      |      |      |
-|  39  |   S2   |   2805   |     [나무 자르기](https://www.acmicpc.net/problem/2805)      |      |      |
+|  36  |   S3   |   1966   |      [ 프린터 큐](https://www.acmicpc.net/problem/1966)      |  ✔   |      |
+|  37  |   S3   |   2108   |        [통계학](https://www.acmicpc.net/problem/2108)        |  ✔   |      |
+|  38  |   S2   |   2805   |     [나무 자르기](https://www.acmicpc.net/problem/2805)      |  ✔   |  ⭕   |
+|  39  |   S2   |   1654   |     [랜선 자르기](https://www.acmicpc.net/problem/1654)      |      |      |
 |  40  |   S2   |  18111   |    [마인크래프트](https://www.acmicpc.net/problem/18111)     |      |      |
 
 
