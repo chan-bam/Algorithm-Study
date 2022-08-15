@@ -7,6 +7,7 @@ trees = list(map(int, input().split())) # N개
 
 start, end = 0, max(trees)
 
+# binary search
 while start <= end:
     # print(start, end)
     middle = (start + end) // 2
