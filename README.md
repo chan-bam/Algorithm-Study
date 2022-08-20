@@ -19,10 +19,10 @@
 |  5   |   S3   |   1003   |    [피보나치 함수](https://www.acmicpc.net/problem/1003)     |  ✔   |  ⭕   |
 |  6   |   S3   |   1463   |      [1로 만들기](https://www.acmicpc.net/problem/1463)      |  ✔   |      |
 |  7   |   S3   |   9095   |    [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)    |  ✔   |  ⭕   |
-|  8   |   S3   |  11726   |     [ 2×n 타일링](https://www.acmicpc.net/problem/11726)     |      |      |
+|  8   |   S3   |  11726   |     [ 2×n 타일링](https://www.acmicpc.net/problem/11726)     |  ✔   |      |
 |  9   |   S2   |   1012   |     [ 유기농 배추](https://www.acmicpc.net/problem/1012)     |      |      |
 |  10  |   S3   |   2606   |      [ 바이러스](https://www.acmicpc.net/problem/2606)       |      |      |
-|  11  |   S2   |   1927   |       [최소 힙](https://www.acmicpc.net/problem/1927)        |      |      |
+|  11  |   S2   |   1927   |       [최소 힙](https://www.acmicpc.net/problem/1927)        |  ✔   |      |
 |  12  |   S2   |   2630   |    [색종이 만들기](https://www.acmicpc.net/problem/2630)     |      |      |
 |  13  |   S2   |  11279   |       [최대 힙](https://www.acmicpc.net/problem/11279)       |      |      |
 |  14  |   S2   |  11724   |  [연결 요소의 개수](https://www.acmicpc.net/problem/11724)   |      |      |
@@ -32,6 +32,39 @@
 |  18  |   S1   |   1931   |     [회의실 배정](https://www.acmicpc.net/problem/1931)      |      |      |
 |  19  |   G5   |   7576   |        [토마토](https://www.acmicpc.net/problem/7576)        |      |      |
 |  20  |   G4   |   7662   |   [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)   |      |      |
+
+###### CLASS 3
+
+| 연번 | 난이도 | 문제번호 |                             제목                             | 풀이 | 참조 |
+| :--: | :----: | :------: | :----------------------------------------------------------: | :--: | :--: |
+|  1   |   S5   |   1676   |  [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)   |  ✔   |      |
+|  2   |   S4   |  11047   |       [동전 0](https://www.acmicpc.net/problem/11047)        |      |      |
+|  3   |   S3   |  17219   |    [비밀번호 찾기](https://www.acmicpc.net/problem/17219)    |      |      |
+|  4   |   S3   |   2579   |     [계단 오르기](https://www.acmicpc.net/problem/2579)      |      |      |
+|  5   |   S3   |   9375   |    [패션왕 신해빈](https://www.acmicpc.net/problem/9375)     |      |      |
+|  6   |   S3   |   9461   |     [파도반 수열](https://www.acmicpc.net/problem/9461)      |      |      |
+|  7   |   S3   |   1659   |  [ 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)  |      |      |
+|  8   |   S3   |  11727   |    [2×n 타일링 2](https://www.acmicpc.net/problem/11727)     |      |      |
+|  9   |   S3   |  17626   |    [Four Squares](https://www.acmicpc.net/problem/17626)     |      |      |
+|  10  |   S2   |   1260   |      [ DFS와 BFS](https://www.acmicpc.net/problem/1260)      |      |      |
+|  11  |   S2   |   1541   |    [잃어버린 괄호](https://www.acmicpc.net/problem/1541)     |      |      |
+|  12  |   S2   |   1780   |     [종이의 개수](https://www.acmicpc.net/problem/1780)      |      |      |
+|  13  |   S1   |   1389   | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) |      |      |
+|  14  |   S1   |   1992   |       [쿼드트리](https://www.acmicpc.net/problem/1992)       |      |      |
+|  15  |   S1   |   2178   |      [미로 탐색](https://www.acmicpc.net/problem/2178)       |      |      |
+|  16  |   S1   |   2667   |   [ 단지번호붙이기](https://www.acmicpc.net/problem/2667)    |      |      |
+|  17  |   S1   |   5525   |        [IOIOI](https://www.acmicpc.net/problem/5525)         |      |      |
+|  18  |   S1   |   6064   |      [카잉 달력](https://www.acmicpc.net/problem/6064)       |      |      |
+|  19  |   S1   |  11286   |      [절댓값 힙](https://www.acmicpc.net/problem/11286)      |      |      |
+|  20  |   S1   |  11403   |      [경로 찾기](https://www.acmicpc.net/problem/11403)      |      |      |
+|  21  |   G5   |   1107   |       [ 리모컨](https://www.acmicpc.net/problem/1107)        |      |      |
+|  22  |   G5   |   5430   |         [ AC](https://www.acmicpc.net/problem/5430)          |      |      |
+|  23  |   G5   |   7569   |       [ 토마토](https://www.acmicpc.net/problem/7569)        |      |      |
+|  24  |   G5   |  10026   |      [적록색약](https://www.acmicpc.net/problem/10026)       |      |      |
+|  25  |   G5   |  16928   |  [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)   |      |      |
+|  26  |   G5   |   9019   |         [DSLR](https://www.acmicpc.net/problem/9019)         |      |      |
+|  27  |   G4   |  14500   |     [테트로미노](https://www.acmicpc.net/problem/14500)      |      |      |
+|  28  |   G4   |  16236   |      [아기 상어](https://www.acmicpc.net/problem/16236)      |      |      |
 
 ###### CLASS 2
 
