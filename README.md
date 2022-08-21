@@ -10,36 +10,36 @@
 
 ###### CLASS 3 - essential
 
-| 연번 | 난이도 | 문제번호 |                             제목                             | 풀이 | 참조 |
-| :--: | :----: | :------: | :----------------------------------------------------------: | :--: | :--: |
-|  1   |   S5   |  11723   |        [집합](https://www.acmicpc.net/problem/11723)         |  ✔   |      |
-|  2   |   S4   |   1620   | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) |  ✔   |      |
-|  3   |   S4   |   1764   |        [듣보잡](https://www.acmicpc.net/problem/1764)        |  ✔   |      |
-|  4   |   S3   |  11399   |         [ATM](https://www.acmicpc.net/problem/11399)         |  ✔   |      |
-|  5   |   S3   |   1003   |    [피보나치 함수](https://www.acmicpc.net/problem/1003)     |  ✔   |  ⭕   |
-|  6   |   S3   |   1463   |      [1로 만들기](https://www.acmicpc.net/problem/1463)      |  ✔   |      |
-|  7   |   S3   |   9095   |    [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)    |  ✔   |  ⭕   |
-|  8   |   S3   |  11726   |     [ 2×n 타일링](https://www.acmicpc.net/problem/11726)     |  ✔   |      |
-|  9   |   S2   |   1012   |     [ 유기농 배추](https://www.acmicpc.net/problem/1012)     |      |      |
-|  10  |   S3   |   2606   |      [ 바이러스](https://www.acmicpc.net/problem/2606)       |      |      |
-|  11  |   S2   |   1927   |       [최소 힙](https://www.acmicpc.net/problem/1927)        |  ✔   |      |
-|  12  |   S2   |   2630   |    [색종이 만들기](https://www.acmicpc.net/problem/2630)     |      |      |
-|  13  |   S2   |  11279   |       [최대 힙](https://www.acmicpc.net/problem/11279)       |      |      |
-|  14  |   S2   |  11724   |  [연결 요소의 개수](https://www.acmicpc.net/problem/11724)   |      |      |
-|  15  |   S2   |  18870   |      [좌표 압축](https://www.acmicpc.net/problem/18870)      |  ✔   |      |
-|  16  |   S1   |   1074   |          [Z](https://www.acmicpc.net/problem/1074)           |      |      |
-|  17  |   S1   |   1697   |       [숨바꼭질](https://www.acmicpc.net/problem/1697)       |      |      |
-|  18  |   S1   |   1931   |     [회의실 배정](https://www.acmicpc.net/problem/1931)      |      |      |
-|  19  |   G5   |   7576   |        [토마토](https://www.acmicpc.net/problem/7576)        |      |      |
-|  20  |   G4   |   7662   |   [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)   |      |      |
+| 연번 | 난이도 | 문제번호 |                             제목                             | 풀이 |     참조     |
+| :--: | :----: | :------: | :----------------------------------------------------------: | :--: | :----------: |
+|  1   |   S5   |  11723   |        [집합](https://www.acmicpc.net/problem/11723)         |  ✔   |              |
+|  2   |   S4   |   1620   | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) |  ✔   |              |
+|  3   |   S4   |   1764   |        [듣보잡](https://www.acmicpc.net/problem/1764)        |  ✔   |              |
+|  4   |   S3   |  11399   |         [ATM](https://www.acmicpc.net/problem/11399)         |  ✔   |              |
+|  5   |   S3   |   1003   |    [피보나치 함수](https://www.acmicpc.net/problem/1003)     |  ✔   |      ⭕       |
+|  6   |   S3   |   1463   |      [1로 만들기](https://www.acmicpc.net/problem/1463)      |  ✔   |              |
+|  7   |   S3   |   9095   |    [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)    |  ✔   |      ⭕       |
+|  8   |   S3   |  11726   |     [ 2×n 타일링](https://www.acmicpc.net/problem/11726)     |  ✔   |              |
+|  9   |   S2   |   1012   |     [ 유기농 배추](https://www.acmicpc.net/problem/1012)     |      |              |
+|  10  |   S3   |   2606   |      [ 바이러스](https://www.acmicpc.net/problem/2606)       |      |              |
+|  11  |   S2   |   1927   |       [최소 힙](https://www.acmicpc.net/problem/1927)        |  ✔   | python heapq |
+|  12  |   S2   |   2630   |    [색종이 만들기](https://www.acmicpc.net/problem/2630)     |      |              |
+|  13  |   S2   |  11279   |       [최대 힙](https://www.acmicpc.net/problem/11279)       |      |              |
+|  14  |   S2   |  11724   |  [연결 요소의 개수](https://www.acmicpc.net/problem/11724)   |      |              |
+|  15  |   S2   |  18870   |      [좌표 압축](https://www.acmicpc.net/problem/18870)      |  ✔   |              |
+|  16  |   S1   |   1074   |          [Z](https://www.acmicpc.net/problem/1074)           |      |              |
+|  17  |   S1   |   1697   |       [숨바꼭질](https://www.acmicpc.net/problem/1697)       |      |              |
+|  18  |   S1   |   1931   |     [회의실 배정](https://www.acmicpc.net/problem/1931)      |      |              |
+|  19  |   G5   |   7576   |        [토마토](https://www.acmicpc.net/problem/7576)        |      |              |
+|  20  |   G4   |   7662   |   [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)   |      |              |
 
 ###### CLASS 3
 
 | 연번 | 난이도 | 문제번호 |                             제목                             | 풀이 | 참조 |
 | :--: | :----: | :------: | :----------------------------------------------------------: | :--: | :--: |
 |  1   |   S5   |   1676   |  [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)   |  ✔   |      |
-|  2   |   S4   |  11047   |       [동전 0](https://www.acmicpc.net/problem/11047)        |      |      |
-|  3   |   S3   |  17219   |    [비밀번호 찾기](https://www.acmicpc.net/problem/17219)    |      |      |
+|  2   |   S4   |  11047   |       [동전 0](https://www.acmicpc.net/problem/11047)        |  ✔   |      |
+|  3   |   S3   |  17219   |    [비밀번호 찾기](https://www.acmicpc.net/problem/17219)    |  ✔   |      |
 |  4   |   S3   |   2579   |     [계단 오르기](https://www.acmicpc.net/problem/2579)      |      |      |
 |  5   |   S3   |   9375   |    [패션왕 신해빈](https://www.acmicpc.net/problem/9375)     |      |      |
 |  6   |   S3   |   9461   |     [파도반 수열](https://www.acmicpc.net/problem/9461)      |      |      |
