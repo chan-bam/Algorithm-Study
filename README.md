@@ -40,11 +40,11 @@
 |  1   |   S5   |   1676   |  [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)   |  ✔   |      |
 |  2   |   S4   |  11047   |       [동전 0](https://www.acmicpc.net/problem/11047)        |  ✔   |      |
 |  3   |   S3   |  17219   |    [비밀번호 찾기](https://www.acmicpc.net/problem/17219)    |  ✔   |      |
-|  4   |   S3   |   2579   |     [계단 오르기](https://www.acmicpc.net/problem/2579)      |      |      |
-|  5   |   S3   |   9375   |    [패션왕 신해빈](https://www.acmicpc.net/problem/9375)     |      |      |
-|  6   |   S3   |   9461   |     [파도반 수열](https://www.acmicpc.net/problem/9461)      |      |      |
-|  7   |   S3   |   1659   |  [ 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)  |      |      |
-|  8   |   S3   |  11727   |    [2×n 타일링 2](https://www.acmicpc.net/problem/11727)     |      |      |
+|  4   |   S3   |   2579   |     [계단 오르기](https://www.acmicpc.net/problem/2579)      |  ✔   |  ⭕   |
+|  5   |   S3   |   9375   |    [패션왕 신해빈](https://www.acmicpc.net/problem/9375)     |  ✔   |  ⭕   |
+|  6   |   S3   |   9461   |     [파도반 수열](https://www.acmicpc.net/problem/9461)      |  ✔   |      |
+|  7   |   S3   |   1659   |  [ 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)  |  ✔   |      |
+|  8   |   S3   |  11727   |    [2×n 타일링 2](https://www.acmicpc.net/problem/11727)     |  ✔   |      |
 |  9   |   S3   |  17626   |    [Four Squares](https://www.acmicpc.net/problem/17626)     |      |      |
 |  10  |   S2   |   1260   |      [ DFS와 BFS](https://www.acmicpc.net/problem/1260)      |      |      |
 |  11  |   S2   |   1541   |    [잃어버린 괄호](https://www.acmicpc.net/problem/1541)     |      |      |
