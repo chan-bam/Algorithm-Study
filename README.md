@@ -1,4 +1,4 @@
-#  🧮 Python Algorithm Study
+#  🧮 Algorithm Study
 
 
 
@@ -20,13 +20,13 @@
 |  6   |   S3   |   1463   |      [1로 만들기](https://www.acmicpc.net/problem/1463)      |  ✔   |              |
 |  7   |   S3   |   9095   |    [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)    |  ✔   |      ⭕       |
 |  8   |   S3   |  11726   |     [ 2×n 타일링](https://www.acmicpc.net/problem/11726)     |  ✔   |              |
-|  9   |   S2   |   1012   |     [ 유기농 배추](https://www.acmicpc.net/problem/1012)     |      |              |
-|  10  |   S3   |   2606   |      [ 바이러스](https://www.acmicpc.net/problem/2606)       |      |              |
+|  9   |   S3   |   2606   |      [ 바이러스](https://www.acmicpc.net/problem/2606)       |  ✔   |              |
+|  10  |   S2   |   1012   |     [ 유기농 배추](https://www.acmicpc.net/problem/1012)     |  ✔   |              |
 |  11  |   S2   |   1927   |       [최소 힙](https://www.acmicpc.net/problem/1927)        |  ✔   | python heapq |
-|  12  |   S2   |   2630   |    [색종이 만들기](https://www.acmicpc.net/problem/2630)     |      |              |
-|  13  |   S2   |  11279   |       [최대 힙](https://www.acmicpc.net/problem/11279)       |      |              |
-|  14  |   S2   |  11724   |  [연결 요소의 개수](https://www.acmicpc.net/problem/11724)   |      |              |
-|  15  |   S2   |  18870   |      [좌표 압축](https://www.acmicpc.net/problem/18870)      |  ✔   |              |
+|  12  |   S2   |  18870   |      [좌표 압축](https://www.acmicpc.net/problem/18870)      |  ✔   |              |
+|  13  |   S2   |   2630   |    [색종이 만들기](https://www.acmicpc.net/problem/2630)     |      |              |
+|  14  |   S2   |  11279   |       [최대 힙](https://www.acmicpc.net/problem/11279)       |      |              |
+|  15  |   S2   |  11724   |  [연결 요소의 개수](https://www.acmicpc.net/problem/11724)   |      |              |
 |  16  |   S1   |   1074   |          [Z](https://www.acmicpc.net/problem/1074)           |      |              |
 |  17  |   S1   |   1697   |       [숨바꼭질](https://www.acmicpc.net/problem/1697)       |      |              |
 |  18  |   S1   |   1931   |     [회의실 배정](https://www.acmicpc.net/problem/1931)      |      |              |
@@ -45,8 +45,8 @@
 |  6   |   S3   |   9461   |     [파도반 수열](https://www.acmicpc.net/problem/9461)      |  ✔   |      |
 |  7   |   S3   |   1659   |  [ 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)  |  ✔   |      |
 |  8   |   S3   |  11727   |    [2×n 타일링 2](https://www.acmicpc.net/problem/11727)     |  ✔   |      |
-|  9   |   S3   |  17626   |    [Four Squares](https://www.acmicpc.net/problem/17626)     |      |      |
-|  10  |   S2   |   1260   |      [ DFS와 BFS](https://www.acmicpc.net/problem/1260)      |      |      |
+|  9   |   S3   |  17626   |    [Four Squares](https://www.acmicpc.net/problem/17626)     |  ✔   |  ⭕   |
+|  10  |   S2   |   1260   |      [ DFS와 BFS](https://www.acmicpc.net/problem/1260)      |  ✔   |  🔻   |
 |  11  |   S2   |   1541   |    [잃어버린 괄호](https://www.acmicpc.net/problem/1541)     |      |      |
 |  12  |   S2   |   1780   |     [종이의 개수](https://www.acmicpc.net/problem/1780)      |      |      |
 |  13  |   S1   |   1389   | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) |      |      |
