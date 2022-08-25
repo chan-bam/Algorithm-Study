@@ -24,9 +24,9 @@
 |  10  |   S2   |   1012   |     [ 유기농 배추](https://www.acmicpc.net/problem/1012)     |  ✔   |              |
 |  11  |   S2   |   1927   |       [최소 힙](https://www.acmicpc.net/problem/1927)        |  ✔   | python heapq |
 |  12  |   S2   |  18870   |      [좌표 압축](https://www.acmicpc.net/problem/18870)      |  ✔   |              |
-|  13  |   S2   |   2630   |    [색종이 만들기](https://www.acmicpc.net/problem/2630)     |      |              |
-|  14  |   S2   |  11279   |       [최대 힙](https://www.acmicpc.net/problem/11279)       |      |              |
-|  15  |   S2   |  11724   |  [연결 요소의 개수](https://www.acmicpc.net/problem/11724)   |      |              |
+|  13  |   S2   |  11724   |  [연결 요소의 개수](https://www.acmicpc.net/problem/11724)   |  ✔   |              |
+|  14  |   S2   |  11279   |       [최대 힙](https://www.acmicpc.net/problem/11279)       |  ✔   | python heapq |
+|  15  |   S2   |   2630   |    [색종이 만들기](https://www.acmicpc.net/problem/2630)     |      |              |
 |  16  |   S1   |   1074   |          [Z](https://www.acmicpc.net/problem/1074)           |      |              |
 |  17  |   S1   |   1697   |       [숨바꼭질](https://www.acmicpc.net/problem/1697)       |      |              |
 |  18  |   S1   |   1931   |     [회의실 배정](https://www.acmicpc.net/problem/1931)      |      |              |
@@ -52,7 +52,7 @@
 |  13  |   S1   |   1389   | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) |      |      |
 |  14  |   S1   |   1992   |       [쿼드트리](https://www.acmicpc.net/problem/1992)       |      |      |
 |  15  |   S1   |   2178   |      [미로 탐색](https://www.acmicpc.net/problem/2178)       |      |      |
-|  16  |   S1   |   2667   |   [ 단지번호붙이기](https://www.acmicpc.net/problem/2667)    |      |      |
+|  16  |   S1   |   2667   |   [ 단지번호붙이기](https://www.acmicpc.net/problem/2667)    |  ✔   |      |
 |  17  |   S1   |   5525   |        [IOIOI](https://www.acmicpc.net/problem/5525)         |      |      |
 |  18  |   S1   |   6064   |      [카잉 달력](https://www.acmicpc.net/problem/6064)       |      |      |
 |  19  |   S1   |  11286   |      [절댓값 힙](https://www.acmicpc.net/problem/11286)      |      |      |
