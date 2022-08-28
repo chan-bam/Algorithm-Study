@@ -28,8 +28,8 @@
 |  14  |   S2   |  11279   |       [최대 힙](https://www.acmicpc.net/problem/11279)       |  ✔   | python heapq |
 |  15  |   S2   |   2630   |    [색종이 만들기](https://www.acmicpc.net/problem/2630)     |      |              |
 |  16  |   S1   |   1074   |          [Z](https://www.acmicpc.net/problem/1074)           |      |              |
-|  17  |   S1   |   1697   |       [숨바꼭질](https://www.acmicpc.net/problem/1697)       |      |              |
-|  18  |   S1   |   1931   |     [회의실 배정](https://www.acmicpc.net/problem/1931)      |      |              |
+|  17  |   S1   |   1697   |       [숨바꼭질](https://www.acmicpc.net/problem/1697)       |  ✔   |      ⭕       |
+|  18  |   S1   |   1931   |     [회의실 배정](https://www.acmicpc.net/problem/1931)      |  ✔   |      ⭕       |
 |  19  |   G5   |   7576   |        [토마토](https://www.acmicpc.net/problem/7576)        |  ✔   |      ⭕       |
 |  20  |   G4   |   7662   |   [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)   |      |              |
 
@@ -424,7 +424,7 @@
 |  21  |       큐        |   1225    |    암호생성기     |  ✔   |  ⭕   |   ⬇    |
 |  22  |       큐        |   1226    |       미로1       |  ✔   |  ⭕   |   ⬇    |
 |  23  |      트리       |   1231    |     중위순회      |  ✔   |  ⭕   |   ➡    |
-|  24  |      트리       |   1232    |     사칙연산      |  ✔   |  ⭕   |   ⬇    |
+|  24  |      트리       |   1232    |     사칙연산      |  ✔   |  ⭕   |   ➡    |
 |  25  |      Start      |   1240    | 단순 2진 암호코드 |  ✔   |  ⭕   |   ➡    |
 |  26  |      Start      |   1242    |   암호코드 스캔   |      |  ⭕   |   ⬇    |
 |  27  | 완전검색&그리디 |   1244    |     최대상금      |      |      |        |
