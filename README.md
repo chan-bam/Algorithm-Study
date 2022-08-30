@@ -49,14 +49,14 @@
 |  10  |   S2   |   1260   |      [ DFS와 BFS](https://www.acmicpc.net/problem/1260)      |  ✔   |  🔻   |
 |  11  |   S2   |   1541   |    [잃어버린 괄호](https://www.acmicpc.net/problem/1541)     |      |      |
 |  12  |   S2   |   1780   |     [종이의 개수](https://www.acmicpc.net/problem/1780)      |  ✔   |      |
-|  13  |   S1   |   1389   | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) |      |      |
+|  13  |   S1   |   1389   | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) |  ✔   |      |
 |  14  |   S1   |   1992   |       [쿼드트리](https://www.acmicpc.net/problem/1992)       |      |      |
 |  15  |   S1   |   2178   |      [미로 탐색](https://www.acmicpc.net/problem/2178)       |  ✔   |      |
 |  16  |   S1   |   2667   |   [ 단지번호붙이기](https://www.acmicpc.net/problem/2667)    |  ✔   |      |
-|  17  |   S1   |   5525   |        [IOIOI](https://www.acmicpc.net/problem/5525)         |      |      |
-|  18  |   S1   |   6064   |      [카잉 달력](https://www.acmicpc.net/problem/6064)       |      |      |
-|  19  |   S1   |  11286   |      [절댓값 힙](https://www.acmicpc.net/problem/11286)      |      |      |
-|  20  |   S1   |  11403   |      [경로 찾기](https://www.acmicpc.net/problem/11403)      |      |      |
+|  17  |   S1   |  11403   |      [경로 찾기](https://www.acmicpc.net/problem/11403)      |  ✔   |  ⭕   |
+|  18  |   S1   |   5525   |        [IOIOI](https://www.acmicpc.net/problem/5525)         |      |      |
+|  19  |   S1   |   6064   |      [카잉 달력](https://www.acmicpc.net/problem/6064)       |      |      |
+|  20  |   S1   |  11286   |      [절댓값 힙](https://www.acmicpc.net/problem/11286)      |      |      |
 |  21  |   G5   |   1107   |       [ 리모컨](https://www.acmicpc.net/problem/1107)        |      |      |
 |  22  |   G5   |   5430   |         [ AC](https://www.acmicpc.net/problem/5430)          |      |      |
 |  23  |   G5   |   7569   |       [ 토마토](https://www.acmicpc.net/problem/7569)        |  ✔   |      |
@@ -129,10 +129,10 @@
 |  8   |   S2   |   1012   |     [유기농 배추](https://www.acmicpc.net/problem/1012)      |  ✔   |      |
 |  9   |   S1   |   2178   |      [미로 탐색](https://www.acmicpc.net/problem/2178)       |  ✔   |      |
 |  10  |   S1   |   1697   |       [숨바꼭질](https://www.acmicpc.net/problem/1697)       |  ✔   |  ⭕   |
-|  11  |   S1   |   7562   |    [나이트의 이동](https://www.acmicpc.net/problem/7562)     |      |      |
+|  11  |   S1   |   7562   |    [나이트의 이동](https://www.acmicpc.net/problem/7562)     |  ✔   |      |
 |  12  |   G5   |   7576   |        [토마토](https://www.acmicpc.net/problem/7576)        |  ✔   |  ⭕   |
 |  13  |   G5   |   7569   |        [토마토](https://www.acmicpc.net/problem/7569)        |  ✔   |      |
-|  14  |   G5   |  16928   |  [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)   |      |      |
+|  14  |   G5   |  16928   |  [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)   |  ✔   |  ⭕   |
 |  15  |   G4   |   2206   |  [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)  |      |      |
 |  16  |   G4   |   1707   |     [이분 그래프](https://www.acmicpc.net/problem/1707)      |      |      |
 
