@@ -56,10 +56,10 @@
 |  17  |   S1   |  11286   |      [절댓값 힙](https://www.acmicpc.net/problem/11286)      |  ✔   | python heapq |
 |  18  |   S1   |   1992   |       [쿼드트리](https://www.acmicpc.net/problem/1992)       |  ✔   |              |
 |  19  |   S1   |   5525   |        [IOIOI](https://www.acmicpc.net/problem/5525)         |  ✔   |              |
-|  20  |   S1   |   6064   |      [카잉 달력](https://www.acmicpc.net/problem/6064)       |      |              |
+|  20  |   S1   |   6064   |      [카잉 달력](https://www.acmicpc.net/problem/6064)       |  ✔   |      ⭕       |
 |  21  |   G5   |   7569   |       [ 토마토](https://www.acmicpc.net/problem/7569)        |  ✔   |              |
 |  22  |   G5   |  16928   |  [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)   |  ✔   |      🔻       |
-|  23  |   G5   |   1107   |       [ 리모컨](https://www.acmicpc.net/problem/1107)        |      |              |
+|  23  |   G5   |   1107   |       [ 리모컨](https://www.acmicpc.net/problem/1107)        |  ✔   |      ⭕       |
 |  24  |   G5   |   5430   |         [ AC](https://www.acmicpc.net/problem/5430)          |      |              |
 |  25  |   G5   |  10026   |      [적록색약](https://www.acmicpc.net/problem/10026)       |      |              |
 |  26  |   G5   |   9019   |         [DSLR](https://www.acmicpc.net/problem/9019)         |      |              |
