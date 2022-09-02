@@ -60,11 +60,11 @@
 |  21  |   G5   |   7569   |       [ 토마토](https://www.acmicpc.net/problem/7569)        |  ✔   |              |
 |  22  |   G5   |  16928   |  [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)   |  ✔   |      🔻       |
 |  23  |   G5   |   1107   |       [ 리모컨](https://www.acmicpc.net/problem/1107)        |  ✔   |      ⭕       |
-|  24  |   G5   |   5430   |         [ AC](https://www.acmicpc.net/problem/5430)          |      |              |
-|  25  |   G5   |  10026   |      [적록색약](https://www.acmicpc.net/problem/10026)       |      |              |
-|  26  |   G5   |   9019   |         [DSLR](https://www.acmicpc.net/problem/9019)         |      |              |
+|  24  |   G5   |   5430   |         [ AC](https://www.acmicpc.net/problem/5430)          |  ✔   |              |
+|  25  |   G5   |  10026   |      [적록색약](https://www.acmicpc.net/problem/10026)       |  ✔   |              |
+|  26  |   G4   |   9019   |         [DSLR](https://www.acmicpc.net/problem/9019)         |  ✔   |      🔻       |
 |  27  |   G4   |  14500   |     [테트로미노](https://www.acmicpc.net/problem/14500)      |      |              |
-|  28  |   G4   |  16236   |      [아기 상어](https://www.acmicpc.net/problem/16236)      |      |              |
+|  28  |   G3   |  16236   |      [아기 상어](https://www.acmicpc.net/problem/16236)      |  ✔   |      🔻       |
 
 ###### CLASS 2
 
