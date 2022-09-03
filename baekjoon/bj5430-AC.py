@@ -28,6 +28,7 @@ for _ in range(T):
                 queue.pop()
             else:
                 result = 'error'
+                break
 
     if result:
         print(result)

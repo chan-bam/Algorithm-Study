@@ -2,7 +2,7 @@ import sys
 input = sys.stdin.readline
 from collections import deque
 
-def bfs(r, c): # 상어 거리 재기
+def bfs(r, c): # 물고기 거리 재기
     global size
     sea[r][c] = 0 # ^^^^^^^^^^^
     visited = [[0] * N for _ in range(N)]
@@ -25,7 +25,7 @@ def bfs(r, c): # 상어 거리 재기
 
 def eat(able):
     global size, time, cnt
-    if not len(able):
+    if not able:
         print(time)
         exit(0)
     else:
@@ -49,8 +49,8 @@ cnt = 0
 for i in range(N):
     for j in range(N):
         if sea[i][j] == 9:
-            able = bfs(i, j)
+            eat_able = bfs(i, j)
 
 while True:
-    x, y = eat(able)
-    able = bfs(x, y)
+    x, y = eat(eat_able)
+    eat_able = bfs(x, y)

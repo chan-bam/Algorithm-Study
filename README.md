@@ -116,7 +116,7 @@
 |  24  |   G5   |   5430   |         [ AC](https://www.acmicpc.net/problem/5430)          |  ✔   |              |
 |  25  |   G5   |  10026   |      [적록색약](https://www.acmicpc.net/problem/10026)       |  ✔   |              |
 |  26  |   G4   |   9019   |         [DSLR](https://www.acmicpc.net/problem/9019)         |  ✔   |      🔻       |
-|  27  |   G4   |  14500   |     [테트로미노](https://www.acmicpc.net/problem/14500)      |      |              |
+|  27  |   G4   |  14500   |     [테트로미노](https://www.acmicpc.net/problem/14500)      |  ✔   |              |
 |  28  |   G3   |  16236   |      [아기 상어](https://www.acmicpc.net/problem/16236)      |  ✔   |      🔻       |
 
 ###### CLASS 2
@@ -172,10 +172,10 @@
 
 | 번호 | 난이도 | 문제번호 |                             제목                             | 풀이 | 참조 |
 | :--: | :----: | :------: | :----------------------------------------------------------: | :--: | :--: |
-|  1   |   B3   |   5086   |     [배수와 약수](https://www.acmicpc.net/problem/5086)      |      |      |
+|  1   |   B3   |   5086   |     [배수와 약수](https://www.acmicpc.net/problem/5086)      |  ✔   |      |
 |  2   |   B1   |   2609   | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) |  ✔   |  🔺   |
-|  3   |   B1   |   1934   |      [최소공배수](https://www.acmicpc.net/problem/1934)      |      |      |
-|  4   |   B1   |   1037   |         [약수](https://www.acmicpc.net/problem/1037)         |      |      |
+|  3   |   B1   |   1934   |      [최소공배수](https://www.acmicpc.net/problem/1934)      |  ✔   |      |
+|  4   |   B1   |   1037   |         [약수](https://www.acmicpc.net/problem/1037)         |  ✔   |      |
 |  5   |   B1   |  11051   |     [이항 계수 1](https://www.acmicpc.net/problem/11050)     |  ✔   |  ⭕   |
 |  6   |   S5   |   1676   |  [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)   |  ✔   |      |
 |  7   |   S5   |   1010   |      [다리 놓기](https://www.acmicpc.net/problem/1010)       |      |      |
