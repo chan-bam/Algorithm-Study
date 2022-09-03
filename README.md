@@ -8,6 +8,59 @@
 
 #### solved.ac
 
+###### CLASS 4
+
+| 연번 | 난이도 | 문제번호 |                             제목                             | 풀이 | 참조 |
+| :--: | :----: | :------: | :----------------------------------------------------------: | :--: | :--: |
+|  1   |   S4   |   2407   |         [조합](https://www.acmicpc.net/problem/2407)         |      |      |
+|  2   |   S3   |  15650   |      [N과 M (2)](https://www.acmicpc.net/problem/15650)      |      |      |
+|  3   |   S3   |  15652   |     [ N과 M (4)](https://www.acmicpc.net/problem/15652)      |      |      |
+|  4   |   S3   |  15654   |      [N과 M (5)](https://www.acmicpc.net/problem/15654)      |      |      |
+|  5   |   S3   |  15657   |      [N과 M (8)](https://www.acmicpc.net/problem/15657)      |      |      |
+|  6   |   S2   |  11053   | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) |      |      |
+|  7   |   S2   |  11725   |  [ 트리의 부모 찾기](https://www.acmicpc.net/problem/11725)  |  ✔   |  🔻   |
+|  8   |   S2   |  15663   |     [ N과 M (9)](https://www.acmicpc.net/problem/15663)      |      |      |
+|  9   |   S2   |  15666   |     [ N과 M (12)](https://www.acmicpc.net/problem/15666)     |      |      |
+|  10  |   S2   |  16953   |        [A → B](https://www.acmicpc.net/problem/16953)        |      |      |
+|  11  |   S1   |   1149   |       [RGB거리](https://www.acmicpc.net/problem/1149)        |      |      |
+|  12  |   S1   |   1629   |         [곱셈](https://www.acmicpc.net/problem/1629)         |      |      |
+|  13  |   S1   |   1932   |     [정수 삼각형](https://www.acmicpc.net/problem/1932)      |      |      |
+|  14  |   S1   |   1991   |      [트리 순회](https://www.acmicpc.net/problem/1991)       |  ✔   |      |
+|  15  |   S1   |   9465   |        [스티커](https://www.acmicpc.net/problem/9465)        |      |      |
+|  16  |   S1   |  11660   |  [ 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)  |      |      |
+|  17  |   G5   |   1916   |   [최소비용 구하기](https://www.acmicpc.net/problem/1916)    |      |      |
+|  18  |   G5   |   2096   |       [내려가기](https://www.acmicpc.net/problem/2096)       |      |      |
+|  19  |   G5   |   5639   |   [ 이진 검색 트리](https://www.acmicpc.net/problem/5639)    |      |      |
+|  20  |   G5   |   9251   |         [ LCS](https://www.acmicpc.net/problem/9251)         |      |      |
+|  21  |   G5   |  12865   |     [평범한 배낭](https://www.acmicpc.net/problem/12865)     |      |      |
+|  22  |   G5   |  13549   |     [숨바꼭질 3](https://www.acmicpc.net/problem/13549)      |      |      |
+|  23  |   G5   |  15686   |      [치킨 배달](https://www.acmicpc.net/problem/15686)      |      |      |
+|  24  |   G5   |  17070   |   [파이프 옮기기 1](https://www.acmicpc.net/problem/17070)   |      |      |
+|  25  |   G4   |   1043   |        [거짓말](https://www.acmicpc.net/problem/1043)        |      |      |
+|  26  |   G4   |   1504   |   [특정한 최단 경로](https://www.acmicpc.net/problem/1504)   |      |      |
+|  27  |   G4   |   1753   |       [최단경로](https://www.acmicpc.net/problem/1753)       |      |      |
+|  28  |   G4   |   1967   |     [트리의 지름](https://www.acmicpc.net/problem/1967)      |      |      |
+|  29  |   G4   |   2206   |  [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)  |      |      |
+|  30  |   G4   |   2448   |    [ 별 찍기 - 11](https://www.acmicpc.net/problem/2448)     |      |      |
+|  31  |   G4   |   9663   |       [N-Queen](https://www.acmicpc.net/problem/9663)        |      |      |
+|  32  |   G4   |   9935   |     [문자열 폭발](https://www.acmicpc.net/problem/9935)      |      |      |
+|  33  |   G4   |  10830   |     [ 행렬 제곱](https://www.acmicpc.net/problem/10830)      |      |      |
+|  34  |   G4   |  11054   | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) |      |      |
+|  35  |   G4   |  11404   |      [플로이드](https://www.acmicpc.net/problem/11404)       |      |      |
+|  36  |   G4   |  12851   |     [숨바꼭질 2](https://www.acmicpc.net/problem/12851)      |      |      |
+|  37  |   G4   |  13172   |          [Σ](https://www.acmicpc.net/problem/13172)          |      |      |
+|  38  |   G4   |  14502   |       [연구소](https://www.acmicpc.net/problem/14502)        |      |      |
+|  39  |   G4   |  14938   |    [서강그라운드](https://www.acmicpc.net/problem/14938)     |      |      |
+|  40  |   G4   |  17144   |   [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)    |      |      |
+|  41  |   G3   |   1238   |        [ 파티](https://www.acmicpc.net/problem/1238)         |      |      |
+|  42  |   G3   |   1865   |        [ 웜홀](https://www.acmicpc.net/problem/1865)         |      |      |
+|  43  |   G3   |   2638   |        [ 치즈](https://www.acmicpc.net/problem/2638)         |      |      |
+|  44  |   G3   |  11779   |  [최소비용 구하기 2](https://www.acmicpc.net/problem/11779)  |      |      |
+|  45  |   G2   |   1167   |     [트리의 지름](https://www.acmicpc.net/problem/1167)      |      |      |
+|  46  |   G2   |   1918   |     [후위 표기식](https://www.acmicpc.net/problem/1918)      |      |      |
+|  47  |   G2   |   2263   |     [트리의 순회](https://www.acmicpc.net/problem/2263)      |      |      |
+|  48  |   G2   |  11444   |    [피보나치 수 6](https://www.acmicpc.net/problem/11444)    |      |      |
+
 ###### CLASS 3 - essential
 
 | 연번 | 난이도 | 문제번호 |                             제목                             | 풀이 |        참조         |
@@ -52,7 +105,7 @@
 |  13  |   S1   |   1389   | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) |  ✔   |              |
 |  14  |   S1   |   2178   |      [미로 탐색](https://www.acmicpc.net/problem/2178)       |  ✔   |              |
 |  15  |   S1   |   2667   |   [ 단지번호붙이기](https://www.acmicpc.net/problem/2667)    |  ✔   |              |
-|  16  |   S1   |  11403   |      [경로 찾기](https://www.acmicpc.net/problem/11403)      |  ✔   |      ⭕       |
+|  16  |   S1   |  11403   |      [경로 찾기](https://www.acmicpc.net/problem/11403)      |  ✔   |      🔻       |
 |  17  |   S1   |  11286   |      [절댓값 힙](https://www.acmicpc.net/problem/11286)      |  ✔   | python heapq |
 |  18  |   S1   |   1992   |       [쿼드트리](https://www.acmicpc.net/problem/1992)       |  ✔   |              |
 |  19  |   S1   |   5525   |        [IOIOI](https://www.acmicpc.net/problem/5525)         |  ✔   |              |
@@ -114,6 +167,35 @@
 #### 단계별로 풀어보기
 
 - https://www.acmicpc.net/step
+
+###### 정수론 및 조합론
+
+| 번호 | 난이도 | 문제번호 |                             제목                             | 풀이 | 참조 |
+| :--: | :----: | :------: | :----------------------------------------------------------: | :--: | :--: |
+|  1   |   B3   |   5086   |     [배수와 약수](https://www.acmicpc.net/problem/5086)      |      |      |
+|  2   |   B1   |   2609   | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) |  ✔   |  🔺   |
+|  3   |   B1   |   1934   |      [최소공배수](https://www.acmicpc.net/problem/1934)      |      |      |
+|  4   |   B1   |   1037   |         [약수](https://www.acmicpc.net/problem/1037)         |      |      |
+|  5   |   B1   |  11051   |     [이항 계수 1](https://www.acmicpc.net/problem/11050)     |  ✔   |  ⭕   |
+|  6   |   S5   |   1676   |  [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)   |  ✔   |      |
+|  7   |   S5   |   1010   |      [다리 놓기](https://www.acmicpc.net/problem/1010)       |      |      |
+|  8   |   S4   |   3036   |          [링](https://www.acmicpc.net/problem/3036)          |      |      |
+|  9   |   S3   |   9375   |    [패션왕 신해빈](https://www.acmicpc.net/problem/9375)     |  ✔   |  ⭕   |
+|  10  |   S3   |  11051   |     [이항 계수 2](https://www.acmicpc.net/problem/11051)     |      |      |
+|  11  |   S2   |   2004   |    [조합 0의 개수](https://www.acmicpc.net/problem/2004)     |      |      |
+|  12  |   G4   |   2981   |         [검문](https://www.acmicpc.net/problem/2981)         |      |      |
+
+###### 트리
+
+| 번호 | 난이도 | 문제번호 |                           제목                            | 풀이 | 참조 |
+| :--: | :----: | :------: | :-------------------------------------------------------: | :--: | :--: |
+|  1   |   S2   |  11725   | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) |  ✔   |  🔺   |
+|  2   |   S1   |   1991   |     [트리 순회](https://www.acmicpc.net/problem/1991)     |  ✔   |      |
+|  3   |   G5   |   5639   |  [이진 검색 트리](https://www.acmicpc.net/problem/5639)   |      |      |
+|  4   |   G4   |   4803   |       [트리](https://www.acmicpc.net/problem/4803)        |      |      |
+|  5   |   G4   |   1967   |    [트리의 지름](https://www.acmicpc.net/problem/1967)    |      |      |
+|  6   |   G2   |   2263   |    [트리의 순회](https://www.acmicpc.net/problem/2263)    |      |      |
+|  7   |   G2   |   1167   |    [트리의 지름](https://www.acmicpc.net/problem/1167)    |      |      |
 
 ###### 그래프와 순회
 
