@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open("2636in.txt")
+# sys.stdin = open("2636in.txt")
 sys.setrecursionlimit(10**5) # 최대 재귀 깊이 늘리기
 input = sys.stdin.readline
 
@@ -29,7 +29,7 @@ dc = [-1, 1, 0, 0]
 hour = 0 # 치즈가 모두 녹아서 없어지는데 걸리는 시간
 while True:
     visited = [[0] * m for _ in range(n)] # visited가 while문을 돌 때마다 초기화되므로 기존에 치즈(1)였다가 0으로 바뀐 좌표도 다시 탐색을 하게 됨
-    visited[0][0] = 1  # (0,0)부터 dfs 탐색 -> 방문체크
+    # visited[0][0] = 1  # (0,0)부터 dfs 탐색 -> 방문체크
     cnt = 0  # 한 번 dfs 돌 때마다 1 개수를 카운트할 변수
     dfs(0, 0)
 
