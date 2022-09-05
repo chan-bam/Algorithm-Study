@@ -13,11 +13,11 @@
 | 연번 | 난이도 | 문제번호 |                             제목                             | 풀이 | 참조 |
 | :--: | :----: | :------: | :----------------------------------------------------------: | :--: | :--: |
 |  1   |   S4   |   2407   |         [조합](https://www.acmicpc.net/problem/2407)         |  ✔   |      |
-|  2   |   S3   |  15650   |      [N과 M (2)](https://www.acmicpc.net/problem/15650)      |      |      |
-|  3   |   S3   |  15652   |     [ N과 M (4)](https://www.acmicpc.net/problem/15652)      |      |      |
+|  2   |   S3   |  15650   |      [N과 M (2)](https://www.acmicpc.net/problem/15650)      |  ✔   |  🔻   |
+|  3   |   S3   |  15652   |     [ N과 M (4)](https://www.acmicpc.net/problem/15652)      |  ✔   |  🔻   |
 |  4   |   S3   |  15654   |      [N과 M (5)](https://www.acmicpc.net/problem/15654)      |      |      |
 |  5   |   S3   |  15657   |      [N과 M (8)](https://www.acmicpc.net/problem/15657)      |      |      |
-|  6   |   S2   |  11053   | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) |      |      |
+|  6   |   S2   |  11053   | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) |  ✔   |      |
 |  7   |   S2   |  11725   |  [ 트리의 부모 찾기](https://www.acmicpc.net/problem/11725)  |  ✔   |  🔻   |
 |  8   |   S2   |  15663   |     [ N과 M (9)](https://www.acmicpc.net/problem/15663)      |      |      |
 |  9   |   S2   |  15666   |     [ N과 M (12)](https://www.acmicpc.net/problem/15666)     |      |      |
@@ -30,7 +30,7 @@
 |  16  |   S1   |  11660   |  [ 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)  |      |      |
 |  17  |   G5   |   1916   |   [최소비용 구하기](https://www.acmicpc.net/problem/1916)    |      |      |
 |  18  |   G5   |   2096   |       [내려가기](https://www.acmicpc.net/problem/2096)       |      |      |
-|  19  |   G5   |   5639   |   [ 이진 검색 트리](https://www.acmicpc.net/problem/5639)    |      |      |
+|  19  |   G5   |   5639   |   [ 이진 검색 트리](https://www.acmicpc.net/problem/5639)    |  ✔   |  ⭕   |
 |  20  |   G5   |   9251   |         [ LCS](https://www.acmicpc.net/problem/9251)         |      |      |
 |  21  |   G5   |  12865   |     [평범한 배낭](https://www.acmicpc.net/problem/12865)     |      |      |
 |  22  |   G5   |  13549   |     [숨바꼭질 3](https://www.acmicpc.net/problem/13549)      |      |      |
@@ -191,7 +191,7 @@
 | :--: | :----: | :------: | :-------------------------------------------------------: | :--: | :--: |
 |  1   |   S2   |  11725   | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) |  ✔   |  🔺   |
 |  2   |   S1   |   1991   |     [트리 순회](https://www.acmicpc.net/problem/1991)     |  ✔   |      |
-|  3   |   G5   |   5639   |  [이진 검색 트리](https://www.acmicpc.net/problem/5639)   |      |      |
+|  3   |   G5   |   5639   |  [이진 검색 트리](https://www.acmicpc.net/problem/5639)   |  ✔   |  ⭕   |
 |  4   |   G4   |   4803   |       [트리](https://www.acmicpc.net/problem/4803)        |      |      |
 |  5   |   G4   |   1967   |    [트리의 지름](https://www.acmicpc.net/problem/1967)    |      |      |
 |  6   |   G2   |   2263   |    [트리의 순회](https://www.acmicpc.net/problem/2263)    |      |      |
