@@ -21,12 +21,12 @@
 |  7   |   S2   |  11725   |  [ 트리의 부모 찾기](https://www.acmicpc.net/problem/11725)  |  ✔   |       🔻       |
 |  8   |   S2   |  15663   |     [ N과 M (9)](https://www.acmicpc.net/problem/15663)      |  ✔   | 🔺<br />(재귀) |
 |  9   |   S2   |  15666   |     [ N과 M (12)](https://www.acmicpc.net/problem/15666)     |  ✔   | 🔺<br />(재귀) |
-|  10  |   S2   |  16953   |        [A → B](https://www.acmicpc.net/problem/16953)        |      |               |
-|  11  |   S1   |   1149   |       [RGB거리](https://www.acmicpc.net/problem/1149)        |      |               |
-|  12  |   S1   |   1629   |         [곱셈](https://www.acmicpc.net/problem/1629)         |      |               |
-|  13  |   S1   |   1932   |     [정수 삼각형](https://www.acmicpc.net/problem/1932)      |      |               |
+|  10  |   S2   |  16953   |        [A → B](https://www.acmicpc.net/problem/16953)        |  ✔   |               |
+|  11  |   S1   |   1149   |       [RGB거리](https://www.acmicpc.net/problem/1149)        |  ✔   |               |
+|  12  |   S1   |   1629   |         [곱셈](https://www.acmicpc.net/problem/1629)         |  ✔   |               |
+|  13  |   S1   |   1932   |     [정수 삼각형](https://www.acmicpc.net/problem/1932)      |  ✔   |               |
 |  14  |   S1   |   1991   |      [트리 순회](https://www.acmicpc.net/problem/1991)       |  ✔   |               |
-|  15  |   S1   |   9465   |        [스티커](https://www.acmicpc.net/problem/9465)        |      |               |
+|  15  |   S1   |   9465   |        [스티커](https://www.acmicpc.net/problem/9465)        |  ✔   |       🔻       |
 |  16  |   S1   |  11660   |  [ 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)  |  ✔   |  ⭕<br />(dp)  |
 |  17  |   G5   |   1916   |   [최소비용 구하기](https://www.acmicpc.net/problem/1916)    |      |               |
 |  18  |   G5   |   2096   |       [내려가기](https://www.acmicpc.net/problem/2096)       |      |               |
