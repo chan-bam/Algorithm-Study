@@ -43,7 +43,7 @@
 |  29  |   G4   |   2206   |  [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)  |      |               |
 |  30  |   G4   |   2448   |    [ 별 찍기 - 11](https://www.acmicpc.net/problem/2448)     |      |               |
 |  31  |   G4   |   9663   |       [N-Queen](https://www.acmicpc.net/problem/9663)        |      |               |
-|  32  |   G4   |   9935   |     [문자열 폭발](https://www.acmicpc.net/problem/9935)      |      |               |
+|  32  |   G4   |   9935   |     [문자열 폭발](https://www.acmicpc.net/problem/9935)      |  ✔   |               |
 |  33  |   G4   |  10830   |     [ 행렬 제곱](https://www.acmicpc.net/problem/10830)      |      |               |
 |  34  |   G4   |  11054   | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) |      |               |
 |  35  |   G4   |  11404   |      [플로이드](https://www.acmicpc.net/problem/11404)       |      |               |
