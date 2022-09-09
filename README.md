@@ -33,14 +33,14 @@
 |  19  |   G5   |   5639   |   [ 이진 검색 트리](https://www.acmicpc.net/problem/5639)    |  ✔   |       ⭕       |
 |  20  |   G5   |   9251   |         [ LCS](https://www.acmicpc.net/problem/9251)         |      |               |
 |  21  |   G5   |  12865   |     [평범한 배낭](https://www.acmicpc.net/problem/12865)     |      |               |
-|  22  |   G5   |  13549   |     [숨바꼭질 3](https://www.acmicpc.net/problem/13549)      |      |               |
+|  22  |   G5   |  13549   |     [숨바꼭질 3](https://www.acmicpc.net/problem/13549)      |  ✔   |               |
 |  23  |   G5   |  15686   |      [치킨 배달](https://www.acmicpc.net/problem/15686)      |      |               |
 |  24  |   G5   |  17070   |   [파이프 옮기기 1](https://www.acmicpc.net/problem/17070)   |      |               |
 |  25  |   G4   |   1043   |        [거짓말](https://www.acmicpc.net/problem/1043)        |      |               |
 |  26  |   G4   |   1504   |   [특정한 최단 경로](https://www.acmicpc.net/problem/1504)   |      |               |
 |  27  |   G4   |   1753   |       [최단경로](https://www.acmicpc.net/problem/1753)       |      |               |
-|  28  |   G4   |   1967   |     [트리의 지름](https://www.acmicpc.net/problem/1967)      |      |               |
-|  29  |   G4   |   2206   |  [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)  |      |               |
+|  28  |   G4   |   1967   |     [트리의 지름](https://www.acmicpc.net/problem/1967)      |  ✔   |       ⭕       |
+|  29  |   G4   |   2206   |  [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)  |  ✔   |       ⭕       |
 |  30  |   G4   |   2448   |    [ 별 찍기 - 11](https://www.acmicpc.net/problem/2448)     |      |               |
 |  31  |   G4   |   9663   |       [N-Queen](https://www.acmicpc.net/problem/9663)        |      |               |
 |  32  |   G4   |   9935   |     [문자열 폭발](https://www.acmicpc.net/problem/9935)      |  ✔   |               |
@@ -56,7 +56,7 @@
 |  42  |   G3   |   1865   |        [ 웜홀](https://www.acmicpc.net/problem/1865)         |      |               |
 |  43  |   G3   |   2638   |        [ 치즈](https://www.acmicpc.net/problem/2638)         |      |               |
 |  44  |   G3   |  11779   |  [최소비용 구하기 2](https://www.acmicpc.net/problem/11779)  |      |               |
-|  45  |   G2   |   1167   |     [트리의 지름](https://www.acmicpc.net/problem/1167)      |      |               |
+|  45  |   G2   |   1167   |     [트리의 지름](https://www.acmicpc.net/problem/1167)      |  ✔   |               |
 |  46  |   G2   |   1918   |     [후위 표기식](https://www.acmicpc.net/problem/1918)      |      |               |
 |  47  |   G2   |   2263   |     [트리의 순회](https://www.acmicpc.net/problem/2263)      |      |               |
 |  48  |   G2   |  11444   |    [피보나치 수 6](https://www.acmicpc.net/problem/11444)    |      |               |
@@ -192,10 +192,10 @@
 |  1   |   S2   |  11725   | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) |  ✔   |  🔺   |
 |  2   |   S1   |   1991   |     [트리 순회](https://www.acmicpc.net/problem/1991)     |  ✔   |      |
 |  3   |   G5   |   5639   |  [이진 검색 트리](https://www.acmicpc.net/problem/5639)   |  ✔   |  ⭕   |
-|  4   |   G4   |   4803   |       [트리](https://www.acmicpc.net/problem/4803)        |      |      |
-|  5   |   G4   |   1967   |    [트리의 지름](https://www.acmicpc.net/problem/1967)    |      |      |
-|  6   |   G2   |   2263   |    [트리의 순회](https://www.acmicpc.net/problem/2263)    |      |      |
-|  7   |   G2   |   1167   |    [트리의 지름](https://www.acmicpc.net/problem/1167)    |      |      |
+|  4   |   G4   |   4803   |       [트리](https://www.acmicpc.net/problem/4803)        |  ✔   |  ⭕   |
+|  5   |   G4   |   1967   |    [트리의 지름](https://www.acmicpc.net/problem/1967)    |  ✔   |  ⭕   |
+|  6   |   G2   |   1167   |    [트리의 지름](https://www.acmicpc.net/problem/1167)    |  ✔   |      |
+|  7   |   G2   |   2263   |    [트리의 순회](https://www.acmicpc.net/problem/2263)    |      |      |
 
 ###### 그래프와 순회
 
@@ -215,7 +215,7 @@
 |  12  |   G5   |   7576   |        [토마토](https://www.acmicpc.net/problem/7576)        |  ✔   |  ⭕   |
 |  13  |   G5   |   7569   |        [토마토](https://www.acmicpc.net/problem/7569)        |  ✔   |      |
 |  14  |   G5   |  16928   |  [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)   |  ✔   |  🔻   |
-|  15  |   G4   |   2206   |  [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)  |      |      |
+|  15  |   G4   |   2206   |  [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)  |  ✔   |  ⭕   |
 |  16  |   G4   |   1707   |     [이분 그래프](https://www.acmicpc.net/problem/1707)      |      |      |
 
 
