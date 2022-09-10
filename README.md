@@ -47,7 +47,7 @@
 |  33  |   G4   |  10830   |     [ 행렬 제곱](https://www.acmicpc.net/problem/10830)      |      |               |
 |  34  |   G4   |  11054   | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) |      |               |
 |  35  |   G4   |  11404   |      [플로이드](https://www.acmicpc.net/problem/11404)       |      |               |
-|  36  |   G4   |  12851   |     [숨바꼭질 2](https://www.acmicpc.net/problem/12851)      |      |               |
+|  36  |   G4   |  12851   |     [숨바꼭질 2](https://www.acmicpc.net/problem/12851)      |  ✔   |       🔺       |
 |  37  |   G4   |  13172   |          [Σ](https://www.acmicpc.net/problem/13172)          |      |               |
 |  38  |   G4   |  14502   |       [연구소](https://www.acmicpc.net/problem/14502)        |      |               |
 |  39  |   G4   |  14938   |    [서강그라운드](https://www.acmicpc.net/problem/14938)     |      |               |
@@ -300,8 +300,10 @@
 |  9   |       재귀        |  bronze3  |  10872   |            팩토리얼            |  ✔   |  ⭕   |
 |  9   |       재귀        |  bronze2  |  10870   |          피보나치 수5          |  ✔   |      |
 |  9   |       재귀        |  silver5  |  17478   |       재귀함수가 뭔가요?       |  ✔   |      |
-|  9   |       재귀        |   gold5   |   2447   |          별 찍기 - 10          |      |      |
 |  9   |       재귀        |  silver2  |  11729   |      하노이 탑 이동 순서       |  ✔   |  ⭕   |
+|  9   |       재귀        |  bronze2  |  25501   |          재귀의 귀재           |  ✔   |      |
+|  9   |       재귀        |  silver4  |  24060   |  알고리즘 수업 - 병합 정렬 1   |      |      |
+|  9   |       재귀        |   gold5   |   2447   |          별 찍기 - 10          |      |      |
 |  10  |    브루트 포스    |  bronze2  |   2798   |             블랙잭             |  ✔   |      |
 |  10  |    브루트 포스    |  bronze2  |   2231   |             분해합             |  ✔   |      |
 |  10  |    브루트 포스    |  silver5  |   7568   |              덩치              |  ✔   |      |
