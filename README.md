@@ -29,7 +29,7 @@
 |  15  |   S1   |   9465   |        [스티커](https://www.acmicpc.net/problem/9465)        |  ✔   |       🔻       |
 |  16  |   S1   |  11660   |  [ 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)  |  ✔   |  ⭕<br />(dp)  |
 |  17  |   G5   |   1916   |   [최소비용 구하기](https://www.acmicpc.net/problem/1916)    |      |               |
-|  18  |   G5   |   2096   |       [내려가기](https://www.acmicpc.net/problem/2096)       |      |               |
+|  18  |   G5   |   2096   |       [내려가기](https://www.acmicpc.net/problem/2096)       |  ✔   |       🔺       |
 |  19  |   G5   |   5639   |   [ 이진 검색 트리](https://www.acmicpc.net/problem/5639)    |  ✔   |       ⭕       |
 |  20  |   G5   |   9251   |         [ LCS](https://www.acmicpc.net/problem/9251)         |      |               |
 |  21  |   G5   |  12865   |     [평범한 배낭](https://www.acmicpc.net/problem/12865)     |      |               |
