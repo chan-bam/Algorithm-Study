@@ -38,7 +38,7 @@
 |  24  |   G5   |  17070   |   [파이프 옮기기 1](https://www.acmicpc.net/problem/17070)   |      |                   |
 |  25  |   G4   |   1043   |        [거짓말](https://www.acmicpc.net/problem/1043)        |      |                   |
 |  26  |   G4   |   1504   |   [특정한 최단 경로](https://www.acmicpc.net/problem/1504)   |  ✔   |                   |
-|  27  |   G4   |   1753   |       [최단경로](https://www.acmicpc.net/problem/1753)       |      |                   |
+|  27  |   G4   |   1753   |       [최단경로](https://www.acmicpc.net/problem/1753)       |  ✔   |                   |
 |  28  |   G4   |   1967   |     [트리의 지름](https://www.acmicpc.net/problem/1967)      |  ✔   |         ⭕         |
 |  29  |   G4   |   2206   |  [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)  |  ✔   |         ⭕         |
 |  30  |   G4   |   2448   |    [ 별 찍기 - 11](https://www.acmicpc.net/problem/2448)     |      |                   |
@@ -46,7 +46,7 @@
 |  32  |   G4   |   9935   |     [문자열 폭발](https://www.acmicpc.net/problem/9935)      |  ✔   |                   |
 |  33  |   G4   |  10830   |     [ 행렬 제곱](https://www.acmicpc.net/problem/10830)      |      |                   |
 |  34  |   G4   |  11054   | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) |  ✔   |         ⭕         |
-|  35  |   G4   |  11404   |      [플로이드](https://www.acmicpc.net/problem/11404)       |      |                   |
+|  35  |   G4   |  11404   |      [플로이드](https://www.acmicpc.net/problem/11404)       |  ✔   |                   |
 |  36  |   G4   |  12851   |     [숨바꼭질 2](https://www.acmicpc.net/problem/12851)      |  ✔   |         🔺         |
 |  37  |   G4   |  13172   |          [Σ](https://www.acmicpc.net/problem/13172)          |      |                   |
 |  38  |   G4   |  14502   |       [연구소](https://www.acmicpc.net/problem/14502)        |      |                   |
@@ -55,7 +55,7 @@
 |  41  |   G3   |   1238   |        [ 파티](https://www.acmicpc.net/problem/1238)         |      |                   |
 |  42  |   G3   |   1865   |        [ 웜홀](https://www.acmicpc.net/problem/1865)         |      |                   |
 |  43  |   G3   |   2638   |        [ 치즈](https://www.acmicpc.net/problem/2638)         |      |                   |
-|  44  |   G3   |  11779   |  [최소비용 구하기 2](https://www.acmicpc.net/problem/11779)  |      |                   |
+|  44  |   G3   |  11779   |  [최소비용 구하기 2](https://www.acmicpc.net/problem/11779)  |  ✔   |         🔺         |
 |  45  |   G2   |   1167   |     [트리의 지름](https://www.acmicpc.net/problem/1167)      |  ✔   |                   |
 |  46  |   G2   |   1918   |     [후위 표기식](https://www.acmicpc.net/problem/1918)      |      |                   |
 |  47  |   G2   |   2263   |     [트리의 순회](https://www.acmicpc.net/problem/2263)      |      |                   |
