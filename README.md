@@ -36,7 +36,7 @@
 |  22  |   G5   |  13549   |     [숨바꼭질 3](https://www.acmicpc.net/problem/13549)      |  ✔   |                   |
 |  23  |   G5   |  15686   |      [치킨 배달](https://www.acmicpc.net/problem/15686)      |      |                   |
 |  24  |   G5   |  17070   |   [파이프 옮기기 1](https://www.acmicpc.net/problem/17070)   |      |                   |
-|  25  |   G4   |   1043   |        [거짓말](https://www.acmicpc.net/problem/1043)        |      |                   |
+|  25  |   G4   |   1043   |        [거짓말](https://www.acmicpc.net/problem/1043)        |  ✔   |                   |
 |  26  |   G4   |   1504   |   [특정한 최단 경로](https://www.acmicpc.net/problem/1504)   |  ✔   |                   |
 |  27  |   G4   |   1753   |       [최단경로](https://www.acmicpc.net/problem/1753)       |  ✔   |                   |
 |  28  |   G4   |   1967   |     [트리의 지름](https://www.acmicpc.net/problem/1967)      |  ✔   |         ⭕         |
