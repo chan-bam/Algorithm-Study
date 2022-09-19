@@ -57,7 +57,7 @@
 |  43  |   G3   |   2638   |        [ 치즈](https://www.acmicpc.net/problem/2638)         |      |                       |
 |  44  |   G3   |  11779   |  [최소비용 구하기 2](https://www.acmicpc.net/problem/11779)  |  ✔   |           🔺           |
 |  45  |   G2   |   1167   |     [트리의 지름](https://www.acmicpc.net/problem/1167)      |  ✔   |                       |
-|  46  |   G2   |   1918   |     [후위 표기식](https://www.acmicpc.net/problem/1918)      |      |                       |
+|  46  |   G2   |   1918   |     [후위 표기식](https://www.acmicpc.net/problem/1918)      |  ✔   |           ⭕           |
 |  47  |   G2   |   2263   |     [트리의 순회](https://www.acmicpc.net/problem/2263)      |      |                       |
 |  48  |   G2   |  11444   |    [피보나치 수 6](https://www.acmicpc.net/problem/11444)    |      |                       |
 
