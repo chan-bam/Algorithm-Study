@@ -50,7 +50,7 @@
 |  36  |   G4   |  12851   |     [숨바꼭질 2](https://www.acmicpc.net/problem/12851)      |  ✔   |           🔺           |
 |  37  |   G4   |  13172   |          [Σ](https://www.acmicpc.net/problem/13172)          |      |                       |
 |  38  |   G4   |  14502   |       [연구소](https://www.acmicpc.net/problem/14502)        |      |                       |
-|  39  |   G4   |  14938   |    [서강그라운드](https://www.acmicpc.net/problem/14938)     |      |                       |
+|  39  |   G4   |  14938   |    [서강그라운드](https://www.acmicpc.net/problem/14938)     |  ✔   |                       |
 |  40  |   G4   |  17144   |   [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)    |      |                       |
 |  41  |   G3   |   1238   |        [ 파티](https://www.acmicpc.net/problem/1238)         |  ✔   |                       |
 |  42  |   G3   |   1865   |        [ 웜홀](https://www.acmicpc.net/problem/1865)         |  ✔   | ⭕<br />(bellman-ford) |
