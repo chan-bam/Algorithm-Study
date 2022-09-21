@@ -54,7 +54,7 @@
 |  40  |   G4   |  17144   |   [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)    |      |                       |
 |  41  |   G3   |   1238   |        [ 파티](https://www.acmicpc.net/problem/1238)         |  ✔   |                       |
 |  42  |   G3   |   1865   |        [ 웜홀](https://www.acmicpc.net/problem/1865)         |  ✔   | ⭕<br />(bellman-ford) |
-|  43  |   G3   |   2638   |        [ 치즈](https://www.acmicpc.net/problem/2638)         |      |                       |
+|  43  |   G3   |   2638   |        [ 치즈](https://www.acmicpc.net/problem/2638)         |  ✔   |                       |
 |  44  |   G3   |  11779   |  [최소비용 구하기 2](https://www.acmicpc.net/problem/11779)  |  ✔   |           🔺           |
 |  45  |   G2   |   1167   |     [트리의 지름](https://www.acmicpc.net/problem/1167)      |  ✔   |                       |
 |  46  |   G2   |   1918   |     [후위 표기식](https://www.acmicpc.net/problem/1918)      |  ✔   |           ⭕           |
