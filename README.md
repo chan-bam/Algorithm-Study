@@ -34,7 +34,7 @@
 |  20  |   G5   |   9251   |         [ LCS](https://www.acmicpc.net/problem/9251)         |  ✔   |           ⭕           |
 |  21  |   G5   |  12865   |     [평범한 배낭](https://www.acmicpc.net/problem/12865)     |  ✔   |           ⭕           |
 |  22  |   G5   |  13549   |     [숨바꼭질 3](https://www.acmicpc.net/problem/13549)      |  ✔   |                       |
-|  23  |   G5   |  15686   |      [치킨 배달](https://www.acmicpc.net/problem/15686)      |      |                       |
+|  23  |   G5   |  15686   |      [치킨 배달](https://www.acmicpc.net/problem/15686)      |  ✔   |                       |
 |  24  |   G5   |  17070   |   [파이프 옮기기 1](https://www.acmicpc.net/problem/17070)   |      |                       |
 |  25  |   G4   |   1043   |        [거짓말](https://www.acmicpc.net/problem/1043)        |  ✔   |                       |
 |  26  |   G4   |   1504   |   [특정한 최단 경로](https://www.acmicpc.net/problem/1504)   |  ✔   |                       |
@@ -49,7 +49,7 @@
 |  35  |   G4   |  11404   |      [플로이드](https://www.acmicpc.net/problem/11404)       |  ✔   |                       |
 |  36  |   G4   |  12851   |     [숨바꼭질 2](https://www.acmicpc.net/problem/12851)      |  ✔   |           🔺           |
 |  37  |   G4   |  13172   |          [Σ](https://www.acmicpc.net/problem/13172)          |      |                       |
-|  38  |   G4   |  14502   |       [연구소](https://www.acmicpc.net/problem/14502)        |      |                       |
+|  38  |   G4   |  14502   |       [연구소](https://www.acmicpc.net/problem/14502)        |  ✔   |                       |
 |  39  |   G4   |  14938   |    [서강그라운드](https://www.acmicpc.net/problem/14938)     |  ✔   |                       |
 |  40  |   G4   |  17144   |   [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)    |  ✔   |                       |
 |  41  |   G3   |   1238   |        [ 파티](https://www.acmicpc.net/problem/1238)         |  ✔   |                       |
