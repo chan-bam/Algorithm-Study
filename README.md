@@ -48,7 +48,7 @@
 |  34  |   G4   |  11054   | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) |  ✔   |           ⭕           |
 |  35  |   G4   |  11404   |      [플로이드](https://www.acmicpc.net/problem/11404)       |  ✔   |                       |
 |  36  |   G4   |  12851   |     [숨바꼭질 2](https://www.acmicpc.net/problem/12851)      |  ✔   |           🔺           |
-|  37  |   G4   |  13172   |          [Σ](https://www.acmicpc.net/problem/13172)          |      |                       |
+|  37  |   G4   |  13172   |          [Σ](https://www.acmicpc.net/problem/13172)          |  ✔   |           🔺           |
 |  38  |   G4   |  14502   |       [연구소](https://www.acmicpc.net/problem/14502)        |  ✔   |                       |
 |  39  |   G4   |  14938   |    [서강그라운드](https://www.acmicpc.net/problem/14938)     |  ✔   |                       |
 |  40  |   G4   |  17144   |   [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)    |  ✔   |                       |
