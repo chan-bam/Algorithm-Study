@@ -58,7 +58,7 @@
 |  44  |   G3   |  11779   |  [최소비용 구하기 2](https://www.acmicpc.net/problem/11779)  |  ✔   |           🔺           |
 |  45  |   G2   |   1167   |     [트리의 지름](https://www.acmicpc.net/problem/1167)      |  ✔   |                       |
 |  46  |   G2   |   1918   |     [후위 표기식](https://www.acmicpc.net/problem/1918)      |  ✔   |           ⭕           |
-|  47  |   G2   |   2263   |     [트리의 순회](https://www.acmicpc.net/problem/2263)      |      |                       |
+|  47  |   G2   |   2263   |     [트리의 순회](https://www.acmicpc.net/problem/2263)      |  ✔   |           ⭕           |
 |  48  |   G2   |  11444   |    [피보나치 수 6](https://www.acmicpc.net/problem/11444)    |  ✔   |           ⭕           |
 
 ###### CLASS 3 - essential
@@ -195,7 +195,7 @@
 |  4   |   G4   |   4803   |       [트리](https://www.acmicpc.net/problem/4803)        |  ✔   |  ⭕   |
 |  5   |   G4   |   1967   |    [트리의 지름](https://www.acmicpc.net/problem/1967)    |  ✔   |  ⭕   |
 |  6   |   G2   |   1167   |    [트리의 지름](https://www.acmicpc.net/problem/1167)    |  ✔   |      |
-|  7   |   G2   |   2263   |    [트리의 순회](https://www.acmicpc.net/problem/2263)    |      |      |
+|  7   |   G2   |   2263   |    [트리의 순회](https://www.acmicpc.net/problem/2263)    |  ✔   |  ⭕   |
 
 ###### 그래프와 순회
 
