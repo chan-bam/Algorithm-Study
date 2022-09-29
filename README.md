@@ -35,7 +35,7 @@
 |  21  |   G5   |  12865   |     [평범한 배낭](https://www.acmicpc.net/problem/12865)     |  ✔   |           ⭕           |
 |  22  |   G5   |  13549   |     [숨바꼭질 3](https://www.acmicpc.net/problem/13549)      |  ✔   |                       |
 |  23  |   G5   |  15686   |      [치킨 배달](https://www.acmicpc.net/problem/15686)      |  ✔   |                       |
-|  24  |   G5   |  17070   |   [파이프 옮기기 1](https://www.acmicpc.net/problem/17070)   |      |                       |
+|  24  |   G5   |  17070   |   [파이프 옮기기 1](https://www.acmicpc.net/problem/17070)   |  ✔   |         🔺(dp)         |
 |  25  |   G4   |   1043   |        [거짓말](https://www.acmicpc.net/problem/1043)        |  ✔   |                       |
 |  26  |   G4   |   1504   |   [특정한 최단 경로](https://www.acmicpc.net/problem/1504)   |  ✔   |                       |
 |  27  |   G4   |   1753   |       [최단경로](https://www.acmicpc.net/problem/1753)       |  ✔   |                       |
