@@ -41,7 +41,7 @@
 |  27  |   G4   |   1753   |       [최단경로](https://www.acmicpc.net/problem/1753)       |  ✔   |                       |
 |  28  |   G4   |   1967   |     [트리의 지름](https://www.acmicpc.net/problem/1967)      |  ✔   |           ⭕           |
 |  29  |   G4   |   2206   |  [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)  |  ✔   |           ⭕           |
-|  30  |   G4   |   2448   |    [ 별 찍기 - 11](https://www.acmicpc.net/problem/2448)     |      |                       |
+|  30  |   G4   |   2448   |    [ 별 찍기 - 11](https://www.acmicpc.net/problem/2448)     |  ✔   |           ⭕           |
 |  31  |   G4   |   9663   |       [N-Queen](https://www.acmicpc.net/problem/9663)        |  ✔   |           ⭕           |
 |  32  |   G4   |   9935   |     [문자열 폭발](https://www.acmicpc.net/problem/9935)      |  ✔   |                       |
 |  33  |   G4   |  10830   |     [ 행렬 제곱](https://www.acmicpc.net/problem/10830)      |  ✔   |           ⭕           |
