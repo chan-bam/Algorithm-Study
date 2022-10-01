@@ -1,7 +1,5 @@
 #  🧮 Algorithm Study
 
-
-
 ## BEAKJOON
 
 - https://www.acmicpc.net/
@@ -10,159 +8,154 @@
 
 ###### CLASS 4
 
-| 연번 | 난이도 | 문제번호 |                             제목                             | 풀이 |         참조          |
-| :--: | :----: | :------: | :----------------------------------------------------------: | :--: | :-------------------: |
-|  1   |   S4   |   2407   |         [조합](https://www.acmicpc.net/problem/2407)         |  ✔   |                       |
-|  2   |   S3   |  15650   |      [N과 M (2)](https://www.acmicpc.net/problem/15650)      |  ✔   |           🔺           |
-|  3   |   S3   |  15652   |     [ N과 M (4)](https://www.acmicpc.net/problem/15652)      |  ✔   |           🔺           |
-|  4   |   S3   |  15654   |      [N과 M (5)](https://www.acmicpc.net/problem/15654)      |  ✔   |           🔺           |
-|  5   |   S3   |  15657   |      [N과 M (8)](https://www.acmicpc.net/problem/15657)      |  ✔   |           🔺           |
-|  6   |   S2   |  11053   | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) |  ✔   |                       |
-|  7   |   S2   |  11725   |  [ 트리의 부모 찾기](https://www.acmicpc.net/problem/11725)  |  ✔   |           🔻           |
-|  8   |   S2   |  15663   |     [ N과 M (9)](https://www.acmicpc.net/problem/15663)      |  ✔   |           🔺           |
-|  9   |   S2   |  15666   |     [ N과 M (12)](https://www.acmicpc.net/problem/15666)     |  ✔   |           🔺           |
-|  10  |   S2   |  16953   |        [A → B](https://www.acmicpc.net/problem/16953)        |  ✔   |                       |
-|  11  |   S1   |   1149   |       [RGB거리](https://www.acmicpc.net/problem/1149)        |  ✔   |                       |
-|  12  |   S1   |   1629   |         [곱셈](https://www.acmicpc.net/problem/1629)         |  ✔   |                       |
-|  13  |   S1   |   1932   |     [정수 삼각형](https://www.acmicpc.net/problem/1932)      |  ✔   |                       |
-|  14  |   S1   |   1991   |      [트리 순회](https://www.acmicpc.net/problem/1991)       |  ✔   |                       |
-|  15  |   S1   |   9465   |        [스티커](https://www.acmicpc.net/problem/9465)        |  ✔   |           🔻           |
-|  16  |   S1   |  11660   |  [ 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)  |  ✔   |      ⭕<br />(dp)      |
-|  17  |   G5   |   1916   |   [최소비용 구하기](https://www.acmicpc.net/problem/1916)    |  ✔   |   ⭕<br />(dijkstra)   |
-|  18  |   G5   |   2096   |       [내려가기](https://www.acmicpc.net/problem/2096)       |  ✔   |           🔺           |
-|  19  |   G5   |   5639   |   [ 이진 검색 트리](https://www.acmicpc.net/problem/5639)    |  ✔   |           ⭕           |
-|  20  |   G5   |   9251   |         [ LCS](https://www.acmicpc.net/problem/9251)         |  ✔   |           ⭕           |
-|  21  |   G5   |  12865   |     [평범한 배낭](https://www.acmicpc.net/problem/12865)     |  ✔   |           ⭕           |
-|  22  |   G5   |  13549   |     [숨바꼭질 3](https://www.acmicpc.net/problem/13549)      |  ✔   |                       |
-|  23  |   G5   |  15686   |      [치킨 배달](https://www.acmicpc.net/problem/15686)      |  ✔   |                       |
-|  24  |   G5   |  17070   |   [파이프 옮기기 1](https://www.acmicpc.net/problem/17070)   |  ✔   |         🔺(dp)         |
-|  25  |   G4   |   1043   |        [거짓말](https://www.acmicpc.net/problem/1043)        |  ✔   |                       |
-|  26  |   G4   |   1504   |   [특정한 최단 경로](https://www.acmicpc.net/problem/1504)   |  ✔   |                       |
-|  27  |   G4   |   1753   |       [최단경로](https://www.acmicpc.net/problem/1753)       |  ✔   |                       |
-|  28  |   G4   |   1967   |     [트리의 지름](https://www.acmicpc.net/problem/1967)      |  ✔   |           ⭕           |
-|  29  |   G4   |   2206   |  [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)  |  ✔   |           ⭕           |
-|  30  |   G4   |   2448   |    [ 별 찍기 - 11](https://www.acmicpc.net/problem/2448)     |  ✔   |           ⭕           |
-|  31  |   G4   |   9663   |       [N-Queen](https://www.acmicpc.net/problem/9663)        |  ✔   |           ⭕           |
-|  32  |   G4   |   9935   |     [문자열 폭발](https://www.acmicpc.net/problem/9935)      |  ✔   |                       |
-|  33  |   G4   |  10830   |     [ 행렬 제곱](https://www.acmicpc.net/problem/10830)      |  ✔   |           ⭕           |
-|  34  |   G4   |  11054   | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) |  ✔   |           ⭕           |
-|  35  |   G4   |  11404   |      [플로이드](https://www.acmicpc.net/problem/11404)       |  ✔   |                       |
-|  36  |   G4   |  12851   |     [숨바꼭질 2](https://www.acmicpc.net/problem/12851)      |  ✔   |           🔺           |
-|  37  |   G4   |  13172   |          [Σ](https://www.acmicpc.net/problem/13172)          |  ✔   |           🔺           |
-|  38  |   G4   |  14502   |       [연구소](https://www.acmicpc.net/problem/14502)        |  ✔   |                       |
-|  39  |   G4   |  14938   |    [서강그라운드](https://www.acmicpc.net/problem/14938)     |  ✔   |                       |
-|  40  |   G4   |  17144   |   [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)    |  ✔   |                       |
-|  41  |   G3   |   1238   |        [ 파티](https://www.acmicpc.net/problem/1238)         |  ✔   |                       |
-|  42  |   G3   |   1865   |        [ 웜홀](https://www.acmicpc.net/problem/1865)         |  ✔   | ⭕<br />(bellman-ford) |
-|  43  |   G3   |   2638   |        [ 치즈](https://www.acmicpc.net/problem/2638)         |  ✔   |                       |
-|  44  |   G3   |  11779   |  [최소비용 구하기 2](https://www.acmicpc.net/problem/11779)  |  ✔   |           🔺           |
-|  45  |   G2   |   1167   |     [트리의 지름](https://www.acmicpc.net/problem/1167)      |  ✔   |                       |
-|  46  |   G2   |   1918   |     [후위 표기식](https://www.acmicpc.net/problem/1918)      |  ✔   |           ⭕           |
-|  47  |   G2   |   2263   |     [트리의 순회](https://www.acmicpc.net/problem/2263)      |  ✔   |           ⭕           |
-|  48  |   G2   |  11444   |    [피보나치 수 6](https://www.acmicpc.net/problem/11444)    |  ✔   |           ⭕           |
-
-###### CLASS 3 - essential
-
-| 연번 | 난이도 | 문제번호 |                             제목                             | 풀이 |        참조         |
-| :--: | :----: | :------: | :----------------------------------------------------------: | :--: | :-----------------: |
-|  1   |   S5   |  11723   |        [집합](https://www.acmicpc.net/problem/11723)         |  ✔   |                     |
-|  2   |   S4   |   1620   | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) |  ✔   |                     |
-|  3   |   S4   |   1764   |        [듣보잡](https://www.acmicpc.net/problem/1764)        |  ✔   |                     |
-|  4   |   S3   |  11399   |         [ATM](https://www.acmicpc.net/problem/11399)         |  ✔   |                     |
-|  5   |   S3   |   1003   |    [피보나치 함수](https://www.acmicpc.net/problem/1003)     |  ✔   |          ⭕          |
-|  6   |   S3   |   1463   |      [1로 만들기](https://www.acmicpc.net/problem/1463)      |  ✔   |                     |
-|  7   |   S3   |   9095   |    [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)    |  ✔   |          ⭕          |
-|  8   |   S3   |  11726   |     [ 2×n 타일링](https://www.acmicpc.net/problem/11726)     |  ✔   |                     |
-|  9   |   S3   |   2606   |      [ 바이러스](https://www.acmicpc.net/problem/2606)       |  ✔   |                     |
-|  10  |   S2   |   1012   |     [ 유기농 배추](https://www.acmicpc.net/problem/1012)     |  ✔   |                     |
-|  11  |   S2   |   1927   |       [최소 힙](https://www.acmicpc.net/problem/1927)        |  ✔   |    python heapq     |
-|  12  |   S2   |  18870   |      [좌표 압축](https://www.acmicpc.net/problem/18870)      |  ✔   |                     |
-|  13  |   S2   |  11724   |  [연결 요소의 개수](https://www.acmicpc.net/problem/11724)   |  ✔   |                     |
-|  14  |   S2   |  11279   |       [최대 힙](https://www.acmicpc.net/problem/11279)       |  ✔   |    python heapq     |
-|  15  |   S2   |   2630   |    [색종이 만들기](https://www.acmicpc.net/problem/2630)     |  ✔   |          ⭕          |
-|  16  |   S1   |   1074   |          [Z](https://www.acmicpc.net/problem/1074)           |  ✔   |          ⭕          |
-|  17  |   S1   |   1697   |       [숨바꼭질](https://www.acmicpc.net/problem/1697)       |  ✔   |          ⭕          |
-|  18  |   S1   |   1931   |     [회의실 배정](https://www.acmicpc.net/problem/1931)      |  ✔   |          ⭕          |
-|  19  |   G5   |   7576   |        [토마토](https://www.acmicpc.net/problem/7576)        |  ✔   |          ⭕          |
-|  20  |   G4   |   7662   |   [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)   |  ✔   | ⭕<br />python heapq |
+| 연번 | 난이도 | 문제번호 |                             제목                             | 풀이 |                        분류                        |           참조           |
+| :--: | :----: | :------: | :----------------------------------------------------------: | :--: | :------------------------------------------------: | :----------------------: |
+|  1   |   G2   |   1167   |     [ 트리의 지름](https://www.acmicpc.net/problem/1167)     |  ✔   |                 깊이우선탐색, 트리                 |                          |
+|  2   |   G2   |   1918   |     [후위 표기식](https://www.acmicpc.net/problem/1918)      |  ✔   |                        스택                        |            ⭕             |
+|  3   |   G2   |   2263   |     [ 트리의 순회](https://www.acmicpc.net/problem/2263)     |  ✔   |                트리, 분할정복, 재귀                |            ⭕             |
+|  4   |   G2   |  11444   |    [피보나치 수 6](https://www.acmicpc.net/problem/11444)    |  ✔   |          수학, 분할정복을 이용한 거듭제곱          |            ⭕             |
+|  5   |   G3   |  11779   |  [최소비용 구하기 2](https://www.acmicpc.net/problem/11779)  |  ✔   |                     다익스트라                     |            🔺             |
+|  6   |   G3   |   2638   |        [ 치즈](https://www.acmicpc.net/problem/2638)         |  ✔   |               그래프탐색, 시뮬레이션               |                          |
+|  7   |   G3   |   1865   |         [웜홀](https://www.acmicpc.net/problem/1865)         |  ✔   |                     벨만-포드                      | ⭕ <br / > (bellman-ford) |
+|  8   |   G3   |   1238   |        [ 파티](https://www.acmicpc.net/problem/1238)         |  ✔   |                     다익스트라                     |                          |
+|  9   |   G4   |  17144   |   [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)    |  ✔   |                  구현, 시뮬레이션                  |                          |
+|  10  |   G4   |  14938   |    [ 서강그라운드](https://www.acmicpc.net/problem/14938)    |  ✔   |             다익스트라, 플로이드-워셜              |                          |
+|  11  |   G4   |  14502   |       [ 연구소](https://www.acmicpc.net/problem/14502)       |  ✔   |       그래프탐색, 구현, 브루트포스, 백트래킹       |                          |
+|  12  |   G4   |  13172   |         [ Σ](https://www.acmicpc.net/problem/13172)          |  ✔   | 분할정복을 이용한 거듭제곱, 정수론, 모듈로곱셈역원 |            🔺             |
+|  13  |   G4   |  12851   |     [숨바꼭질 2](https://www.acmicpc.net/problem/12851)      |  ✔   |                    너비우선탐색                    |            🔺             |
+|  14  |   G4   |  11404   |      [ 플로이드](https://www.acmicpc.net/problem/11404)      |  ✔   |             플로이드-워셜, 다익스트라              |                          |
+|  15  |   G4   |  11054   | [ 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) |  ✔   |                         DP                         |            ⭕             |
+|  16  |   G4   |  10830   |     [ 행렬 제곱](https://www.acmicpc.net/problem/10830)      |  ✔   |          수학, 분할정복을 이용한 거듭제곱          |            ⭕             |
+|  17  |   G4   |   9935   |     [ 문자열 폭발](https://www.acmicpc.net/problem/9935)     |  ✔   |                    문자열, 스택                    |                          |
+|  18  |   G4   |   9663   |       [N-Queen](https://www.acmicpc.net/problem/9663)        |  ✔   |                브루트포스, 백트래킹                |            ⭕             |
+|  19  |   G4   |   2448   |     [별 찍기 - 11](https://www.acmicpc.net/problem/2448)     |  ✔   |                        재귀                        |            ⭕             |
+|  20  |   G4   |   2206   |  [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)  |  ✔   |                    너비우선탐색                    |            ⭕             |
+|  21  |   G4   |   1967   |     [ 트리의 지름](https://www.acmicpc.net/problem/1967)     |  ✔   |                 트리, 깊이우선탐색                 |            ⭕             |
+|  22  |   G4   |   1753   |      [ 최단경로](https://www.acmicpc.net/problem/1753)       |  ✔   |                     다익스트라                     |                          |
+|  23  |   G4   |   1504   |  [ 특정한 최단 경로](https://www.acmicpc.net/problem/1504)   |  ✔   |                     다익스트라                     |                          |
+|  24  |   G4   |   1043   |        [거짓말](https://www.acmicpc.net/problem/1043)        |  ✔   |                그래프탐색, 분리집합                |                          |
+|  25  |   G5   |  17070   |   [파이프 옮기기 1](https://www.acmicpc.net/problem/17070)   |  ✔   |                   DP, 그래프탐색                   |       🔺<br />(dp)        |
+|  26  |   G5   |  15686   |      [치킨 배달](https://www.acmicpc.net/problem/15686)      |  ✔   |             구현, 브루트포스, 백트래킹             |                          |
+|  27  |   G5   |  13549   |     [ 숨바꼭질 3](https://www.acmicpc.net/problem/13549)     |  ✔   |              너비우선탐색, 다익스트라              |                          |
+|  28  |   G5   |  12865   |     [평범한 배낭](https://www.acmicpc.net/problem/12865)     |  ✔   |                         DP                         |            ⭕             |
+|  29  |   G5   |   9251   |         [ LCS](https://www.acmicpc.net/problem/9251)         |  ✔   |                     DP, 문자열                     |            ⭕             |
+|  30  |   G5   |   5639   |    [이진 검색 트리](https://www.acmicpc.net/problem/5639)    |  ✔   |               그래프탐색, 트리, 재귀               |            ⭕             |
+|  31  |   G5   |   2096   |       [내려가기](https://www.acmicpc.net/problem/2096)       |  ✔   |                 DP, 슬라이딩윈도우                 |            🔺             |
+|  32  |   G5   |   1916   |   [최소비용 구하기](https://www.acmicpc.net/problem/1916)    |  ✔   |                     다익스트라                     |    ⭕<br /> (dijkstra)    |
+|  33  |   S1   |  11660   |  [ 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)  |  ✔   |                     DP, 누적합                     |       ⭕<br /> (dp)       |
+|  34  |   S1   |   9465   |        [스티커](https://www.acmicpc.net/problem/9465)        |  ✔   |                         DP                         |            🔻             |
+|  35  |   S1   |   1991   |      [트리 순회](https://www.acmicpc.net/problem/1991)       |  ✔   |                     트리, 재귀                     |                          |
+|  36  |   S1   |   1932   |     [정수 삼각형](https://www.acmicpc.net/problem/1932)      |  ✔   |                         DP                         |                          |
+|  37  |   S1   |   1629   |        [ 곱셈](https://www.acmicpc.net/problem/1629)         |  ✔   |          수학, 분할정복을 이용한 거듭제곱          |            ⭕             |
+|  38  |   S1   |   1149   |       [RGB거리](https://www.acmicpc.net/problem/1149)        |  ✔   |                         DP                         |                          |
+|  39  |   S2   |  16953   |        [A → B](https://www.acmicpc.net/problem/16953)        |  ✔   |                그리디, 너비우선탐색                |                          |
+|  40  |   S2   |  11725   |  [ 트리의 부모 찾기](https://www.acmicpc.net/problem/11725)  |  ✔   |                  그래프탐색, 트리                  |            🔻             |
+|  41  |   S2   |  11053   | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) |  ✔   |                         DP                         |                          |
+|  42  |   S2   |  15666   |     [ N과 M (12)](https://www.acmicpc.net/problem/15666)     |  ✔   |                      백트래킹                      |            🔺             |
+|  43  |   S2   |  15663   |     [ N과 M (9)](https://www.acmicpc.net/problem/15663)      |  ✔   |                      백트래킹                      |            🔺             |
+|  44  |   S3   |  15657   |     [ N과 M (8)](https://www.acmicpc.net/problem/15657)      |  ✔   |                      백트래킹                      |            🔺             |
+|  45  |   S3   |  15654   |     [ N과 M (5)](https://www.acmicpc.net/problem/15654)      |  ✔   |                      백트래킹                      |            🔺             |
+|  46  |   S3   |  15652   |      [N과 M (4)](https://www.acmicpc.net/problem/15652)      |  ✔   |                      백트래킹                      |            🔺             |
+|  47  |   S3   |  15650   |     [ N과 M (2)](https://www.acmicpc.net/problem/15650)      |  ✔   |                      백트래킹                      |            🔺             |
+|  48  |   S4   |   2407   |         [조합](https://www.acmicpc.net/problem/2407)         |  ✔   |                    수학, 조합론                    |                          |
 
 ###### CLASS 3
 
-| 연번 | 난이도 | 문제번호 |                             제목                             | 풀이 |     참조     |
-| :--: | :----: | :------: | :----------------------------------------------------------: | :--: | :----------: |
-|  1   |   S5   |   1676   |  [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)   |  ✔   |              |
-|  2   |   S4   |  11047   |       [동전 0](https://www.acmicpc.net/problem/11047)        |  ✔   |              |
-|  3   |   S3   |  17219   |    [비밀번호 찾기](https://www.acmicpc.net/problem/17219)    |  ✔   |              |
-|  4   |   S3   |   2579   |     [계단 오르기](https://www.acmicpc.net/problem/2579)      |  ✔   |      ⭕       |
-|  5   |   S3   |   9375   |    [패션왕 신해빈](https://www.acmicpc.net/problem/9375)     |  ✔   |      ⭕       |
-|  6   |   S3   |   9461   |     [파도반 수열](https://www.acmicpc.net/problem/9461)      |  ✔   |              |
-|  7   |   S3   |   1659   |  [ 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)  |  ✔   |              |
-|  8   |   S3   |  11727   |    [2×n 타일링 2](https://www.acmicpc.net/problem/11727)     |  ✔   |              |
-|  9   |   S3   |  17626   |    [Four Squares](https://www.acmicpc.net/problem/17626)     |  ✔   |      ⭕       |
-|  10  |   S2   |   1260   |      [ DFS와 BFS](https://www.acmicpc.net/problem/1260)      |  ✔   |      🔻       |
-|  11  |   S2   |   1541   |    [잃어버린 괄호](https://www.acmicpc.net/problem/1541)     |  ✔   |              |
-|  12  |   S2   |   1780   |     [종이의 개수](https://www.acmicpc.net/problem/1780)      |  ✔   |              |
-|  13  |   S1   |   1389   | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) |  ✔   |              |
-|  14  |   S1   |   2178   |      [미로 탐색](https://www.acmicpc.net/problem/2178)       |  ✔   |              |
-|  15  |   S1   |   2667   |   [ 단지번호붙이기](https://www.acmicpc.net/problem/2667)    |  ✔   |              |
-|  16  |   S1   |  11403   |      [경로 찾기](https://www.acmicpc.net/problem/11403)      |  ✔   |      🔻       |
-|  17  |   S1   |  11286   |      [절댓값 힙](https://www.acmicpc.net/problem/11286)      |  ✔   | python heapq |
-|  18  |   S1   |   1992   |       [쿼드트리](https://www.acmicpc.net/problem/1992)       |  ✔   |              |
-|  19  |   S1   |   5525   |        [IOIOI](https://www.acmicpc.net/problem/5525)         |  ✔   |              |
-|  20  |   S1   |   6064   |      [카잉 달력](https://www.acmicpc.net/problem/6064)       |  ✔   |      ⭕       |
-|  21  |   G5   |   7569   |       [ 토마토](https://www.acmicpc.net/problem/7569)        |  ✔   |              |
-|  22  |   G5   |  16928   |  [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)   |  ✔   |      🔻       |
-|  23  |   G5   |   1107   |       [ 리모컨](https://www.acmicpc.net/problem/1107)        |  ✔   |      ⭕       |
-|  24  |   G5   |   5430   |         [ AC](https://www.acmicpc.net/problem/5430)          |  ✔   |              |
-|  25  |   G5   |  10026   |      [적록색약](https://www.acmicpc.net/problem/10026)       |  ✔   |              |
-|  26  |   G4   |   9019   |         [DSLR](https://www.acmicpc.net/problem/9019)         |  ✔   |      🔻       |
-|  27  |   G4   |  14500   |     [테트로미노](https://www.acmicpc.net/problem/14500)      |  ✔   |              |
-|  28  |   G3   |  16236   |      [아기 상어](https://www.acmicpc.net/problem/16236)      |  ✔   |      🔻       |
+| 연번 | 난이도 | 문제번호 |                             제목                             | 풀이 |                   분류                   |         참조          |
+| :--: | :----: | :------: | :----------------------------------------------------------: | :--: | :--------------------------------------: | :-------------------: |
+|  1   |   G3   |  16236   |      [아기 상어](https://www.acmicpc.net/problem/16236)      |  ✔   |         너비우선탐색, 시뮬레이션         |           🔻           |
+|  2   |   G4   |   7662   |  [ 이중 우선순위 큐](https://www.acmicpc.net/problem/7662)   |  ✔   |                우선순위큐                | ⭕ <br / >python heapq |
+|  3   |   G4   |  14500   |     [테트로미노](https://www.acmicpc.net/problem/14500)      |  ✔   | 구현, 브루트포스, 깊이우선탐색, 백트래킹 |                       |
+|  4   |   G4   |   9019   |         [DSLR](https://www.acmicpc.net/problem/9019)         |  ✔   |               너비우선탐색               |           🔻           |
+|  5   |   G5   |   7576   |        [토마토](https://www.acmicpc.net/problem/7576)        |  ✔   |               너비우선탐색               |           ⭕           |
+|  6   |   G5   |  10026   |      [적록색약](https://www.acmicpc.net/problem/10026)       |  ✔   |                그래프탐색                |                       |
+|  7   |   G5   |   5430   |          [AC](https://www.acmicpc.net/problem/5430)          |  ✔   |                 구현, 덱                 |                       |
+|  8   |   G5   |   1107   |        [리모컨](https://www.acmicpc.net/problem/1107)        |  ✔   |                브루트포스                |           ⭕           |
+|  9   |   G5   |  16928   |  [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)   |  ✔   |               너비우선탐색               |           🔻           |
+|  10  |   G5   |   7569   |       [ 토마토](https://www.acmicpc.net/problem/7569)        |  ✔   |               너비우선탐색               |                       |
+|  11  |   S1   |   1931   |     [ 회의실 배정](https://www.acmicpc.net/problem/1931)     |  ✔   |               그리디, 정렬               |           ⭕           |
+|  12  |   S1   |   1697   |       [숨바꼭질](https://www.acmicpc.net/problem/1697)       |  ✔   |               너비우선탐색               |           ⭕           |
+|  13  |   S1   |   1074   |          [ Z](https://www.acmicpc.net/problem/1074)          |  ✔   |              분할정복, 재귀              |           ⭕           |
+|  14  |   S1   |   6064   |      [카잉 달력](https://www.acmicpc.net/problem/6064)       |  ✔   |               수학, 정수론               |           ⭕           |
+|  15  |   S1   |   5525   |        [ IOIOI](https://www.acmicpc.net/problem/5525)        |  ✔   |                  문자열                  |                       |
+|  16  |   S1   |   1992   |       [쿼드트리](https://www.acmicpc.net/problem/1992)       |  ✔   |              분할정복, 재귀              |                       |
+|  17  |   S1   |  11286   |      [절댓값 힙](https://www.acmicpc.net/problem/11286)      |  ✔   |                우선순위큐                |     python heapq      |
+|  18  |   S1   |  11403   |      [경로 찾기](https://www.acmicpc.net/problem/11403)      |  ✔   |        그래프탐색, 플로이드-워셜         |           🔻           |
+|  19  |   S1   |   2667   |   [ 단지번호붙이기](https://www.acmicpc.net/problem/2667)    |  ✔   |                그래프탐색                |                       |
+|  20  |   S1   |   2178   |      [ 미로 탐색](https://www.acmicpc.net/problem/2178)      |  ✔   |               너비우선탐색               |                       |
+|  21  |   S1   |   1389   | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) |  ✔   |       너비우선탐색, 플로이드-워셜        |                       |
+|  22  |   S2   |   2630   |    [ 색종이 만들기](https://www.acmicpc.net/problem/2630)    |  ✔   |              분할정복, 재귀              |           ⭕           |
+|  23  |   S2   |  11279   |       [ 최소 힙](https://www.acmicpc.net/problem/1927)       |  ✔   |                우선순위큐                |     python heapq      |
+|  24  |   S2   |  11724   |  [ 연결 요소의 개수](https://www.acmicpc.net/problem/11724)  |  ✔   |                그래프탐색                |                       |
+|  25  |   S2   |  18870   |     [ 좌표 압축](https://www.acmicpc.net/problem/18870)      |  ✔   |              정렬, 좌표압축              |                       |
+|  26  |   S2   |   1927   |       [최소 힙](https://www.acmicpc.net/problem/1927)        |  ✔   |                우선순위큐                |     python heapq      |
+|  27  |   S2   |   1012   |     [ 유기농 배추](https://www.acmicpc.net/problem/1012)     |  ✔   |                그래프탐색                |                       |
+|  28  |   S2   |   1780   |     [ 종이의 개수](https://www.acmicpc.net/problem/1780)     |  ✔   |              분할정복, 재귀              |                       |
+|  29  |   S2   |   1541   |    [잃어버린 괄호](https://www.acmicpc.net/problem/1541)     |  ✔   |           수학, 문자열, 그리디           |                       |
+|  30  |   S2   |   1260   |      [ DFS와 BFS](https://www.acmicpc.net/problem/1260)      |  ✔   |                그래프탐색                |           🔻           |
+|  31  |   S3   |   2606   |       [바이러스](https://www.acmicpc.net/problem/2606)       |  ✔   |                그래프탐색                |                       |
+|  32  |   S3   |  11726   |     [2×n 타일링](https://www.acmicpc.net/problem/11726)      |  ✔   |                    DP                    |                       |
+|  33  |   S3   |   9095   |    [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)    |  ✔   |                    DP                    |           ⭕           |
+|  34  |   S3   |   1463   |     [ 1로 만들기](https://www.acmicpc.net/problem/1463)      |  ✔   |                    DP                    |                       |
+|  35  |   S3   |   1003   |    [ 피보나치 함수](https://www.acmicpc.net/problem/1003)    |  ✔   |                    DP                    |           ⭕           |
+|  36  |   S3   |  11399   |        [ ATM](https://www.acmicpc.net/problem/11399)         |  ✔   |                  그리디                  |                       |
+|  37  |   S3   |  17626   |    [ Four Squares](https://www.acmicpc.net/problem/17626)    |  ✔   |              DP, 브루트포스              |           ⭕           |
+|  38  |   S3   |  11727   |    [2×n 타일링 2](https://www.acmicpc.net/problem/11727)     |  ✔   |                    DP                    |                       |
+|  39  |   S3   |   1659   |  [구간 합 구하기 4](https://www.acmicpc.net/problem/11659)   |  ✔   |                  누적합                  |                       |
+|  40  |   S3   |   9461   |     [파도반 수열](https://www.acmicpc.net/problem/9461)      |  ✔   |                 수학, DP                 |                       |
+|  41  |   S3   |   9375   |    [패션왕 신해빈](https://www.acmicpc.net/problem/9375)     |  ✔   |            수학, 조합론, 해시            |           ⭕           |
+|  42  |   S3   |   2579   |     [계단 오르기](https://www.acmicpc.net/problem/2579)      |  ✔   |                    DP                    |           ⭕           |
+|  43  |   S3   |  17219   |    [비밀번호 찾기](https://www.acmicpc.net/problem/17219)    |  ✔   |                   해시                   |                       |
+|  44  |   S4   |   1764   |        [듣보잡](https://www.acmicpc.net/problem/1764)        |  ✔   |                정렬, 해시                |                       |
+|  45  |   S4   |   1620   | [ 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) |  ✔   |                   해시                   |                       |
+|  46  |   S4   |  11047   |       [ 동전 0](https://www.acmicpc.net/problem/11047)       |  ✔   |                  그리디                  |                       |
+|  47  |   S5   |  11723   |        [집합](https://www.acmicpc.net/problem/11723)         |  ✔   |                   구현                   |                       |
+|  48  |   S5   |   1676   |  [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)   |  ✔   |                   수학                   |                       |
 
 ###### CLASS 2
 
-| 연번 | 난이도 | 문제번호 |                             제목                             | 풀이 | 참조 |
-| :--: | :----: | :------: | :----------------------------------------------------------: | :--: | :--: |
-|  1   |   S4   |   1018   |  [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)  |  ✔   |      |
-|  2   |   S5   |   1181   |      [ 단어 정렬](https://www.acmicpc.net/problem/1181)      |  ✔   |      |
-|  3   |   B1   |   1259   |      [팰린드롬수](https://www.acmicpc.net/problem/1259)      |  ✔   |      |
-|  4   |   S4   |   1920   |       [수 찾기](https://www.acmicpc.net/problem/1920)        |  ✔   |  ⭕   |
-|  5   |   S5   |   1978   |      [소수 찾기](https://www.acmicpc.net/problem/1978)       |  ✔   |      |
-|  6   |   S4   |   2164   |        [카드2](https://www.acmicpc.net/problem/2164)         |  ✔   |  ⭕   |
-|  7   |   B1   |   2609   | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) |  ✔   |  ⭕   |
-|  8   |   S5   |   2751   |    [ 수 정렬하기 2](https://www.acmicpc.net/problem/2751)    |  ✔   |      |
-|  9   |   B2   |   2798   |        [블랙잭](https://www.acmicpc.net/problem/2798)        |  ✔   |      |
-|  10  |   B3   |   4153   |      [직각삼각형](https://www.acmicpc.net/problem/4153)      |  ✔   |      |
-|  11  |   S4   |   9012   |         [괄호](https://www.acmicpc.net/problem/9012)         |  ✔   |      |
-|  12  |   B2   |  10250   |      [ ACM 호텔](https://www.acmicpc.net/problem/10250)      |  ✔   |      |
-|  13  |   S5   |  10816   |     [나이순 정렬](https://www.acmicpc.net/problem/10814)     |  ✔   |      |
-|  14  |   S4   |  10828   |     [숫자 카드 2](https://www.acmicpc.net/problem/10816)     |  ✔   |  ⭕   |
-|  15  |   S4   |  10866   |        [스택](https://www.acmicpc.net/problem/10828)         |  ✔   |      |
-|  16  |   S4   |  11050   |         [ 큐](https://www.acmicpc.net/problem/10845)         |  ✔   |      |
-|  17  |   S4   |  11650   |         [ 덱](https://www.acmicpc.net/problem/10866)         |  ✔   |      |
-|  18  |   B1   |  11050   |     [이항 계수 1](https://www.acmicpc.net/problem/11050)     |  ✔   |  ⭕   |
-|  19  |   S5   |  11650   |   [ 좌표 정렬하기](https://www.acmicpc.net/problem/11650)    |  ✔   |      |
-|  20  |   S5   |  11866   |  [ 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)   |  ✔   |      |
-|  21  |   B3   |   1018   |  [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)   |  ✔   |      |
-|  22  |   S5   |   1181   |      [단어 정렬](https://www.acmicpc.net/problem/1181)       |  ✔   |      |
-|  23  |   S5   |   1436   |     [영화감독 숌](https://www.acmicpc.net/problem/1436)      |  ✔   |      |
-|  24  |   S5   |   1929   |     [소수 구하기](https://www.acmicpc.net/problem/1929)      |  ✔   |      |
-|  25  |   B2   |   2231   |        [분해합](https://www.acmicpc.net/problem/2231)        |  ✔   |      |
-|  26  |   B1   |   2775   |  [부녀회장이 될테야](https://www.acmicpc.net/problem/2775)   |  ✔   |      |
-|  27  |   S4   |   2839   |      [설탕 배달](https://www.acmicpc.net/problem/2839)       |  ✔   |      |
-|  28  |   S5   |   2869   | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) |  ✔   |      |
-|  29  |   B1   |   2751   |   [ 수 정렬하기 3](https://www.acmicpc.net/problem/10989)    |  ✔   |      |
-|  30  |   S5   |  11650   |   [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)   |  ✔   |      |
-|  31  |   B2   |  15829   |       [Hashing](https://www.acmicpc.net/problem/15829)       |  ✔   |      |
-|  32  |   B2   |   2292   |         [벌집](https://www.acmicpc.net/problem/2292)         |  ✔   |  ⭕   |
-|  33  |   S4   |  10773   |        [제로](https://www.acmicpc.net/problem/10773)         |  ✔   |      |
-|  34  |   S4   |   4949   |    [균형잡힌 세상](https://www.acmicpc.net/problem/4949)     |  ✔   |      |
-|  35  |   S3   |   1874   |      [ 스택 수열](https://www.acmicpc.net/problem/1874)      |  ✔   |      |
-|  36  |   S3   |   1966   |      [ 프린터 큐](https://www.acmicpc.net/problem/1966)      |  ✔   |      |
-|  37  |   S3   |   2108   |        [통계학](https://www.acmicpc.net/problem/2108)        |  ✔   |      |
-|  38  |   S2   |   2805   |     [나무 자르기](https://www.acmicpc.net/problem/2805)      |  ✔   |  ⭕   |
-|  39  |   S2   |   1654   |     [랜선 자르기](https://www.acmicpc.net/problem/1654)      |  ✔   |      |
-|  40  |   S2   |  18111   |    [마인크래프트](https://www.acmicpc.net/problem/18111)     |  ✔   |  ⭕   |
+| 연번 | 난이도 | 문제번호 |                             제목                             | 풀이 |         분류         | 참조 |
+| :--: | :----: | :------: | :----------------------------------------------------------: | :--: | :------------------: | :--: |
+|  1   |   S2   |  18111   |    [마인크래프트](https://www.acmicpc.net/problem/18111)     |  ✔   |   구현, 브루트포스   |  ⭕   |
+|  2   |   S2   |   1654   |     [랜선 자르기](https://www.acmicpc.net/problem/1654)      |  ✔   |       이분탐색       |      |
+|  3   |   S2   |   2805   |     [나무 자르기](https://www.acmicpc.net/problem/2805)      |  ✔   |       이분탐색       |  ⭕   |
+|  4   |   S3   |   1966   |      [프린터 큐](https://www.acmicpc.net/problem/1966)       |  ✔   |    시뮬레이션, 큐    |      |
+|  5   |   S3   |   1874   |      [스택 수열](https://www.acmicpc.net/problem/1874)       |  ✔   |         스택         |      |
+|  6   |   S3   |   2108   |        [통계학](https://www.acmicpc.net/problem/2108)        |  ✔   |      수학, 정렬      |      |
+|  7   |   S4   |   1018   | [체스판 다시   칠하기](https://www.acmicpc.net/problem/1018) |  ✔   |      브루트포스      |      |
+|  8   |   S4   |   1920   |       [수 찾기](https://www.acmicpc.net/problem/1920)        |  ✔   |  이분탐색, 자료구조  |  ⭕   |
+|  9   |   S4   |   2164   |        [카드2](https://www.acmicpc.net/problem/2164)         |  ✔   |          큐          |  ⭕   |
+|  10  |   S4   |   9012   |         [괄호](https://www.acmicpc.net/problem/9012)         |  ✔   |     스택, 문자열     |      |
+|  11  |   S4   |  10828   |     [숫자 카드 2](https://www.acmicpc.net/problem/10816)     |  ✔   | 정렬, 이분탐색, 해시 |  ⭕   |
+|  12  |   S4   |  10866   |        [스택](https://www.acmicpc.net/problem/10828)         |  ✔   |         스택         |      |
+|  13  |   S4   |  11050   |         [큐](https://www.acmicpc.net/problem/10845)          |  ✔   |          큐          |      |
+|  14  |   S4   |  11650   |         [덱](https://www.acmicpc.net/problem/10866)          |  ✔   |          덱          |      |
+|  15  |   S4   |   2839   |      [설탕 배달](https://www.acmicpc.net/problem/2839)       |  ✔   |   수학, 그리디, DP   |      |
+|  16  |   S4   |  10773   |        [제로](https://www.acmicpc.net/problem/10773)         |  ✔   |      스택, 구현      |      |
+|  17  |   S4   |   4949   |    [균형잡힌 세상](https://www.acmicpc.net/problem/4949)     |  ✔   |     스택, 문자열     |      |
+|  18  |   S5   |   1181   |      [단어 정렬](https://www.acmicpc.net/problem/1181)       |  ✔   |     문자열, 정렬     |      |
+|  19  |   S5   |   1978   |      [소수 찾기](https://www.acmicpc.net/problem/1978)       |  ✔   |     수학, 정수론     |      |
+|  20  |   S5   |   2751   |   [수 정렬하기   2](https://www.acmicpc.net/problem/2751)    |  ✔   |         정렬         |      |
+|  21  |   S5   |  10816   |     [나이순 정렬](https://www.acmicpc.net/problem/10814)     |  ✔   |         정렬         |      |
+|  22  |   S5   |  11650   |    [좌표 정렬하기](https://www.acmicpc.net/problem/11650)    |  ✔   |         정렬         |      |
+|  23  |   S5   |  11866   |  [요세푸스 문제   0](https://www.acmicpc.net/problem/11866)  |  ✔   |       큐, 구현       |      |
+|  24  |   S5   |   1181   |      [단어 정렬](https://www.acmicpc.net/problem/1181)       |  ✔   |         정렬         |      |
+|  25  |   S5   |   1436   |     [영화감독 숌](https://www.acmicpc.net/problem/1436)      |  ✔   |      브루트포스      |      |
+|  26  |   S5   |   1929   |     [소수 구하기](https://www.acmicpc.net/problem/1929)      |  ✔   |     수학, 정수론     |      |
+|  27  |   S5   |   2869   | [달팽이는   올라가고 싶다](https://www.acmicpc.net/problem/2869) |  ✔   |         수학         |      |
+|  28  |   S5   |  11650   |  [좌표 정렬하기   2](https://www.acmicpc.net/problem/11651)  |  ✔   |         정렬         |      |
+|  29  |   B1   |   1259   |      [팰린드롬수](https://www.acmicpc.net/problem/1259)      |  ✔   |     구현, 문자열     |      |
+|  30  |   B1   |   2609   | [최대공약수와   최소공배수](https://www.acmicpc.net/problem/2609) |  ✔   |     수학, 정수론     |  ⭕   |
+|  31  |   B1   |  11050   |     [이항 계수 1](https://www.acmicpc.net/problem/11050)     |  ✔   |     수학, 조합론     |  ⭕   |
+|  32  |   B1   |   2775   | [부녀회장이   될테야](https://www.acmicpc.net/problem/2775)  |  ✔   |       수학, DP       |      |
+|  33  |   B1   |   2751   |   [수 정렬하기   3](https://www.acmicpc.net/problem/10989)   |  ✔   |         정렬         |      |
+|  34  |   B2   |   2798   |        [블랙잭](https://www.acmicpc.net/problem/2798)        |  ✔   |      브루트포스      |      |
+|  35  |   B2   |  10250   |      [ACM 호텔](https://www.acmicpc.net/problem/10250)       |  ✔   |    수학, 사칙연산    |      |
+|  36  |   B2   |   2231   |        [분해합](https://www.acmicpc.net/problem/2231)        |  ✔   |      브루트포스      |      |
+|  37  |   B2   |  15829   |       [Hashing](https://www.acmicpc.net/problem/15829)       |  ✔   |         수학         |      |
+|  38  |   B2   |   2292   |         [벌집](https://www.acmicpc.net/problem/2292)         |  ✔   |         수학         |  ⭕   |
+|  39  |   B3   |   4153   |      [직각삼각형](https://www.acmicpc.net/problem/4153)      |  ✔   |     수학, 기하학     |      |
+|  40  |   B3   |   1018   | [직사각형에서   탈출](https://www.acmicpc.net/problem/1085)  |  ✔   |     수학, 기하학     |      |
 
 #### 단계별로 풀어보기
 
@@ -222,148 +215,147 @@
 
 ###### 입출력과 사칙연산 ~ 정렬
 
-| 번호 |       주제        |  난이도   | 문제번호 |            제목             | 풀이 | 참조 |
-| :--: | :---------------: | :-------: | :------: | :-------------------------: | :--: | :--: |
-|  1   | 입출력과 사칙연산 |  bronze5  |   2557   |         Hello World         |  ✔   |      |
-|  1   | 입출력과 사칙연산 |  bronze5  |  10718   |        We love kriii        |  ✔   |      |
-|  1   | 입출력과 사칙연산 |  bronze5  |  10171   |           고양이            |  ✔   |      |
-|  1   | 입출력과 사칙연산 |  bronze5  |  10172   |             개              |  ✔   |      |
-|  1   | 입출력과 사칙연산 |  bronze5  |   1000   |             A+B             |  ✔   |      |
-|  1   | 입출력과 사칙연산 |  bronze5  |   1001   |             A-B             |  ✔   |      |
-|  1   | 입출력과 사칙연산 |  bronze5  |  10998   |             AxB             |  ✔   |      |
-|  1   | 입출력과 사칙연산 |  bronze5  |   1008   |             A/B             |  ✔   |      |
-|  1   | 입출력과 사칙연산 |  bronze5  |  10869   |          사칙연산           |  ✔   |      |
-|  1   | 입출력과 사칙연산 |  bronze5  |  10430   |           나머지            |  ✔   |      |
-|  1   | 입출력과 사칙연산 |  bronze5  |   2588   |            곱셈             |  ✔   |      |
-|  2   |      조건문       |  bronze4  |   1330   |       두 수 비교하기        |  ✔   |      |
-|  2   |      조건문       |  bronze4  |   9498   |          시험 성적          |  ✔   |      |
-|  2   |      조건문       |  bronze4  |   2753   |            윤년             |  ✔   |      |
-|  2   |      조건문       |  bronze4  |  14681   |        사분면 고르기        |  ✔   |      |
-|  2   |      조건문       |  bronze3  |   2884   |          알람 시계          |  ✔   |      |
-|  2   |      조건문       |  bronze3  |   2525   |          오븐 시계          |  ✔   |      |
-|  2   |      조건문       |  bronze4  |   2480   |         주사위 세개         |  ✔   |      |
-|  3   |      반복문       |  bronze3  |   2739   |           구구단            |  ✔   |      |
-|  3   |      반복문       |  bronze3  |  10950   |            A+B-3            |  ✔   |      |
-|  3   |      반복문       |  bronze5  |   8393   |             합              |  ✔   |      |
-|  3   |      반복문       |  bronze2  |  15552   |          빠른 A+B           |  ✔   |      |
-|  3   |      반복문       |  bronze3  |   2741   |           N 찍기            |  ✔   |      |
-|  3   |      반복문       |  bronze3  |   2742   |           기찍 N            |  ✔   |      |
-|  3   |      반복문       |  bronze3  |  11021   |            A+B-7            |  ✔   |      |
-|  3   |      반복문       |  bronze3  |  11022   |            A+B-8            |  ✔   |      |
-|  3   |      반복문       |  bronze3  |   2438   |         별 찍기 - 1         |  ✔   |      |
-|  3   |      반복문       |  bronze3  |   2439   |         별 찍기 -2          |  ✔   |      |
-|  3   |      반복문       |  bronze5  |  10871   |        X보다 작은 수        |  ✔   |      |
-|  3   |      반복문       |  bronze3  |  10952   |            A+B-5            |  ✔   |      |
-|  3   |      반복문       |  bronze3  |  10951   |            A+B-4            |  ✔   |      |
-|  3   |      반복문       |  bronze1  |   1110   |        더하기 사이클        |  ✔   |      |
-|  3   |      반복문       |  bronze5  |  25304   |           영수증            |  ✔   |      |
-|  4   |    1차원 배열     |  bronze3  |  10818   |         최소, 최대          |  ✔   |      |
-|  4   |    1차원 배열     |  bronze2  |   2562   |           최댓값            |  ✔   |      |
-|  4   |    1차원 배열     |  bronze2  |   2577   |         숫자의 개수         |  ✔   |      |
-|  4   |    1차원 배열     |  bronze2  |   3052   |           나머지            |  ✔   |      |
-|  4   |    1차원 배열     |  bronze1  |   1546   |            평균             |  ✔   |      |
-|  4   |    1차원 배열     |  bronze2  |   8958   |           OX퀴즈            |  ✔   |      |
-|  4   |    1차원 배열     |  bronze1  |   4344   |        평균은 넘겠지        |  ✔   |      |
-|  5   |       함수        |  bronze2  |  15596   |        정수 N개의 합        |  ✔   |      |
-|  5   |       함수        |  silver5  |   4673   |          셀프 넘버          |  ✔   |  ⭕   |
-|  5   |       함수        |  silver4  |   1065   |            한수             |  ✔   |      |
-|  6   |      문자열       |  bronze5  |  11654   |         아스키코드          |  ✔   |      |
-|  6   |      문자열       |  bronze2  |  11720   |          숫자의 합          |  ✔   |      |
-|  6   |      문자열       |  bronze2  |  10809   |         알파벳 찾기         |  ✔   |      |
-|  6   |      문자열       |  bronze2  |   2675   |         문자열 반복         |  ✔   |      |
-|  6   |      문자열       |  bronze1  |   1157   |          단어 공부          |  ✔   |      |
-|  6   |      문자열       |  bronze2  |   1152   |         단어의 개수         |  ✔   |      |
-|  6   |      문자열       |  brozne2  |   2908   |            상수             |  ✔   |      |
-|  6   |      문자열       |  brozne2  |   5622   |           다이얼            |  ✔   |      |
-|  6   |      문자열       |  silver5  |   2941   |      크로아티아 알파벳      |  ✔   |      |
-|  6   |      문자열       |  silver5  |   1316   |       그룹 단어 체커        |  ✔   |      |
-|  7   |    기본 수학1     |  bronze4  |   1712   |         손익분기점          |  ✔   |      |
-|  7   |    기본 수학1     |  bronze2  |   2292   |            벌집             |  ✔   |  ⭕   |
-|  7   |    기본 수학1     |  bronze1  |   1193   |          분수찾기           |  ✔   |      |
-|  7   |    기본 수학1     |  bronze1  |   2869   |   달팽이는 올라가고 싶다    |  ✔   |  ⭕   |
-|  7   |    기본 수학1     |  bronze3  |  10250   |          ACM 호텔           |  ✔   |      |
-|  7   |    기본 수학1     |  bronze2  |   2775   |      부녀회장이 될테야      |  ✔   |  ⭕   |
-|  7   |    기본 수학1     |  bronze1  |   2839   |          설탕배달           |  ✔   |  ⭕   |
-|  7   |    기본 수학1     |  bronze5  |  10757   |          큰 수 A+B          |  ✔   |      |
-|  8   |    기본 수학2     |  silver5  |   1978   |            소수             |  ✔   |      |
-|  8   |    기본 수학2     |  silver5  |   2581   |          소수 찾기          |  ✔   |      |
-|  8   |    기본 수학2     |  silver4  |  11653   |         소인수분해          |  ✔   |      |
-|  8   |    기본 수학2     |  silver2  |   1929   |         소수 구하기         |  ✔   |  ⭕   |
-|  8   |    기본 수학2     |  silver3  |   4948   |        베르트랑 공준        |  ✔   |      |
-|  8   |    기본 수학2     |  silver2  |   9020   |       골드바흐의 추측       |  ✔   |      |
-|  8   |    기본 수학2     |  bronze3  |   1085   |      직사각형에서 탈출      |  ✔   |      |
-|  8   |    기본 수학2     |  bronze3  |   3009   |         네 번째 점          |  ✔   |  ⭕   |
-|  8   |    기본 수학2     |  bronze3  |   4153   |         직각삼각형          |  ✔   |      |
-|  8   |   *기본 수학2*    | *bronze3* |  *3053*  |        *택시 기하학*        |  ✔   |      |
-|  8   |   *기본 수학2*    | *silver4* |  *1002*  |           *터렛*            |  ✔   |  ⭕   |
-|  9   |       재귀        |  bronze3  |  10872   |          팩토리얼           |  ✔   |  ⭕   |
-|  9   |       재귀        |  bronze2  |  10870   |        피보나치 수5         |  ✔   |      |
-|  9   |       재귀        |  silver5  |  17478   |     재귀함수가 뭔가요?      |  ✔   |      |
-|  9   |       재귀        |  silver2  |  11729   |     하노이 탑 이동 순서     |  ✔   |  ⭕   |
-|  9   |       재귀        |  bronze2  |  25501   |         재귀의 귀재         |  ✔   |      |
-|  9   |       재귀        |  silver4  |  24060   | 알고리즘 수업 - 병합 정렬 1 |      |      |
-|  9   |       재귀        |   gold5   |   2447   |        별 찍기 - 10         |      |      |
-|  10  |    브루트 포스    |  bronze2  |   2798   |           블랙잭            |  ✔   |      |
-|  10  |    브루트 포스    |  bronze2  |   2231   |           분해합            |  ✔   |      |
-|  10  |    브루트 포스    |  silver5  |   7568   |            덩치             |  ✔   |      |
-|  10  |    브루트 포스    |  silver5  |   1018   |     체스판 다시 칠하기      |  ✔   |  ⭕   |
-|  10  |    브루트 포스    |  silver5  |   1436   |         영화감독 숌         |  ✔   |      |
-|  11  |       정렬        |  bronze2  |   2750   |         수 정렬하기         |  ✔   |      |
-|  11  |       정렬        |  silver5  |   2751   |        수 정렬하기2         |  ✔   |      |
-|  11  |       정렬        |  bronze1  |  10989   |        수 정렬하기3         |  ✔   |      |
-|  11  |       정렬        |  bronze2  |  25305   |          커트라인           |  ✔   |      |
-|  11  |       정렬        |  silver3  |   2108   |           통계학            |  ✔   |      |
-|  11  |       정렬        |  silver5  |   1427   |        소트인사이드         |  ✔   |      |
-|  11  |       정렬        |  silver5  |  11650   |        좌표 정렬하기        |  ✔   |      |
-|  11  |       정렬        |  silver5  |  11651   |       좌표 정렬하기2        |  ✔   |      |
-|  11  |       정렬        |  silver5  |   1181   |          단어 정렬          |  ✔   |      |
-|  11  |       정렬        |  silver5  |  10814   |         나이순 정렬         |  ✔   |      |
-|  11  |       정렬        |  silver2  |  18870   |          좌표 압축          |  ✔   |      |
+| 번호 |       주제        | 난이도 | 문제번호 |                             제목                             | 풀이 | 참조 |
+| :--: | :---------------: | :----: | :------: | :----------------------------------------------------------: | :--: | :--: |
+|  1   | 입출력과 사칙연산 |   B5   |   2557   |     [Hello  World](https://www.acmicpc.net/problem/2557)     |  ✔   |      |
+|  1   | 입출력과 사칙연산 |   B5   |  10718   |   [We  love kriii](https://www.acmicpc.net/problem/10718)    |  ✔   |      |
+|  1   | 입출력과 사칙연산 |   B5   |  10171   |       [고양이](https://www.acmicpc.net/problem/10171)        |  ✔   |      |
+|  1   | 입출력과 사칙연산 |   B5   |  10172   |         [개](https://www.acmicpc.net/problem/10172)          |  ✔   |      |
+|  1   | 입출력과 사칙연산 |   B5   |   1000   |         [A+B](https://www.acmicpc.net/problem/1000)          |  ✔   |      |
+|  1   | 입출력과 사칙연산 |   B5   |   1001   |         [A-B](https://www.acmicpc.net/problem/1001)          |  ✔   |      |
+|  1   | 입출력과 사칙연산 |   B5   |  10998   |         [AxB](https://www.acmicpc.net/problem/10998)         |  ✔   |      |
+|  1   | 입출력과 사칙연산 |   B5   |   1008   |         [A/B](https://www.acmicpc.net/problem/1008)          |  ✔   |      |
+|  1   | 입출력과 사칙연산 |   B5   |  10869   |      [사칙연산](https://www.acmicpc.net/problem/10869)       |  ✔   |      |
+|  1   | 입출력과 사칙연산 |   B5   |  10430   |       [나머지](https://www.acmicpc.net/problem/10430)        |  ✔   |      |
+|  1   | 입출력과 사칙연산 |   B5   |   2588   |         [곱셈](https://www.acmicpc.net/problem/2588)         |  ✔   |      |
+|  2   |      조건문       |   B4   |   1330   |   [두  수 비교하기](https://www.acmicpc.net/problem/1330)    |  ✔   |      |
+|  2   |      조건문       |   B4   |   9498   |      [시험  성적](https://www.acmicpc.net/problem/9498)      |  ✔   |      |
+|  2   |      조건문       |   B4   |   2753   |         [윤년](https://www.acmicpc.net/problem/2753)         |  ✔   |      |
+|  2   |      조건문       |   B4   |  14681   |   [사분면  고르기](https://www.acmicpc.net/problem/14681)    |  ✔   |      |
+|  2   |      조건문       |   B3   |   2884   |      [알람  시계](https://www.acmicpc.net/problem/2884)      |  ✔   |      |
+|  2   |      조건문       |   B3   |   2525   |      [오븐  시계](https://www.acmicpc.net/problem/2525)      |  ✔   |      |
+|  2   |      조건문       |   B4   |   2480   |     [주사위  세개](https://www.acmicpc.net/problem/2480)     |  ✔   |      |
+|  3   |      반복문       |   B3   |   2739   |        [구구단](https://www.acmicpc.net/problem/2739)        |  ✔   |      |
+|  3   |      반복문       |   B3   |  10950   |        [A+B-3](https://www.acmicpc.net/problem/10950)        |  ✔   |      |
+|  3   |      반복문       |   B5   |   8393   |          [합](https://www.acmicpc.net/problem/8393)          |  ✔   |      |
+|  3   |      반복문       |   B2   |  15552   |      [빠른  A+B](https://www.acmicpc.net/problem/15552)      |  ✔   |      |
+|  3   |      반복문       |   B3   |   2741   |       [N  찍기](https://www.acmicpc.net/problem/2741)        |  ✔   |      |
+|  3   |      반복문       |   B3   |   2742   |       [기찍  N](https://www.acmicpc.net/problem/2742)        |  ✔   |      |
+|  3   |      반복문       |   B3   |  11021   |        [A+B-7](https://www.acmicpc.net/problem/11021)        |  ✔   |      |
+|  3   |      반복문       |   B3   |  11022   |        [A+B-8](https://www.acmicpc.net/problem/11022)        |  ✔   |      |
+|  3   |      반복문       |   B3   |   2438   |     [별  찍기 - 1](https://www.acmicpc.net/problem/2438)     |  ✔   |      |
+|  3   |      반복문       |   B3   |   2439   |     [별  찍기 -2](https://www.acmicpc.net/problem/2439)      |  ✔   |      |
+|  3   |      반복문       |   B5   |  10871   |   [X보다  작은 수](https://www.acmicpc.net/problem/10871)    |  ✔   |      |
+|  3   |      반복문       |   B3   |  10952   |        [A+B-5](https://www.acmicpc.net/problem/10952)        |  ✔   |      |
+|  3   |      반복문       |   B3   |  10951   |        [A+B-4](https://www.acmicpc.net/problem/10951)        |  ✔   |      |
+|  3   |      반복문       |   B1   |   1110   |    [더하기  사이클](https://www.acmicpc.net/problem/1110)    |  ✔   |      |
+|  3   |      반복문       |   B5   |  25304   |       [영수증](https://www.acmicpc.net/problem/25304)        |  ✔   |      |
+|  4   |    1차원 배열     |   B3   |  10818   |     [최소,  최대](https://www.acmicpc.net/problem/10818)     |  ✔   |      |
+|  4   |    1차원 배열     |   B2   |   2562   |        [최댓값](https://www.acmicpc.net/problem/2562)        |  ✔   |      |
+|  4   |    1차원 배열     |   B2   |   2577   |     [숫자의  개수](https://www.acmicpc.net/problem/2577)     |  ✔   |      |
+|  4   |    1차원 배열     |   B2   |   3052   |        [나머지](https://www.acmicpc.net/problem/3052)        |  ✔   |      |
+|  4   |    1차원 배열     |   B1   |   1546   |         [평균](https://www.acmicpc.net/problem/1546)         |  ✔   |      |
+|  4   |    1차원 배열     |   B2   |   8958   |        [OX퀴즈](https://www.acmicpc.net/problem/8958)        |  ✔   |      |
+|  4   |    1차원 배열     |   B1   |   4344   |    [평균은  넘겠지](https://www.acmicpc.net/problem/4344)    |  ✔   |      |
+|  5   |       함수        |   B2   |  15596   |   [정수  N개의 합](https://www.acmicpc.net/problem/15596)    |  ✔   |      |
+|  5   |       함수        |   S5   |   4673   |      [셀프  넘버](https://www.acmicpc.net/problem/4673)      |  ✔   |  ⭕   |
+|  5   |       함수        |   S4   |   1065   |         [한수](https://www.acmicpc.net/problem/1065)         |  ✔   |      |
+|  6   |      문자열       |   B5   |  11654   |     [아스키코드](https://www.acmicpc.net/problem/11654)      |  ✔   |      |
+|  6   |      문자열       |   B2   |  11720   |     [숫자의  합](https://www.acmicpc.net/problem/11720)      |  ✔   |      |
+|  6   |      문자열       |   B2   |  10809   |    [알파벳  찾기](https://www.acmicpc.net/problem/10809)     |  ✔   |      |
+|  6   |      문자열       |   B2   |   2675   |     [문자열  반복](https://www.acmicpc.net/problem/2675)     |  ✔   |      |
+|  6   |      문자열       |   B1   |   1157   |      [단어  공부](https://www.acmicpc.net/problem/1157)      |  ✔   |      |
+|  6   |      문자열       |   B2   |   1152   |     [단어의  개수](https://www.acmicpc.net/problem/1152)     |  ✔   |      |
+|  6   |      문자열       |   B2   |   2908   |         [상수](https://www.acmicpc.net/problem/2908)         |  ✔   |      |
+|  6   |      문자열       |   B2   |   5622   |        [다이얼](https://www.acmicpc.net/problem/5622)        |  ✔   |      |
+|  6   |      문자열       |   S5   |   2941   |  [크로아티아  알파벳](https://www.acmicpc.net/problem/2941)  |  ✔   |      |
+|  6   |      문자열       |   S5   |   1316   |   [그룹  단어 체커](https://www.acmicpc.net/problem/1316)    |  ✔   |      |
+|  7   |    기본 수학1     |   B4   |   1712   |      [손익분기점](https://www.acmicpc.net/problem/1712)      |  ✔   |      |
+|  7   |    기본 수학1     |   B2   |   2292   |         [벌집](https://www.acmicpc.net/problem/2292)         |  ✔   |  ⭕   |
+|  7   |    기본 수학1     |   B1   |   1193   |       [분수찾기](https://www.acmicpc.net/problem/1193)       |  ✔   |      |
+|  7   |    기본 수학1     |   B1   |   2869   | [달팽이는  올라가고 싶다](https://www.acmicpc.net/problem/2869) |  ✔   |  ⭕   |
+|  7   |    기본 수학1     |   B3   |  10250   |      [ACM  호텔](https://www.acmicpc.net/problem/10250)      |  ✔   |      |
+|  7   |    기본 수학1     |   B2   |   2775   |  [부녀회장이  될테야](https://www.acmicpc.net/problem/2775)  |  ✔   |  ⭕   |
+|  7   |    기본 수학1     |   B1   |   2839   |       [설탕배달](https://www.acmicpc.net/problem/2839)       |  ✔   |  ⭕   |
+|  7   |    기본 수학1     |   B5   |  10757   |     [큰  수 A+B](https://www.acmicpc.net/problem/10757)      |  ✔   |      |
+|  8   |    기본 수학2     |   S5   |   1978   |         [소수](https://www.acmicpc.net/problem/1978)         |  ✔   |      |
+|  8   |    기본 수학2     |   S5   |   2581   |      [소수  찾기](https://www.acmicpc.net/problem/2581)      |  ✔   |      |
+|  8   |    기본 수학2     |   S4   |  11653   |     [소인수분해](https://www.acmicpc.net/problem/11653)      |  ✔   |      |
+|  8   |    기본 수학2     |   S2   |   1929   |     [소수  구하기](https://www.acmicpc.net/problem/1929)     |  ✔   |  ⭕   |
+|  8   |    기본 수학2     |   S3   |   4948   |    [베르트랑  공준](https://www.acmicpc.net/problem/4948)    |  ✔   |      |
+|  8   |    기본 수학2     |   S2   |   9020   |   [골드바흐의  추측](https://www.acmicpc.net/problem/9020)   |  ✔   |      |
+|  8   |    기본 수학2     |   B3   |   1085   |  [직사각형에서  탈출](https://www.acmicpc.net/problem/1085)  |  ✔   |      |
+|  8   |    기본 수학2     |   B3   |   3009   |     [네  번째 점](https://www.acmicpc.net/problem/3009)      |  ✔   |  ⭕   |
+|  8   |    기본 수학2     |   B3   |   4153   |      [직각삼각형](https://www.acmicpc.net/problem/4153)      |  ✔   |      |
+|  8   |    기본 수학2     |   B3   |   3053   |     [택시  기하학](https://www.acmicpc.net/problem/3053)     |  ✔   |      |
+|  8   |    기본 수학2     |   S4   |   1002   |         [터렛](https://www.acmicpc.net/problem/1002)         |  ✔   |  ⭕   |
+|  9   |       재귀        |   B3   |  10872   |      [팩토리얼](https://www.acmicpc.net/problem/10872)       |  ✔   |  ⭕   |
+|  9   |       재귀        |   B2   |  10870   |    [피보나치  수5](https://www.acmicpc.net/problem/10870)    |  ✔   |      |
+|  9   |       재귀        |   S5   |  17478   | [재귀함수가  뭔가요?](https://www.acmicpc.net/problem/17478) |  ✔   |      |
+|  9   |       재귀        |   S2   |  11729   | [하노이  탑 이동 순서](https://www.acmicpc.net/problem/11729) |  ✔   |  ⭕   |
+|  9   |       재귀        |   B2   |  25501   |    [재귀의  귀재](https://www.acmicpc.net/problem/25501)     |  ✔   |      |
+|  9   |       재귀        |   S4   |  24060   | [알고리즘  수업 - 병합 정렬 1](https://www.acmicpc.net/problem/24060) |      |      |
+|  9   |       재귀        |   S1   |   2447   |    [별  찍기 - 10](https://www.acmicpc.net/problem/2447)     |  ✔   |      |
+|  10  |    브루트 포스    |   B2   |   2798   |        [블랙잭](https://www.acmicpc.net/problem/2798)        |  ✔   |      |
+|  10  |    브루트 포스    |   B2   |   2231   |        [분해합](https://www.acmicpc.net/problem/2231)        |  ✔   |      |
+|  10  |    브루트 포스    |   S5   |   7568   |         [덩치](https://www.acmicpc.net/problem/7568)         |  ✔   |      |
+|  10  |    브루트 포스    |   S5   |   1018   | [체스판  다시 칠하기](https://www.acmicpc.net/problem/1018)  |  ✔   |  ⭕   |
+|  10  |    브루트 포스    |   S5   |   1436   |     [영화감독  숌](https://www.acmicpc.net/problem/1436)     |  ✔   |      |
+|  11  |       정렬        |   B2   |   2750   |     [수  정렬하기](https://www.acmicpc.net/problem/2750)     |  ✔   |      |
+|  11  |       정렬        |   S5   |   2751   |    [수  정렬하기2](https://www.acmicpc.net/problem/2751)     |  ✔   |      |
+|  11  |       정렬        |   B1   |  10989   |    [수  정렬하기3](https://www.acmicpc.net/problem/10989)    |  ✔   |      |
+|  11  |       정렬        |   B2   |  25305   |      [커트라인](https://www.acmicpc.net/problem/25305)       |  ✔   |      |
+|  11  |       정렬        |   S3   |   2108   |        [통계학](https://www.acmicpc.net/problem/2108)        |  ✔   |      |
+|  11  |       정렬        |   S5   |   1427   |     [소트인사이드](https://www.acmicpc.net/problem/1427)     |  ✔   |      |
+|  11  |       정렬        |   S5   |  11650   |   [좌표  정렬하기](https://www.acmicpc.net/problem/11650)    |  ✔   |      |
+|  11  |       정렬        |   S5   |  11651   |   [좌표  정렬하기2](https://www.acmicpc.net/problem/11651)   |  ✔   |      |
+|  11  |       정렬        |   S5   |   1181   |      [단어  정렬](https://www.acmicpc.net/problem/1181)      |  ✔   |      |
+|  11  |       정렬        |   S5   |  10814   |    [나이순  정렬](https://www.acmicpc.net/problem/10814)     |  ✔   |      |
+|  11  |       정렬        |   S2   |  18870   |     [좌표  압축](https://www.acmicpc.net/problem/18870)      |  ✔   |      |
 
 #### STUDY
 
-| 연번 | 난이도  |                    문제번호                    |          제목           | 풀이 | 참조 |
-| :--: | :-----: | :--------------------------------------------: | :---------------------: | :--: | :--: |
-|  1   | silver5 |  [4659](https://www.acmicpc.net/problem/4659)  |    비밀번호 발음하기    |  ✔   |      |
-|  2   | silver5 |  [1292](https://www.acmicpc.net/problem/1292)  |     쉽게 푸는 문제      |  ✔   |      |
-|  3   | silver4 | [12927](https://www.acmicpc.net/problem/12927) |       배수 스위치       |  ✔   |  ⭕   |
-|  4   | silver5 |  [1789](https://www.acmicpc.net/problem/1789)  |        수들의 합        |  ✔   |  ⭕   |
-|  5   | silver4 |  [1980](https://www.acmicpc.net/problem/1980)  |       햄버거 사랑       |  ✔   |  ⭕   |
-|  6   | silver4 |  [1120](https://www.acmicpc.net/problem/1120)  |         문자열          |  ✔   |  ⭕   |
-|  7   | silver3 | [16922](https://www.acmicpc.net/problem/16922) |    로마 숫자 만들기     |  ✔   |  ⭕   |
-|  8   | silver4 | [10158](https://www.acmicpc.net/problem/10158) |          개미           |  ✔   |  ⭕   |
-|  9   | silver2 |  [1012](https://www.acmicpc.net/problem/1012)  |       유기농배추        |  ✔   |  ⭕   |
-|  10  | bronze1 | [11586](https://www.acmicpc.net/problem/11586) | 지영 공주님의 마법 거울 |  ✔   |      |
-|  11  |  gold5  |  [2636](https://www.acmicpc.net/problem/2636)  |          치즈           |  ✔   |  ⭕   |
-|  12  | silver3 |  [2606](https://www.acmicpc.net/problem/2606)  |        바이러스         |  ✔   |  ⭕   |
-|      |         |                                                |                         |      |      |
+| 연번 | 난이도 | 문제번호 |                             제목                             | 풀이 | 참조 |
+| :--: | :----: | :------: | :----------------------------------------------------------: | :--: | :--: |
+|  1   |   S5   |   4659   |  [비밀번호  발음하기](https://www.acmicpc.net/problem/4659)  |  ✔   |      |
+|  2   |   S5   |   1292   |   [쉽게 푸는  문제](https://www.acmicpc.net/problem/1292)    |  ✔   |      |
+|  3   |   S4   |  12927   |    [배수  스위치](https://www.acmicpc.net/problem/12927)     |  ✔   |  ⭕   |
+|  4   |   S5   |   1789   |      [수들의  합](https://www.acmicpc.net/problem/1789)      |  ✔   |  ⭕   |
+|  5   |   S4   |   1980   |     [햄버거  사랑](https://www.acmicpc.net/problem/1980)     |  ✔   |  ⭕   |
+|  6   |   S4   |   1120   |        [문자열](https://www.acmicpc.net/problem/1120)        |  ✔   |  ⭕   |
+|  7   |   S3   |  16922   |  [로마 숫자  만들기](https://www.acmicpc.net/problem/16922)  |  ✔   |  ⭕   |
+|  8   |   S4   |  10158   |        [개미](https://www.acmicpc.net/problem/10158)         |  ✔   |  ⭕   |
+|  9   |   S2   |   1012   |      [유기농배추](https://www.acmicpc.net/problem/1012)      |  ✔   |  ⭕   |
+|  10  |   B1   |  11586   | [지영 공주님의 마법  거울](https://www.acmicpc.net/problem/11586) |  ✔   |      |
+|  11  |   G5   |   2636   |         [치즈](https://www.acmicpc.net/problem/2636)         |  ✔   |  ⭕   |
+|  12  |   S3   |   2606   |       [바이러스](https://www.acmicpc.net/problem/2606)       |  ✔   |  ⭕   |
 
 #### 삼성 SW 역량테스트 (IM) 대비 문제
 
 - https://www.acmicpc.net/workbook/view/7091
 
-| 연번 | 난이도  |                    문제번호                    |                 제목                  | 풀이 | 참조 |
-| :--: | :-----: | :--------------------------------------------: | :-----------------------------------: | :--: | :--: |
-|  1   | bronze1 |    [2669](https://www.acmicpc.net/problem/)    | 직사각형 네개의  합집합의 면적 구하기 |  ✔   |      |
-|  2   | silver5 |  [2635](https://www.acmicpc.net/problem/2635)  |              수 이어가기              |  ✔   |      |
-|  3   | silver4 |  [1244](https://www.acmicpc.net/problem/1244)  |           스위치 켜고 끄기            |  ✔   |      |
-|  4   | silver5 |  [2628](https://www.acmicpc.net/problem/2628)  |              종이자르기               |  ✔   |  ⭕   |
-|  5   |  gold5  |  [2116](https://www.acmicpc.net/problem/2116)  |              주사위 쌓기              |  ✔   |  ⭕   |
-|  6   | silver2 |  [2304](https://www.acmicpc.net/problem/2304)  |              창고 다각형              |  ✔   |  ⭕   |
-|  7   | silver3 |  [2559](https://www.acmicpc.net/problem/2559)  |                 수열                  |  ✔   |      |
-|  8   | silver5 |  [2578](https://www.acmicpc.net/problem/2578)  |                 빙고                  |  ✔   |      |
-|  9   | silver5 |  [2477](https://www.acmicpc.net/problem/2477)  |                참외밭                 |  ✔   |  ⭕   |
-|  10  | silver1 |  [2527](https://www.acmicpc.net/problem/2527)  |               직사각형                |  ✔   |  ⭕   |
-|  11  | silver4 | [10157](https://www.acmicpc.net/problem/10157) |               자리배정                |  ✔   |      |
-|  12  | sivler4 | [10158](https://www.acmicpc.net/problem/10158) |                 개미                  |  ✔   |  ⭕   |
-|  13  | bronze1 |   [10163](https://www.acmicpc.net/problem/)    |                색종이                 |  ✔   |      |
-|  14  | bronze2 | [13300](https://www.acmicpc.net/problem/13300) |                방 배정                |  ✔   |      |
-|  15  | bronze1 | [14696](https://www.acmicpc.net/problem/14696) |               딱지놀이                |  ✔   |      |
-|  16  | bronze2 |  [2309](https://www.acmicpc.net/problem/2309)  |              일곱 난쟁이              |  ✔   |      |
-|  17  | bronze2 |  [2605](https://www.acmicpc.net/problem/2605)  |               줄 세우기               |  ✔   |      |
-|  18  | silver5 |  [2563](https://www.acmicpc.net/problem/2563)  |                색종이                 |  ✔   |      |
-|  19  | silver1 |  [2564](https://www.acmicpc.net/problem/2564)  |                경비원                 |  ✔   |  ⭕   |
-|  20  | silver3 |  [2491](https://www.acmicpc.net/problem/2491)  |                 수열                  |  ✔   |      |
+| 연번 | 난이도 | 문제번호 |                             제목                             | 풀이 | 참조 |
+| :--: | :----: | :------: | :----------------------------------------------------------: | :--: | :--: |
+|  1   |   B1   |   2669   | [직사각형 네개의 합집합의 면적  구하기](https://www.acmicpc.net/problem/2669) |  ✔   |      |
+|  2   |   S5   |   2635   |     [수  이어가기](https://www.acmicpc.net/problem/2635)     |  ✔   |      |
+|  3   |   S4   |   1244   |  [스위치 켜고  끄기](https://www.acmicpc.net/problem/1244)   |  ✔   |      |
+|  4   |   S5   |   2628   |      [종이자르기](https://www.acmicpc.net/problem/2628)      |  ✔   |  ⭕   |
+|  5   |   G5   |   2116   |     [주사위  쌓기](https://www.acmicpc.net/problem/2116)     |  ✔   |  ⭕   |
+|  6   |   S2   |   2304   |     [창고  다각형](https://www.acmicpc.net/problem/2304)     |  ✔   |  ⭕   |
+|  7   |   S3   |   2559   |         [수열](https://www.acmicpc.net/problem/2559)         |  ✔   |      |
+|  8   |   S5   |   2578   |         [빙고](https://www.acmicpc.net/problem/2578)         |  ✔   |      |
+|  9   |   S5   |   2477   |        [참외밭](https://www.acmicpc.net/problem/2477)        |  ✔   |  ⭕   |
+|  10  |   S1   |   2527   |       [직사각형](https://www.acmicpc.net/problem/2527)       |  ✔   |  ⭕   |
+|  11  |   S4   |  10157   |      [자리배정](https://www.acmicpc.net/problem/10157)       |  ✔   |      |
+|  12  |   S4   |  10158   |        [개미](https://www.acmicpc.net/problem/10158)         |  ✔   |  ⭕   |
+|  13  |   B1   |  10163   |       [색종이](https://www.acmicpc.net/problem/10163)        |  ✔   |      |
+|  14  |   B2   |  13300   |      [방  배정](https://www.acmicpc.net/problem/13300)       |  ✔   |      |
+|  15  |   B1   |  14696   |      [딱지놀이](https://www.acmicpc.net/problem/14696)       |  ✔   |      |
+|  16  |   B2   |   2309   |     [일곱  난쟁이](https://www.acmicpc.net/problem/2309)     |  ✔   |      |
+|  17  |   B2   |   2605   |      [줄  세우기](https://www.acmicpc.net/problem/2605)      |  ✔   |      |
+|  18  |   S5   |   2563   |        [색종이](https://www.acmicpc.net/problem/2563)        |  ✔   |      |
+|  19  |   S1   |   2564   |        [경비원](https://www.acmicpc.net/problem/2564)        |  ✔   |  ⭕   |
+|  20  |   S3   |   2491   |         [수열](https://www.acmicpc.net/problem/2491)         |  ✔   |      |
 
 ----
 
@@ -624,4 +616,3 @@
 |  97  | [6096](https://www.codeup.kr/problem.php?id=6096&rid=0) |             [기초-리스트] 바둑알 십자 뒤집기(py)             |  ✔   |  ⭕   |
 |  98  | [6097](https://www.codeup.kr/problem.php?id=6097&rid=0) |               [기초-리스트] 설탕과자 뽑기(py)                |  ✔   |  ⭕   |
 |  99  | [6098](https://www.codeup.kr/problem.php?id=6098&rid=0) |                [기초-리스트] 성실한 개미(py)                 |  ✔   |  ⭕   |
-
