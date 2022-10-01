@@ -2,6 +2,27 @@ import sys
 input = sys.stdin.readline
 
 N = int(input())
+
+def solve(n):
+    if n == 3:
+        return ['  *  ', ' * * ', '*****']
+    star = solve(n // 2)
+    stars = []
+    for i in star:
+        stars.append(' ' * (n // 2) + i + ' ' * (n // 2))
+    for i in star:
+        stars.append(i + ' ' + i)
+    return stars
+
+result = solve(N)
+for r in result:
+    print(r)
+
+'''
+import sys
+input = sys.stdin.readline
+
+N = int(input())
 star = [[' '] * (N * 2) for _ in range(N)]
 
 def solve(x, y, n):
@@ -19,3 +40,4 @@ solve(0, N - 1, N)
 
 for s in star:
     print(*s, sep='')
+'''
