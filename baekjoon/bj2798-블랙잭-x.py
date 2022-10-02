@@ -1,4 +1,4 @@
-
+# 부분집합 # 비트마스킹 # 시간초과
 N, M = map(int, input().split())
 
 blackjack = list(map(int, input().split()))

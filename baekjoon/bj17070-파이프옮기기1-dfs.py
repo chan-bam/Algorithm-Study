@@ -26,6 +26,41 @@ def dfs(x, y, d): # d : 가로 1 세로 2 대각선 0
 cnt = 0
 dfs(0, 1, 1)
 print(cnt)
+
+'''
+# bfs 시간초과2
+import sys
+input = sys.stdin.readline
+from collections import deque
+
+N = int(input())
+house = [list(map(int, input().split())) for _ in range(N)]
+
+if house[-1][-1]:
+    print(0)
+    exit(0)
+
+def bfs():
+    Q = deque([(0, 1, 1)])
+    global cnt
+    while Q:
+        x, y, d = Q.popleft() # d : 가로 1 세로 2 대각선 0
+        if x == N - 1 and y == N - 1:
+            cnt += 1
+        # 대각선방향 : 3방향 모두 가능
+        if x + 1 < N and y + 1 < N and not house[x + 1][y + 1] and not house[x + 1][y] and not house[x][y + 1]:
+            Q.append((x + 1, y + 1, 0))
+        # 가로방향 : 대각선, 가로방향에서 가능
+        if (not d or d == 1) and x < N and y + 1 < N and not house[x][y + 1]:
+            Q.append((x, y + 1, 1))
+        # 세로방향: 대각선, 세로방향에서 가능
+        if (not d or d == 2) and x + 1 < N and y < N and not house[x + 1][y]:
+            Q.append((x + 1, y, 2))
+
+cnt = 0
+bfs()
+print(cnt)
+'''
 '''
 # dfs 시간초과
 import sys
