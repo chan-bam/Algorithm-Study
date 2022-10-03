@@ -176,7 +176,7 @@
 |  9   |   S3   |   9375   |    [패션왕 신해빈](https://www.acmicpc.net/problem/9375)     |  ✔   |        ⭕         |
 |  10  |   S3   |  11051   |     [이항 계수 2](https://www.acmicpc.net/problem/11051)     |  ✔   | python math.comb |
 |  11  |   S2   |   2004   |    [조합 0의 개수](https://www.acmicpc.net/problem/2004)     |  ✔   |        ⭕         |
-|  12  |   G4   |   2981   |         [검문](https://www.acmicpc.net/problem/2981)         |      |                  |
+|  12  |   G4   |   2981   |         [검문](https://www.acmicpc.net/problem/2981)         |  ✔   |        ⭕         |
 
 ###### 트리
 
