@@ -6,6 +6,12 @@
 
 #### solved.ac
 
+###### CLASS 5
+
+| 연번 | 난이도 | 문제번호 |                         제목                          | 풀이 |      분류      |     참조     |
+| :--: | :----: | :------: | :---------------------------------------------------: | :--: | :------------: | :----------: |
+|  1   |   S1   |  12852   | [1로 만들기 2](https://www.acmicpc.net/problem/12852) |  ✔   | 그래프탐색, DP | ⭕<br />(BFS) |
+
 ###### CLASS 4
 
 | 연번 | 난이도 | 문제번호 |                             제목                             | 풀이 |                        분류                        |          참조           |
@@ -211,8 +217,6 @@
 |  15  |   G4   |   2206   |  [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)  |  ✔   |  ⭕   |
 |  16  |   G4   |   1707   |     [이분 그래프](https://www.acmicpc.net/problem/1707)      |  ✔   |  ⭕   |
 
-
-
 ###### 입출력과 사칙연산 ~ 정렬
 
 | 번호 |       주제        | 난이도 | 문제번호 |                             제목                             | 풀이 | 참조 |
@@ -313,23 +317,6 @@
 |  11  |       정렬        |   S5   |  10814   |    [나이순  정렬](https://www.acmicpc.net/problem/10814)     |  ✔   |      |
 |  11  |       정렬        |   S2   |  18870   |     [좌표  압축](https://www.acmicpc.net/problem/18870)      |  ✔   |      |
 
-#### STUDY
-
-| 연번 | 난이도 | 문제번호 |                             제목                             | 풀이 | 참조 |
-| :--: | :----: | :------: | :----------------------------------------------------------: | :--: | :--: |
-|  1   |   S5   |   4659   |  [비밀번호  발음하기](https://www.acmicpc.net/problem/4659)  |  ✔   |      |
-|  2   |   S5   |   1292   |   [쉽게 푸는  문제](https://www.acmicpc.net/problem/1292)    |  ✔   |      |
-|  3   |   S4   |  12927   |    [배수  스위치](https://www.acmicpc.net/problem/12927)     |  ✔   |  ⭕   |
-|  4   |   S5   |   1789   |      [수들의  합](https://www.acmicpc.net/problem/1789)      |  ✔   |  ⭕   |
-|  5   |   S4   |   1980   |     [햄버거  사랑](https://www.acmicpc.net/problem/1980)     |  ✔   |  ⭕   |
-|  6   |   S4   |   1120   |        [문자열](https://www.acmicpc.net/problem/1120)        |  ✔   |  ⭕   |
-|  7   |   S3   |  16922   |  [로마 숫자  만들기](https://www.acmicpc.net/problem/16922)  |  ✔   |  ⭕   |
-|  8   |   S4   |  10158   |        [개미](https://www.acmicpc.net/problem/10158)         |  ✔   |  ⭕   |
-|  9   |   S2   |   1012   |      [유기농배추](https://www.acmicpc.net/problem/1012)      |  ✔   |  ⭕   |
-|  10  |   B1   |  11586   | [지영 공주님의 마법  거울](https://www.acmicpc.net/problem/11586) |  ✔   |      |
-|  11  |   G5   |   2636   |         [치즈](https://www.acmicpc.net/problem/2636)         |  ✔   |  ⭕   |
-|  12  |   S3   |   2606   |       [바이러스](https://www.acmicpc.net/problem/2606)       |  ✔   |  ⭕   |
-
 #### 삼성 SW 역량테스트 (IM) 대비 문제
 
 - https://www.acmicpc.net/workbook/view/7091
@@ -356,6 +343,25 @@
 |  18  |   S5   |   2563   |        [색종이](https://www.acmicpc.net/problem/2563)        |  ✔   |      |
 |  19  |   S1   |   2564   |        [경비원](https://www.acmicpc.net/problem/2564)        |  ✔   |  ⭕   |
 |  20  |   S3   |   2491   |         [수열](https://www.acmicpc.net/problem/2491)         |  ✔   |      |
+
+#### STUDY
+
+| 연번 | 난이도 | 문제번호 |                             제목                             | 풀이 | 참조 |
+| :--: | :----: | :------: | :----------------------------------------------------------: | :--: | :--: |
+|  1   |   S5   |   4659   |  [비밀번호  발음하기](https://www.acmicpc.net/problem/4659)  |  ✔   |      |
+|  2   |   S5   |   1292   |   [쉽게 푸는  문제](https://www.acmicpc.net/problem/1292)    |  ✔   |      |
+|  3   |   S4   |  12927   |    [배수  스위치](https://www.acmicpc.net/problem/12927)     |  ✔   |  ⭕   |
+|  4   |   S5   |   1789   |      [수들의  합](https://www.acmicpc.net/problem/1789)      |  ✔   |  ⭕   |
+|  5   |   S4   |   1980   |     [햄버거  사랑](https://www.acmicpc.net/problem/1980)     |  ✔   |  ⭕   |
+|  6   |   S4   |   1120   |        [문자열](https://www.acmicpc.net/problem/1120)        |  ✔   |  ⭕   |
+|  7   |   S3   |  16922   |  [로마 숫자  만들기](https://www.acmicpc.net/problem/16922)  |  ✔   |  ⭕   |
+|  8   |   S4   |  10158   |        [개미](https://www.acmicpc.net/problem/10158)         |  ✔   |  ⭕   |
+|  9   |   S2   |   1012   |      [유기농배추](https://www.acmicpc.net/problem/1012)      |  ✔   |  ⭕   |
+|  10  |   B1   |  11586   | [지영 공주님의 마법  거울](https://www.acmicpc.net/problem/11586) |  ✔   |      |
+|  11  |   G5   |   2636   |         [치즈](https://www.acmicpc.net/problem/2636)         |  ✔   |  ⭕   |
+|  12  |   S3   |   2606   |       [바이러스](https://www.acmicpc.net/problem/2606)       |  ✔   |  ⭕   |
+
+##### 
 
 ----
 
