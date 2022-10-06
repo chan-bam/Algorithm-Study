@@ -91,7 +91,7 @@
 |  20  |   S1   |   2178   |      [ 미로 탐색](https://www.acmicpc.net/problem/2178)      |  ✔   |               너비우선탐색               |                     |
 |  21  |   S1   |   1389   | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) |  ✔   |       너비우선탐색, 플로이드-워셜        |                     |
 |  22  |   S2   |   2630   |    [ 색종이 만들기](https://www.acmicpc.net/problem/2630)    |  ✔   |              분할정복, 재귀              |          ⭕          |
-|  23  |   S2   |  11279   |       [ 최소 힙](https://www.acmicpc.net/problem/1927)       |  ✔   |                우선순위큐                |    python heapq     |
+|  23  |   S2   |  11279   |      [ 최소 힙](https://www.acmicpc.net/problem/11279)       |  ✔   |                우선순위큐                |    python heapq     |
 |  24  |   S2   |  11724   |  [ 연결 요소의 개수](https://www.acmicpc.net/problem/11724)  |  ✔   |                그래프탐색                |                     |
 |  25  |   S2   |  18870   |     [ 좌표 압축](https://www.acmicpc.net/problem/18870)      |  ✔   |              정렬, 좌표압축              |                     |
 |  26  |   S2   |   1927   |       [최소 힙](https://www.acmicpc.net/problem/1927)        |  ✔   |                우선순위큐                |    python heapq     |
@@ -167,55 +167,111 @@
 
 - https://www.acmicpc.net/step
 
+###### 최소 신장 트리
+
+| 번호 | 난이도 | 문제번호 |                           제목                           | 풀이 | 참조 |  비고   |
+| :--: | :----: | :------: | :------------------------------------------------------: | :--: | :--: | :-----: |
+|  1   |   S4   |   9372   |  [상근이의 여행](https://www.acmicpc.net/problem/9372)   |  ✔   |  ⭕   |         |
+|  2   |   G4   |   1197   | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) |      |      | class 5 |
+|  3   |   G4   |   4386   |  [별자리 만들기](https://www.acmicpc.net/problem/4386)   |      |      | class 5 |
+|  4   |   G3   |   1774   | [우주신과의 교감](https://www.acmicpc.net/problem/1774)  |      |      |         |
+|  5   |   P5   |   2887   |    [행성 터널](https://www.acmicpc.net/problem/2887)     |      |      | class 5 |
+|  6   |   G1   |  17472   |  [다리 만들기 2](https://www.acmicpc.net/problem/17472)  |      |      |         |
+
+###### 최단 경로
+
+| 번호 | 난이도 | 문제번호 |                           제목                           | 풀이 | 참조 |  비고   |
+| :--: | :----: | :------: | :------------------------------------------------------: | :--: | :--: | :-----: |
+|  1   |   G4   |   1753   |     [최단경로](https://www.acmicpc.net/problem/1753)     |  ✔   |      | class 4 |
+|  2   |   G4   |   1504   | [특정한 최단 경로](https://www.acmicpc.net/problem/1504) |  ✔   |      | class 4 |
+|  3   |   G5   |  13549   |   [숨바꼭질 3](https://www.acmicpc.net/problem/13549)    |  ✔   |      | class 4 |
+|  4   |   G2   |   9370   |  [미확인 도착지](https://www.acmicpc.net/problem/9370)   |      |      |         |
+|  5   |   G4   |  11657   |    [타임머신](https://www.acmicpc.net/problem/11657)     |  ✔   |      |         |
+|  6   |   G4   |  11404   |    [플로이드](https://www.acmicpc.net/problem/11404)     |  ✔   |      | class 4 |
+|  7   |   G4   |   1956   |       [운동](https://www.acmicpc.net/problem/1956)       |  ✔   |  ⭕   |         |
+
+###### 그리디 알고리즘
+
+| 번호 | 난이도 | 문제번호 |                         제목                          | 풀이 | 참조 |  비고   |
+| :--: | :----: | :------: | :---------------------------------------------------: | :--: | :--: | :-----: |
+|  1   |   S4   |  11047   |    [동전 0](https://www.acmicpc.net/problem/11047)    |  ✔   |      | class 3 |
+|  2   |   S1   |   1931   |  [회의실 배정](https://www.acmicpc.net/problem/1931)  |  ✔   |  ⭕   | class 3 |
+|  3   |   S4   |  11399   |     [ATM](https://www.acmicpc.net/problem/11399)      |  ✔   |      | class 3 |
+|  4   |   S2   |   1541   | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) |  ✔   |      | class 3 |
+|  5   |   S3   |  13305   |    [주유소](https://www.acmicpc.net/problem/13305)    |      |      |         |
+
+###### 우선순위 큐
+
+| 번호 | 난이도 | 문제번호 |                          제목                           | 풀이 | 참조 |  비고   |
+| :--: | :----: | :------: | :-----------------------------------------------------: | :--: | :--: | :-----: |
+|  1   |   S2   |  11279   |    [최대 힙](https://www.acmicpc.net/problem/11279)     |  ✔   |      | class 3 |
+|  2   |   S2   |   1927   |     [최소 힙](https://www.acmicpc.net/problem/1927)     |  ✔   |      | class 3 |
+|  3   |   S1   |  11286   |   [절댓값 힙](https://www.acmicpc.net/problem/11286)    |  ✔   |      | class 3 |
+|  4   |   G2   |   1655   | [가운데를 말해요](https://www.acmicpc.net/problem/1655) |      |      |         |
+
+###### 큐, 덱
+
+| 번호 | 난이도 | 문제번호 |                           제목                           | 풀이 | 참조 |  비고   |
+| :--: | :----: | :------: | :------------------------------------------------------: | :--: | :--: | :-----: |
+|  1   |   S4   |  18258   |      [큐 2](https://www.acmicpc.net/problem/18258)       |  ✔   |      |         |
+|  2   |   S4   |   2164   |      [카드2](https://www.acmicpc.net/problem/2164)       |  ✔   |  ⭕   | class 2 |
+|  3   |   S5   |  11866   | [요세푸스 문제 0](https://www.acmicpc.net/problem/11866) |  ✔   |      | class 2 |
+|  4   |   S3   |   1966   |    [프린터 큐](https://www.acmicpc.net/problem/1966)     |  ✔   |      | class 2 |
+|  5   |   S4   |  10866   |       [덱](https://www.acmicpc.net/problem/10866)        |  ✔   |      | class 2 |
+|  6   |   S3   |   1021   |   [회전하는 큐](https://www.acmicpc.net/problem/1021)    |      |      |         |
+|  7   |   G5   |   5430   |        [AC](https://www.acmicpc.net/problem/5430)        |  ✔   |      | class 3 |
+
+###### 그
+
 ###### 정수론 및 조합론
 
-| 번호 | 난이도 | 문제번호 |                             제목                             | 풀이 |       참조       |
-| :--: | :----: | :------: | :----------------------------------------------------------: | :--: | :--------------: |
-|  1   |   B3   |   5086   |     [배수와 약수](https://www.acmicpc.net/problem/5086)      |  ✔   |                  |
-|  2   |   B1   |   2609   | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) |  ✔   |        🔺         |
-|  3   |   B1   |   1934   |      [최소공배수](https://www.acmicpc.net/problem/1934)      |  ✔   |                  |
-|  4   |   B1   |   1037   |         [약수](https://www.acmicpc.net/problem/1037)         |  ✔   |                  |
-|  5   |   B1   |  11051   |     [이항 계수 1](https://www.acmicpc.net/problem/11050)     |  ✔   |        ⭕         |
-|  6   |   S5   |   1676   |  [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)   |  ✔   |                  |
-|  7   |   S5   |   1010   |      [다리 놓기](https://www.acmicpc.net/problem/1010)       |  ✔   |                  |
-|  8   |   S4   |   3036   |          [링](https://www.acmicpc.net/problem/3036)          |  ✔   |                  |
-|  9   |   S3   |   9375   |    [패션왕 신해빈](https://www.acmicpc.net/problem/9375)     |  ✔   |        ⭕         |
-|  10  |   S3   |  11051   |     [이항 계수 2](https://www.acmicpc.net/problem/11051)     |  ✔   | python math.comb |
-|  11  |   S2   |   2004   |    [조합 0의 개수](https://www.acmicpc.net/problem/2004)     |  ✔   |        ⭕         |
-|  12  |   G4   |   2981   |         [검문](https://www.acmicpc.net/problem/2981)         |  ✔   |        ⭕         |
+| 번호 | 난이도 | 문제번호 |                             제목                             | 풀이 |       참조       |  비고   |
+| :--: | :----: | :------: | :----------------------------------------------------------: | :--: | :--------------: | :-----: |
+|  1   |   B3   |   5086   |     [배수와 약수](https://www.acmicpc.net/problem/5086)      |  ✔   |                  |         |
+|  2   |   B1   |   2609   | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) |  ✔   |        🔺         |         |
+|  3   |   B1   |   1934   |      [최소공배수](https://www.acmicpc.net/problem/1934)      |  ✔   |                  |         |
+|  4   |   B1   |   1037   |         [약수](https://www.acmicpc.net/problem/1037)         |  ✔   |                  |         |
+|  5   |   B1   |  11051   |     [이항 계수 1](https://www.acmicpc.net/problem/11050)     |  ✔   |        ⭕         |         |
+|  6   |   S5   |   1676   |  [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)   |  ✔   |                  | class 3 |
+|  7   |   S5   |   1010   |      [다리 놓기](https://www.acmicpc.net/problem/1010)       |  ✔   |                  |         |
+|  8   |   S4   |   3036   |          [링](https://www.acmicpc.net/problem/3036)          |  ✔   |                  |         |
+|  9   |   S3   |   9375   |    [패션왕 신해빈](https://www.acmicpc.net/problem/9375)     |  ✔   |        ⭕         | class 3 |
+|  10  |   S3   |  11051   |     [이항 계수 2](https://www.acmicpc.net/problem/11051)     |  ✔   | python math.comb |         |
+|  11  |   S2   |   2004   |    [조합 0의 개수](https://www.acmicpc.net/problem/2004)     |  ✔   |        ⭕         |         |
+|  12  |   G4   |   2981   |         [검문](https://www.acmicpc.net/problem/2981)         |  ✔   |        ⭕         |         |
 
 ###### 트리
 
-| 번호 | 난이도 | 문제번호 |                           제목                            | 풀이 | 참조 |
-| :--: | :----: | :------: | :-------------------------------------------------------: | :--: | :--: |
-|  1   |   S2   |  11725   | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) |  ✔   |  🔺   |
-|  2   |   S1   |   1991   |     [트리 순회](https://www.acmicpc.net/problem/1991)     |  ✔   |      |
-|  3   |   G5   |   5639   |  [이진 검색 트리](https://www.acmicpc.net/problem/5639)   |  ✔   |  ⭕   |
-|  4   |   G4   |   4803   |       [트리](https://www.acmicpc.net/problem/4803)        |  ✔   |  ⭕   |
-|  5   |   G4   |   1967   |    [트리의 지름](https://www.acmicpc.net/problem/1967)    |  ✔   |  ⭕   |
-|  6   |   G2   |   1167   |    [트리의 지름](https://www.acmicpc.net/problem/1167)    |  ✔   |      |
-|  7   |   G2   |   2263   |    [트리의 순회](https://www.acmicpc.net/problem/2263)    |  ✔   |  ⭕   |
+| 번호 | 난이도 | 문제번호 |                           제목                            | 풀이 | 참조 |  비고   |
+| :--: | :----: | :------: | :-------------------------------------------------------: | :--: | :--: | :-----: |
+|  1   |   S2   |  11725   | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) |  ✔   |  🔺   | class 4 |
+|  2   |   S1   |   1991   |     [트리 순회](https://www.acmicpc.net/problem/1991)     |  ✔   |      | class 4 |
+|  3   |   G5   |   5639   |  [이진 검색 트리](https://www.acmicpc.net/problem/5639)   |  ✔   |  ⭕   | class 4 |
+|  4   |   G4   |   4803   |       [트리](https://www.acmicpc.net/problem/4803)        |  ✔   |  ⭕   |         |
+|  5   |   G4   |   1967   |    [트리의 지름](https://www.acmicpc.net/problem/1967)    |  ✔   |  ⭕   | class 4 |
+|  6   |   G2   |   1167   |    [트리의 지름](https://www.acmicpc.net/problem/1167)    |  ✔   |      | class 4 |
+|  7   |   G2   |   2263   |    [트리의 순회](https://www.acmicpc.net/problem/2263)    |  ✔   |  ⭕   | class 4 |
 
 ###### 그래프와 순회
 
-| 번호 | 난이도 | 문제번호 |                             제목                             | 풀이 | 참조 |
-| :--: | :----: | :------: | :----------------------------------------------------------: | :--: | :--: |
-|  1   |   S2   |  24479   | [알고리즘 수업 - 깊이 우선 탐색 1](https://www.acmicpc.net/problem/24479) |  ✔   |      |
-|  2   |   S2   |  24480   | [알고리즘 수업 - 깊이 우선 탐색 2](https://www.acmicpc.net/problem/24480) |  ✔   |      |
-|  3   |   S2   |  24444   | [알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444) |  ✔   |      |
-|  4   |   S2   |  24445   | [알고리즘 수업 - 너비 우선 탐색 2](https://www.acmicpc.net/problem/24445) |  ✔   |      |
-|  5   |   S3   |   2606   |       [바이러스](https://www.acmicpc.net/problem/2606)       |  ✔   |      |
-|  6   |   S2   |   1260   |      [DFS와 BFS](https://www.acmicpc.net/problem/1260)       |  ✔   |      |
-|  7   |   S1   |   2667   |    [단지번호붙이기](https://www.acmicpc.net/problem/2667)    |  ✔   |      |
-|  8   |   S2   |   1012   |     [유기농 배추](https://www.acmicpc.net/problem/1012)      |  ✔   |      |
-|  9   |   S1   |   2178   |      [미로 탐색](https://www.acmicpc.net/problem/2178)       |  ✔   |      |
-|  10  |   S1   |   1697   |       [숨바꼭질](https://www.acmicpc.net/problem/1697)       |  ✔   |  ⭕   |
-|  11  |   S1   |   7562   |    [나이트의 이동](https://www.acmicpc.net/problem/7562)     |  ✔   |      |
-|  12  |   G5   |   7576   |        [토마토](https://www.acmicpc.net/problem/7576)        |  ✔   |  ⭕   |
-|  13  |   G5   |   7569   |        [토마토](https://www.acmicpc.net/problem/7569)        |  ✔   |      |
-|  14  |   G5   |  16928   |  [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)   |  ✔   |  🔻   |
-|  15  |   G4   |   2206   |  [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)  |  ✔   |  ⭕   |
-|  16  |   G4   |   1707   |     [이분 그래프](https://www.acmicpc.net/problem/1707)      |  ✔   |  ⭕   |
+| 번호 | 난이도 | 문제번호 |                             제목                             | 풀이 | 참조 |  비고   |
+| :--: | :----: | :------: | :----------------------------------------------------------: | :--: | :--: | :-----: |
+|  1   |   S2   |  24479   | [알고리즘 수업 - 깊이 우선 탐색 1](https://www.acmicpc.net/problem/24479) |  ✔   |      |         |
+|  2   |   S2   |  24480   | [알고리즘 수업 - 깊이 우선 탐색 2](https://www.acmicpc.net/problem/24480) |  ✔   |      |         |
+|  3   |   S2   |  24444   | [알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444) |  ✔   |      |         |
+|  4   |   S2   |  24445   | [알고리즘 수업 - 너비 우선 탐색 2](https://www.acmicpc.net/problem/24445) |  ✔   |      |         |
+|  5   |   S3   |   2606   |       [바이러스](https://www.acmicpc.net/problem/2606)       |  ✔   |      | class 3 |
+|  6   |   S2   |   1260   |      [DFS와 BFS](https://www.acmicpc.net/problem/1260)       |  ✔   |      | class 3 |
+|  7   |   S1   |   2667   |    [단지번호붙이기](https://www.acmicpc.net/problem/2667)    |  ✔   |      | class 3 |
+|  8   |   S2   |   1012   |     [유기농 배추](https://www.acmicpc.net/problem/1012)      |  ✔   |      | class 3 |
+|  9   |   S1   |   2178   |      [미로 탐색](https://www.acmicpc.net/problem/2178)       |  ✔   |      |         |
+|  10  |   S1   |   1697   |       [숨바꼭질](https://www.acmicpc.net/problem/1697)       |  ✔   |  ⭕   | class 3 |
+| 311  |   S1   |   7562   |    [나이트의 이동](https://www.acmicpc.net/problem/7562)     |  ✔   |      |         |
+|  12  |   G5   |   7576   |        [토마토](https://www.acmicpc.net/problem/7576)        |  ✔   |  ⭕   | class 3 |
+|  13  |   G5   |   7569   |        [토마토](https://www.acmicpc.net/problem/7569)        |  ✔   |      | class 3 |
+|  14  |   G5   |  16928   |  [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)   |  ✔   |  🔻   | class 3 |
+|  15  |   G4   |   2206   |  [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)  |  ✔   |  ⭕   | class 4 |
+|  16  |   G4   |   1707   |     [이분 그래프](https://www.acmicpc.net/problem/1707)      |  ✔   |  ⭕   |         |
 
 ###### 입출력과 사칙연산 ~ 정렬
 
