@@ -186,7 +186,7 @@
 |  2   |   G4   |   1504   | [특정한 최단 경로](https://www.acmicpc.net/problem/1504) |  ✔   |      | class 4 |
 |  3   |   G5   |  13549   |   [숨바꼭질 3](https://www.acmicpc.net/problem/13549)    |  ✔   |      | class 4 |
 |  4   |   G2   |   9370   |  [미확인 도착지](https://www.acmicpc.net/problem/9370)   |      |      |         |
-|  5   |   G4   |  11657   |    [타임머신](https://www.acmicpc.net/problem/11657)     |  ✔   |      |         |
+|  5   |   G4   |  11657   |    [타임머신](https://www.acmicpc.net/problem/11657)     |  ✔   |  ⭕   |         |
 |  6   |   G4   |  11404   |    [플로이드](https://www.acmicpc.net/problem/11404)     |  ✔   |      | class 4 |
 |  7   |   G4   |   1956   |       [운동](https://www.acmicpc.net/problem/1956)       |  ✔   |  ⭕   |         |
 
@@ -198,7 +198,7 @@
 |  2   |   S1   |   1931   |  [회의실 배정](https://www.acmicpc.net/problem/1931)  |  ✔   |  ⭕   | class 3 |
 |  3   |   S4   |  11399   |     [ATM](https://www.acmicpc.net/problem/11399)      |  ✔   |      | class 3 |
 |  4   |   S2   |   1541   | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) |  ✔   |      | class 3 |
-|  5   |   S3   |  13305   |    [주유소](https://www.acmicpc.net/problem/13305)    |      |      |         |
+|  5   |   S3   |  13305   |    [주유소](https://www.acmicpc.net/problem/13305)    |  ✔   |      |         |
 
 ###### 우선순위 큐
 
@@ -220,8 +220,6 @@
 |  5   |   S4   |  10866   |       [덱](https://www.acmicpc.net/problem/10866)        |  ✔   |      | class 2 |
 |  6   |   S3   |   1021   |   [회전하는 큐](https://www.acmicpc.net/problem/1021)    |      |      |         |
 |  7   |   G5   |   5430   |        [AC](https://www.acmicpc.net/problem/5430)        |  ✔   |      | class 3 |
-
-###### 그
 
 ###### 정수론 및 조합론
 
@@ -421,8 +419,9 @@
 
 | 연번 | 난이도 | 문제번호 |                        제목                         | 풀이 |       분류       | 참조 |
 | :--: | :----: | :------: | :-------------------------------------------------: | :--: | :--------------: | :--: |
-|  1   |   G4   |  11657   |  [타임머신](https://www.acmicpc.net/problem/11657)  |  ✔   |    벨만-포드     |  ⭕   |
-|  2   |   G5   |  14503   | [로봇청소기](https://www.acmicpc.net/problem/14503) |  ✔   | 구현, 시뮬레이션 |  ⭕   |
+|  1   |   G5   |  14503   | [로봇청소기](https://www.acmicpc.net/problem/14503) |  ✔   | 구현, 시뮬레이션 |  ⭕   |
+
+
 
 ----
 
