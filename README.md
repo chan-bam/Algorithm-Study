@@ -185,7 +185,7 @@
 |  1   |   G4   |   1753   |     [최단경로](https://www.acmicpc.net/problem/1753)     |  ✔   |      | class 4 |
 |  2   |   G4   |   1504   | [특정한 최단 경로](https://www.acmicpc.net/problem/1504) |  ✔   |      | class 4 |
 |  3   |   G5   |  13549   |   [숨바꼭질 3](https://www.acmicpc.net/problem/13549)    |  ✔   |      | class 4 |
-|  4   |   G2   |   9370   |  [미확인 도착지](https://www.acmicpc.net/problem/9370)   |      |      |         |
+|  4   |   G2   |   9370   |  [미확인 도착지](https://www.acmicpc.net/problem/9370)   |  ✔   |      |         |
 |  5   |   G4   |  11657   |    [타임머신](https://www.acmicpc.net/problem/11657)     |  ✔   |  ⭕   |         |
 |  6   |   G4   |  11404   |    [플로이드](https://www.acmicpc.net/problem/11404)     |  ✔   |      | class 4 |
 |  7   |   G4   |   1956   |       [운동](https://www.acmicpc.net/problem/1956)       |  ✔   |  ⭕   |         |
