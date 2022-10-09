@@ -207,7 +207,7 @@
 |  1   |   S2   |  11279   |    [최대 힙](https://www.acmicpc.net/problem/11279)     |  ✔   |      | class 3 |
 |  2   |   S2   |   1927   |     [최소 힙](https://www.acmicpc.net/problem/1927)     |  ✔   |      | class 3 |
 |  3   |   S1   |  11286   |   [절댓값 힙](https://www.acmicpc.net/problem/11286)    |  ✔   |      | class 3 |
-|  4   |   G2   |   1655   | [가운데를 말해요](https://www.acmicpc.net/problem/1655) |      |      |         |
+|  4   |   G2   |   1655   | [가운데를 말해요](https://www.acmicpc.net/problem/1655) |  ✔   |  ⭕   |         |
 
 ###### 큐, 덱
 
@@ -218,7 +218,7 @@
 |  3   |   S5   |  11866   | [요세푸스 문제 0](https://www.acmicpc.net/problem/11866) |  ✔   |      | class 2 |
 |  4   |   S3   |   1966   |    [프린터 큐](https://www.acmicpc.net/problem/1966)     |  ✔   |      | class 2 |
 |  5   |   S4   |  10866   |       [덱](https://www.acmicpc.net/problem/10866)        |  ✔   |      | class 2 |
-|  6   |   S3   |   1021   |   [회전하는 큐](https://www.acmicpc.net/problem/1021)    |      |      |         |
+|  6   |   S3   |   1021   |   [회전하는 큐](https://www.acmicpc.net/problem/1021)    |  ✔   |  ⭕   |         |
 |  7   |   G5   |   5430   |        [AC](https://www.acmicpc.net/problem/5430)        |  ✔   |      | class 3 |
 
 ###### 정수론 및 조합론
