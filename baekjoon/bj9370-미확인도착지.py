@@ -77,50 +77,41 @@ for _ in range(T):
 '''
 
 '''
-# 오답
-import sys, heapq
-input = sys.stdin.readline
+Input
 
-def dijkstra(start):
-    distance = [sys.maxsize] * (n + 1)
-    distance[start] = 0 # 해당 코드 없는 경우는 시간초과 있으면 오답처리됨 # cycle 때문인것으로 추측됨
+3
+5 5 1
+1 3 5
+1 2 1
+2 4 2
+2 3 2
+3 5 3
+4 5 3
+5
+5 5 1
+1 4 5
+1 2 1
+2 4 2
+2 3 2
+3 5 3
+4 5 3
+5
+6 7 3
+1 4 5
+1 2 1
+2 4 2
+2 3 2
+3 5 3
+4 5 3
+5 6 4
+2 6 9
+5
+3
+6
 
-    hq = [(0, start)]
-    while hq:
-        cost, x = heapq.heappop(hq)
-        if distance[x] < cost:
-            continue
-        for nx, nc in graph[x].items():
-            new_cost = nc + cost
-            if distance[nx] > new_cost:
-                distance[nx] = new_cost
-                # 경로 저장
-                trace[nx] = x
-                heapq.heappush(hq, (new_cost, nx))
+Output
 
-T = int(input())
-for _ in range(T):
-    n, m, t = map(int, input().split())     # 교차로, 도로, 목적지 후보의 개수
-    graph = [{} for _ in range(n + 1)]
-    s, g, h = map(int, input().split())     # 예술가들의 출발지, g와 h 교차로 사이에 있는 도로를 지나감
-    # g와 h 사이의 도로는 반드시 존재 / 목적지 후보들 중 적어도 1개로 향하는 최단 경로의 일부
-    for _ in range(m): # m개의 도로
-        a, b, d = map(int, input().split()) # a와 b 사이에 길이 d의 양방향 도로가 있다.
-        graph[a][b] = d
-        graph[b][a] = d
-    candidate = [int(input()) for _ in range(t)] # t개의 목적지 후보들 # t개의 지점들은 서로 다른 위치이며 모두 s와 같지 않다
-    # 목적지 후보들 중 불가능한 경우들을 제외한 목적지 찾기 (오름차순 출력)
-    result = []
-    trace = [-1] * (n + 1)
-    dijkstra(s)
-    # trace[s] = -1
-    # 경로 추적
-    for c in candidate:
-        idx = trace[c]
-        while trace[idx] != -1:
-            if (trace[idx] == g and idx == h) or (trace[idx] == h and idx == g):
-                result.append(c)
-                break
-            idx = trace[idx]
-    print(*sorted(result))
+5
+5
+5 6
 '''
