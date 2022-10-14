@@ -10,9 +10,10 @@
 
 | 연번 | 난이도 | 문제번호 |                           제목                           | 풀이 |             분류             |     참조      |
 | :--: | :----: | :------: | :------------------------------------------------------: | :--: | :--------------------------: | :-----------: |
-|  1   |   G4   |   1647   |  [도시 분할 계획](https://www.acmicpc.net/problem/1647)  |  ✔   | 그래프이론, 최소 스패닝 트리 |       🔺       |
-|  2   |   G4   |   1197   | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) |  ✔   | 그래프이론, 최소 스패닝 트리 | ⭕<br />(Prim) |
-|  3   |   S1   |  12852   |  [1로 만들기 2](https://www.acmicpc.net/problem/12852)   |  ✔   |        그래프탐색, DP        | ⭕<br />(BFS)  |
+|  1   |   G3   |   4386   |  [별자리 만들기](https://www.acmicpc.net/problem/4386)   |  ✔   | 그래프이론, 최소 스패닝 트리 |       🔺       |
+|  2   |   G4   |   1647   |  [도시 분할 계획](https://www.acmicpc.net/problem/1647)  |  ✔   | 그래프이론, 최소 스패닝 트리 |       🔺       |
+|  3   |   G4   |   1197   | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) |  ✔   | 그래프이론, 최소 스패닝 트리 | ⭕<br />(Prim) |
+|  4   |   S1   |  12852   |  [1로 만들기 2](https://www.acmicpc.net/problem/12852)   |  ✔   |        그래프탐색, DP        | ⭕<br />(BFS)  |
 
 ###### CLASS 4
 
@@ -175,7 +176,7 @@
 | :--: | :----: | :------: | :------------------------------------------------------: | :--: | :--: | :-----: |
 |  1   |   S4   |   9372   |  [상근이의 여행](https://www.acmicpc.net/problem/9372)   |  ✔   |  ⭕   |         |
 |  2   |   G4   |   1197   | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) |  ✔   |  ⭕   | class 5 |
-|  3   |   G3   |   4386   |  [별자리 만들기](https://www.acmicpc.net/problem/4386)   |      |      | class 5 |
+|  3   |   G3   |   4386   |  [별자리 만들기](https://www.acmicpc.net/problem/4386)   |  ✔   |  🔺   | class 5 |
 |  4   |   G3   |   1774   | [우주신과의 교감](https://www.acmicpc.net/problem/1774)  |      |      |         |
 |  5   |   P5   |   2887   |    [행성 터널](https://www.acmicpc.net/problem/2887)     |      |      | class 5 |
 |  6   |   G1   |  17472   |  [다리 만들기 2](https://www.acmicpc.net/problem/17472)  |      |      |         |
