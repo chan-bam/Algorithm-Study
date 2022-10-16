@@ -179,7 +179,7 @@
 |  3   |   G3   |   4386   |  [별자리 만들기](https://www.acmicpc.net/problem/4386)   |  ✔   |  🔺   | class 5 |
 |  4   |   G3   |   1774   | [우주신과의 교감](https://www.acmicpc.net/problem/1774)  |  ✔   |      |         |
 |  5   |   P5   |   2887   |    [행성 터널](https://www.acmicpc.net/problem/2887)     |      |      | class 5 |
-|  6   |   G1   |  17472   |  [다리 만들기 2](https://www.acmicpc.net/problem/17472)  |      |      |         |
+|  6   |   G1   |  17472   |  [다리 만들기 2](https://www.acmicpc.net/problem/17472)  |  ✔   |      |         |
 
 ###### 최단 경로
 

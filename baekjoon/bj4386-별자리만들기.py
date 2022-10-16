@@ -7,8 +7,8 @@ stars = [tuple(map(float, input().split())) for _ in range(n)]
 link = [[] for _ in range(n)]
 for i in range(n - 1):
     for j in range(i + 1, n):
-        if i == j:
-            continue
+        # if i == j:
+        #     continue
         (x1, y1), (x2, y2) = stars[i], stars[j]
         distance = ((x1 - x2)**2 + (y1 - y2)**2)**0.5
         link[i].append((distance, j))

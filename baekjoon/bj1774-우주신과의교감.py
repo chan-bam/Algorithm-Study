@@ -18,11 +18,11 @@ for _ in range(M):
 
 for i in range(N - 1):
     for j in range(i + 1, N):
-        if i == j:
-            continue
-        elif i in connect[j] or j in connect[i]: # 이미 연결된 통로
+        # if i == j:
+        #     continue
+        if i in connect[j] or j in connect[i]: # 이미 연결된 통로
             link[i].append((0, j))
-            link[j].append((0, i))
+            # link[j].append((0, i))
         else:
             (x1, y1), (x2, y2) = pos[i], pos[j]
             distance = ((x1 - x2)**2 + (y1 - y2)**2)**0.5
