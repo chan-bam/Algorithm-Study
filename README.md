@@ -14,7 +14,8 @@
 |  2   |   G3   |   4386   |  [별자리 만들기](https://www.acmicpc.net/problem/4386)   |  ✔   |    그래프이론, 최소 스패닝 트리    |       🔺       |
 |  3   |   G4   |   1647   |  [도시 분할 계획](https://www.acmicpc.net/problem/1647)  |  ✔   |    그래프이론, 최소 스패닝 트리    |       🔺       |
 |  4   |   G4   |   1197   | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) |  ✔   |    그래프이론, 최소 스패닝 트리    | ⭕<br />(Prim) |
-|  5   |   S1   |  12852   |  [1로 만들기 2](https://www.acmicpc.net/problem/12852)   |  ✔   |           그래프탐색, DP           | ⭕<br />(BFS)  |
+|  5   |   G4   |  20040   |   [사이클 게임](https://www.acmicpc.net/problem/20040)   |  ✔   |        자료구조, 분리 집합         |               |
+|  6   |   S1   |  12852   |  [1로 만들기 2](https://www.acmicpc.net/problem/12852)   |  ✔   |           그래프탐색, DP           | ⭕<br />(BFS)  |
 
 ###### CLASS 4
 
