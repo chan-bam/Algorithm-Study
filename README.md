@@ -450,6 +450,7 @@
 |  2   |   G2   |   4991   |  [로봇청소기](https://www.acmicpc.net/problem/4991)   |  ✔   | 너비우선탐색, 브루트포스, 비트마스킹 | ⭕<br />(bfs, permutations) |
 |  3   |   G3   |   2146   |  [다리만들기](https://www.acmicpc.net/problem/2146)   |  ✔   |             너비우선탐색             |             ⭕              |
 |  4   |   G4   |   1922   | [네트워크 연결](https://www.acmicpc.net/problem/1922) |  ✔   |    그래프 이론, 최소 스패닝 트리     |                            |
+|  5   |   S3   |  15655   |   [N과 M(6)](https://www.acmicpc.net/problem/15655)   |  ✔   |               백트래킹               |             🔺              |
 
 
 

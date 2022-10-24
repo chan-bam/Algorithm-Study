@@ -9,3 +9,5 @@ def perm():
         perm()
         res.pop()
 perm()
+
+# 중복순열
