@@ -452,6 +452,7 @@
 |  4   |   G4   |   1922   | [네트워크 연결](https://www.acmicpc.net/problem/1922) |  ✔   |    그래프 이론, 최소 스패닝 트리     |                            |
 |  5   |   S3   |  15655   |   [N과 M(6)](https://www.acmicpc.net/problem/15655)   |  ✔   |               백트래킹               |             🔺              |
 |  6   |   S3   |  15656   |   [N과 M(7)](https://www.acmicpc.net/problem/15656)   |  ✔   |               백트래킹               |                            |
+|  7   |   S3   |  15664   |  [N과 N(10)](https://www.acmicpc.net/problem/15664)   |  ✔   |               백트래킹               |             🔺              |
 
 
 
