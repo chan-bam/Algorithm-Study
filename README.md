@@ -453,6 +453,7 @@
 |  5   |   S3   |  15655   |   [N과 M(6)](https://www.acmicpc.net/problem/15655)   |  ✔   |               백트래킹               |             🔺              |
 |  6   |   S3   |  15656   |   [N과 M(7)](https://www.acmicpc.net/problem/15656)   |  ✔   |               백트래킹               |                            |
 |  7   |   S3   |  15664   |  [N과 N(10)](https://www.acmicpc.net/problem/15664)   |  ✔   |               백트래킹               |             🔺              |
+|  8   |   S2   |  15665   |   [N과M(11)](https://www.acmicpc.net/problem/15665)   |  ✔   |               백트래킹               |                            |
 
 
 
@@ -714,4 +715,4 @@
 |  96  | [6095](https://www.codeup.kr/problem.php?id=6095&rid=0) |         [기초-리스트] 바둑판에 흰 돌 놓기(설명)(py)          |  ✔   |  ⭕   |
 |  97  | [6096](https://www.codeup.kr/problem.php?id=6096&rid=0) |             [기초-리스트] 바둑알 십자 뒤집기(py)             |  ✔   |  ⭕   |
 |  98  | [6097](https://www.codeup.kr/problem.php?id=6097&rid=0) |               [기초-리스트] 설탕과자 뽑기(py)                |  ✔   |  ⭕   |
-|  99  | [6098](https://www.codeup.kr/problem.php?id=6098&rid=0) |                [기초-리스트] 성실한 개미(py)                 |  ✔   |  ⭕   |
+|  99  | [6098](https://www.codeup.kr/problem.php?id=6098&rid=0) |                [기초-리스트] 성실한 개미(py)                 |  ✔   |  11  |
