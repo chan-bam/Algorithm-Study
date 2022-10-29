@@ -1,6 +1,48 @@
 import sys
 input = sys.stdin.readline
 
+# union find
+def union(a, b):
+    a, b = find(a), find(b)
+    if a in truth: # a가 진실을 알면
+        parents[b] = a
+    elif b in truth: # b가 진실을 알면
+        parents[a] = b
+    else:
+        parents[a] = b
+
+def find(x):
+    while parents[x] != x:
+        x = parents[x]
+    return x
+    # if parents[x] != x:
+    #     parents[x] = find(parents[x])
+    # return parents[x]
+
+N, M = map(int, input().split()) # 사람의 수 N, 파티의 수 M
+parents = list(range(N + 1))
+
+T, *truth = map(int, input().split()) # 진실을 아는 사람의 수 + 번호
+# M개의 줄 # 파티마다 오는 사람의 수와 번호
+parties = []
+for _ in range(M):
+    P, *party = map(int, input().split())
+    parties.append(party)
+    for i in range(1, P):
+        union(party[0], party[i])
+
+cnt = 0
+for p in parties:
+    for i in p:
+        if find(i) in truth:
+            break
+    else:
+       cnt += 1
+print(cnt)
+'''
+import sys
+input = sys.stdin.readline
+
 N, M = map(int, input().split()) # 사람의 수 N # 파티의 수 M
 
 truth = set(map(int, input().split()[1:]))
@@ -18,6 +60,7 @@ for attendee in party:
 
 print(cnt)
 
+'''
 
 
 
