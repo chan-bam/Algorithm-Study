@@ -182,7 +182,7 @@
 |  4   |   S3   |  15652   |    [N과 M (4)](https://www.acmicpc.net/problem/15652)    |  ✔   |      | class 4 |
 |  5   |   G4   |   9663   |     [N-Queen](https://www.acmicpc.net/problem/9663)      |  ✔   |      | class 4 |
 |  6   |   G4   |   2580   |      [스도쿠](https://www.acmicpc.net/problem/2580)      |      |      | class 5 |
-|  7   |   S1   |  14888   | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) |      |      |         |
+|  7   |   S1   |  14888   | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) |  ✔   |      |         |
 |  8   |   S2   |  14889   |  [스타트와 링크](https://www.acmicpc.net/problem/14889)  |  ✔   |      |         |
 
 ###### 유니온 파인드
@@ -719,4 +719,4 @@
 |  96  | [6095](https://www.codeup.kr/problem.php?id=6095&rid=0) |         [기초-리스트] 바둑판에 흰 돌 놓기(설명)(py)          |  ✔   |  ⭕   |
 |  97  | [6096](https://www.codeup.kr/problem.php?id=6096&rid=0) |             [기초-리스트] 바둑알 십자 뒤집기(py)             |  ✔   |  ⭕   |
 |  98  | [6097](https://www.codeup.kr/problem.php?id=6097&rid=0) |               [기초-리스트] 설탕과자 뽑기(py)                |  ✔   |  ⭕   |
-|  99  | [6098](https://www.codeup.kr/problem.php?id=6098&rid=0) |                [기초-리스트] 성실한 개미(py)                 |  ✔   |  11  |
+|  99  | [6098](https://www.codeup.kr/problem.php?id=6098&rid=0) |                [기초-리스트] 성실한 개미(py)                 |  ✔   |  ⭕   |
