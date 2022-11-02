@@ -181,7 +181,7 @@
 |  3   |   S3   |  15651   |    [N과 M (3)](https://www.acmicpc.net/problem/15651)    |  ✔   |      |         |
 |  4   |   S3   |  15652   |    [N과 M (4)](https://www.acmicpc.net/problem/15652)    |  ✔   |      | class 4 |
 |  5   |   G4   |   9663   |     [N-Queen](https://www.acmicpc.net/problem/9663)      |  ✔   |      | class 4 |
-|  6   |   G4   |   2580   |      [스도쿠](https://www.acmicpc.net/problem/2580)      |      |      | class 5 |
+|  6   |   G4   |   2580   |      [스도쿠](https://www.acmicpc.net/problem/2580)      |  ✔   |  ⭕   |         |
 |  7   |   S1   |  14888   | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) |  ✔   |      |         |
 |  8   |   S2   |  14889   |  [스타트와 링크](https://www.acmicpc.net/problem/14889)  |  ✔   |      |         |
 
