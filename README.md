@@ -243,11 +243,12 @@
 | :--: | :----: | :------: | :------------------------------------------------------: | :--: | :--: | :-----: |
 |  1   |   S4   |  18258   |      [큐 2](https://www.acmicpc.net/problem/18258)       |  ✔   |      |         |
 |  2   |   S4   |   2164   |      [카드2](https://www.acmicpc.net/problem/2164)       |  ✔   |  ⭕   | class 2 |
-|  3   |   S5   |  11866   | [요세푸스 문제 0](https://www.acmicpc.net/problem/11866) |  ✔   |      | class 2 |
-|  4   |   S3   |   1966   |    [프린터 큐](https://www.acmicpc.net/problem/1966)     |  ✔   |      | class 2 |
-|  5   |   S4   |  10866   |       [덱](https://www.acmicpc.net/problem/10866)        |  ✔   |      | class 2 |
-|  6   |   S3   |   1021   |   [회전하는 큐](https://www.acmicpc.net/problem/1021)    |  ✔   |  ⭕   |         |
-|  7   |   G5   |   5430   |        [AC](https://www.acmicpc.net/problem/5430)        |  ✔   |      | class 3 |
+|  3   |   S4   |  15828   |     [Router](https://www.acmicpc.net/problem/15828)      |  ✔   |      |         |
+|  4   |   S5   |  11866   | [요세푸스 문제 0](https://www.acmicpc.net/problem/11866) |  ✔   |      | class 2 |
+|  5   |   S3   |   1966   |    [프린터 큐](https://www.acmicpc.net/problem/1966)     |  ✔   |      | class 2 |
+|  6   |   S4   |  10866   |       [덱](https://www.acmicpc.net/problem/10866)        |  ✔   |      | class 2 |
+|  7   |   S3   |   1021   |   [회전하는 큐](https://www.acmicpc.net/problem/1021)    |  ✔   |  ⭕   |         |
+|  8   |   G5   |   5430   |        [AC](https://www.acmicpc.net/problem/5430)        |  ✔   |      | class 3 |
 
 ###### 정수론 및 조합론
 
