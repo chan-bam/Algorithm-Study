@@ -461,6 +461,7 @@
 |  7   |   S3   |  15664   |  [N과 N(10)](https://www.acmicpc.net/problem/15664)   |  ✔   |               백트래킹               |             🔺              |
 |  8   |   S2   |  15665   |   [N과M(11)](https://www.acmicpc.net/problem/15665)   |  ✔   |               백트래킹               |                            |
 |  9   |   S3   |   1004   |   [어린 왕자](https://www.acmicpc.net/problem/1004)   |  ✔   |                 기하                 |             🔺              |
+|  10  |   S5   |  10815   |  [숫자 카드](https://www.acmicpc.net/problem/10815)   |  ✔   |            정렬, 이분탐색            |                            |
 
 
 
