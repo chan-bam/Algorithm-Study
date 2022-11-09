@@ -463,6 +463,7 @@
 |  9   |   S3   |   1004   |   [어린 왕자](https://www.acmicpc.net/problem/1004)   |  ✔   |                 기하                 |             🔺              |
 |  10  |   S5   |  10815   |  [숫자 카드](https://www.acmicpc.net/problem/10815)   |  ✔   |            정렬, 이분탐색            |                            |
 |  11  |   S3   |  14425   | [문자열 집합](https://www.acmicpc.net/problem/14425)  |  ✔   |             문자열, 해시             |                            |
+|  12  |   S4   |   1269   |  [대칭차집합](https://www.acmicpc.net/problem/1269)   |  ✔   |               자료구조               |                            |
 
 
 
