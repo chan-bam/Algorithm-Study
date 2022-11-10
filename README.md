@@ -450,20 +450,21 @@
 
 ##### +
 
-| 연번 | 난이도 | 문제번호 |                         제목                          | 풀이 |                 분류                 |            참조            |
-| :--: | :----: | :------: | :---------------------------------------------------: | :--: | :----------------------------------: | :------------------------: |
-|  1   |   G5   |  14503   |  [로봇청소기](https://www.acmicpc.net/problem/14503)  |  ✔   |           구현, 시뮬레이션           |             ⭕              |
-|  2   |   G2   |   4991   |  [로봇청소기](https://www.acmicpc.net/problem/4991)   |  ✔   | 너비우선탐색, 브루트포스, 비트마스킹 | ⭕<br />(bfs, permutations) |
-|  3   |   G3   |   2146   |  [다리만들기](https://www.acmicpc.net/problem/2146)   |  ✔   |             너비우선탐색             |             ⭕              |
-|  4   |   G4   |   1922   | [네트워크 연결](https://www.acmicpc.net/problem/1922) |  ✔   |    그래프 이론, 최소 스패닝 트리     |                            |
-|  5   |   S3   |  15655   |   [N과 M(6)](https://www.acmicpc.net/problem/15655)   |  ✔   |               백트래킹               |             🔺              |
-|  6   |   S3   |  15656   |   [N과 M(7)](https://www.acmicpc.net/problem/15656)   |  ✔   |               백트래킹               |                            |
-|  7   |   S3   |  15664   |  [N과 N(10)](https://www.acmicpc.net/problem/15664)   |  ✔   |               백트래킹               |             🔺              |
-|  8   |   S2   |  15665   |   [N과M(11)](https://www.acmicpc.net/problem/15665)   |  ✔   |               백트래킹               |                            |
-|  9   |   S3   |   1004   |   [어린 왕자](https://www.acmicpc.net/problem/1004)   |  ✔   |                 기하                 |             🔺              |
-|  10  |   S5   |  10815   |  [숫자 카드](https://www.acmicpc.net/problem/10815)   |  ✔   |            정렬, 이분탐색            |                            |
-|  11  |   S3   |  14425   | [문자열 집합](https://www.acmicpc.net/problem/14425)  |  ✔   |             문자열, 해시             |                            |
-|  12  |   S4   |   1269   |  [대칭차집합](https://www.acmicpc.net/problem/1269)   |  ✔   |               자료구조               |                            |
+| 연번 | 난이도 | 문제번호 |                             제목                             | 풀이 |                 분류                 |            참조            |
+| :--: | :----: | :------: | :----------------------------------------------------------: | :--: | :----------------------------------: | :------------------------: |
+|  1   |   G5   |  14503   |     [로봇청소기](https://www.acmicpc.net/problem/14503)      |  ✔   |           구현, 시뮬레이션           |             ⭕              |
+|  2   |   G2   |   4991   |      [로봇청소기](https://www.acmicpc.net/problem/4991)      |  ✔   | 너비우선탐색, 브루트포스, 비트마스킹 | ⭕<br />(bfs, permutations) |
+|  3   |   G3   |   2146   |      [다리만들기](https://www.acmicpc.net/problem/2146)      |  ✔   |             너비우선탐색             |             ⭕              |
+|  4   |   G4   |   1922   |    [네트워크 연결](https://www.acmicpc.net/problem/1922)     |  ✔   |    그래프 이론, 최소 스패닝 트리     |                            |
+|  5   |   S3   |  15655   |      [N과 M(6)](https://www.acmicpc.net/problem/15655)       |  ✔   |               백트래킹               |             🔺              |
+|  6   |   S3   |  15656   |      [N과 M(7)](https://www.acmicpc.net/problem/15656)       |  ✔   |               백트래킹               |                            |
+|  7   |   S3   |  15664   |      [N과 N(10)](https://www.acmicpc.net/problem/15664)      |  ✔   |               백트래킹               |             🔺              |
+|  8   |   S2   |  15665   |      [N과M(11)](https://www.acmicpc.net/problem/15665)       |  ✔   |               백트래킹               |                            |
+|  9   |   S3   |   1004   |      [어린 왕자](https://www.acmicpc.net/problem/1004)       |  ✔   |                 기하                 |             🔺              |
+|  10  |   S5   |  10815   |      [숫자 카드](https://www.acmicpc.net/problem/10815)      |  ✔   |            정렬, 이분탐색            |                            |
+|  11  |   S3   |  14425   |     [문자열 집합](https://www.acmicpc.net/problem/14425)     |  ✔   |             문자열, 해시             |                            |
+|  12  |   S4   |   1269   |     [대칭 차집합](https://www.acmicpc.net/problem/1269)      |  ✔   |               자료구조               |                            |
+|  13  |   S3   |  11478   | [서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) |  ✔   |           자료구조, 문자열           |                            |
 
 
 
