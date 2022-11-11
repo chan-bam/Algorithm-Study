@@ -465,6 +465,7 @@
 |  11  |   S3   |  14425   |     [문자열 집합](https://www.acmicpc.net/problem/14425)     |  ✔   |             문자열, 해시             |                            |
 |  12  |   S4   |   1269   |     [대칭 차집합](https://www.acmicpc.net/problem/1269)      |  ✔   |               자료구조               |                            |
 |  13  |   S3   |  11478   | [서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) |  ✔   |           자료구조, 문자열           |                            |
+|  14  |   B1   |  24416   | [알고리즘 수업 - 피보나치 수 1](https://www.acmicpc.net/problem/24416) |  ✔   |               수학, DP               |                            |
 
 
 
