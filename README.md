@@ -468,6 +468,7 @@
 |  14  |   B1   |  24416   | [알고리즘 수업 - 피보나치 수 1](https://www.acmicpc.net/problem/24416) |  ✔   |               수학, DP               |                            |
 |  15  |   S2   |   9184   |   [신나는 함수 실행](https://www.acmicpc.net/problem/9184)   |  ✔   |               재귀, DP               |             ⭕              |
 |  16  |   S3   |   1904   |        [01타일](https://www.acmicpc.net/problem/1904)        |  ✔   |                  DP                  |             🔺              |
+|  17  |   S2   |   1912   |        [연속합](https://www.acmicpc.net/problem/1912)        |  ✔   |                  DP                  |             🔺              |
 
 
 
