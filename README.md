@@ -469,6 +469,7 @@
 |  15  |   S2   |   9184   |   [신나는 함수 실행](https://www.acmicpc.net/problem/9184)   |  ✔   |               재귀, DP               |             ⭕              |
 |  16  |   S3   |   1904   |        [01타일](https://www.acmicpc.net/problem/1904)        |  ✔   |                  DP                  |             🔺              |
 |  17  |   S2   |   1912   |        [연속합](https://www.acmicpc.net/problem/1912)        |  ✔   |                  DP                  |             🔺              |
+|  18  |   S1   |  10844   |    [쉬운 계단 수](https://www.acmicpc.net/problem/10844)     |  ✔   |                  DP                  |             ⭕              |
 
 
 
