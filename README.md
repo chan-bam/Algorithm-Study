@@ -471,6 +471,7 @@
 |  17  |   S2   |   1912   |        [연속합](https://www.acmicpc.net/problem/1912)        |  ✔   |                  DP                  |             🔺              |
 |  18  |   S1   |  10844   |    [쉬운 계단 수](https://www.acmicpc.net/problem/10844)     |  ✔   |                  DP                  |             ⭕              |
 |  19  |   S1   |   2156   |     [포도주 시식](https://www.acmicpc.net/problem/2156)      |  ✔   |                  DP                  |                            |
+|  20  |   S1   |  16139   | [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) |  ✔   |               누적 합                |                            |
 
 
 
